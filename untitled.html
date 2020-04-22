@@ -1,0 +1,22 @@
+<script type="text/javascript">
+  
+function onlyAlphabets() {
+
+  var regex = /^[a-zA-Z]*$/;
+  if (regex.test(document.RequestForm.r_f_name.value)) {
+
+      //document.getElementById("notification").innerHTML = "Watching.. Everything is Alphabet now";
+      return true;
+  } else {
+      document.getElementById("notification").innerHTML = "Alphabets Only";
+      return false;
+  }
+}
+
+</script>
+ 
+
+
+ .mobile-dropdown {
+    background: #07c597;
+}
