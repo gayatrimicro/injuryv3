@@ -172,7 +172,7 @@ include("header.php");
                            <div class="slider1">
                               <picture>
                                  <source srcset="assets/images/homepage-hero-mobile-worker-slip-man.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/home_background-workers-slip.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                                 <img src="assets/images/slider-demand.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content ">
                                 
@@ -188,7 +188,7 @@ include("header.php");
                            <div class="slider1">
                               <picture>
                                  <source srcset="assets/images/homepage-hero-mobile-car.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/home_background-car-girl.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                                 <img src="assets/images/slider-chronic.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <!-- <img src="assets/images/home_background-car-girl.jpg" class="full" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;"/> -->
                               <div class="header-content ">
@@ -204,7 +204,7 @@ include("header.php");
                            <div class="slider1">
                               <picture>
                                  <source srcset="assets/images/homepage-hero-mobile-troma.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/home_background-troma.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                                 <img src="assets/images/slider-acute.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content ">
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Acute Joint Pain?</h3>
@@ -218,7 +218,7 @@ include("header.php");
                            <div class="slider1">
                               <picture>
                                  <source srcset="assets/images/homepage-hero-mobile-worker-slip-man.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/home_background-workers-slip.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                                 <img src="assets/images/slider-comfert.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content ">
                                 
@@ -233,8 +233,8 @@ include("header.php");
                         <div class="item">
                            <div class="slider1">
                               <picture>
-                                 <source srcset="assets/images/homepage-hero-mobile-car.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/home_background-car-girl.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                                 <source srcset="assets/images/homepage-hero-mobile-worker-slip-man.jpg" media="(max-width: 600px)">
+                                 <img src="assets/images/home_background-workers-slip.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content ">
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Injured?</h3>
@@ -248,7 +248,7 @@ include("header.php");
                            <div class="slider1">
                               <picture>
                                  <source srcset="assets/images/homepage-hero-mobile-troma.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/home_background-troma.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                                 <img src="assets/images/slider-transparent-cost.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content ">
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Transparent Costs and Exceptional Care</h3>
@@ -263,7 +263,7 @@ include("header.php");
                            <div class="slider1">
                               <picture>
                                  <source srcset="assets/images/homepage-hero-mobile-troma.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/home_background-troma.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                                 <img src="assets/images/slider-second-opinion.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content ">
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Need a Second Opinion?</h3>
@@ -630,8 +630,8 @@ After the physician has diagnosed the issue, our care coordinator will review in
                             <blockquote>
                                 <div class="row">
                                     <div class="col-sm-8 col-sm-offset-2">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. !</p>
-                                        <small>Someone famous</small>
+                                        <p>"My visit at Specialty Care Clinics was a very restful and peaceful experience."</p>
+                                        <small> LUCILLE</small>
                                     </div>
                                 </div>
                             </blockquote>
@@ -641,8 +641,8 @@ After the physician has diagnosed the issue, our care coordinator will review in
                             <blockquote>
                                 <div class="row">
                                     <div class="col-sm-8 col-sm-offset-2">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. </p>
-                                        <small>Someone famous</small>
+                                        <p>"The Medical staff receives high recommendations from patients and has great care and concern for the patients. Everyone worked together and demonstrated team work. Attitude and work performance of staff was awesome."</p>
+                                        <small> KATHERYN</small>
                                     </div>
                                 </div>
                             </blockquote>
@@ -652,8 +652,19 @@ After the physician has diagnosed the issue, our care coordinator will review in
                             <blockquote>
                                 <div class="row">
                                     <div class="col-sm-8 col-sm-offset-2">
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. .</p>
-                                        <small>Someone famous</small>
+                                        <p>"The courtesy of the workers and the outpatient nurses was awesome."</p>
+                                        <small> HICKS</small>
+                                    </div>
+                                </div>
+                            </blockquote>
+                        </div>
+                        <!-- Quote 4 -->
+                        <div class="item">
+                            <blockquote>
+                                <div class="row">
+                                    <div class="col-sm-8 col-sm-offset-2">
+                                        <p>"The staff was amazing, the nurses were great."</p>
+                                        <small> TINA</small>
                                     </div>
                                 </div>
                             </blockquote>
@@ -666,6 +677,8 @@ After the physician has diagnosed the issue, our care coordinator will review in
                         <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg" alt="">
                         </li>
                         <li data-target="#quote-carousel" data-slide-to="2"><img class="img-responsive" src="https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg" alt="">
+                        </li>
+                        <li data-target="#quote-carousel" data-slide-to="1"><img class="img-responsive" src="https://s3.amazonaws.com/uifaces/faces/twitter/adhamdannaway/128.jpg" alt="">
                         </li>
                     </ol>
 
