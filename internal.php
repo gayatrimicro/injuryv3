@@ -157,26 +157,18 @@ include("header.php");
          
 <picture>
   <source srcset="assets/images/homepage-hero-mobile-car.jpg" media="(max-width: 600px)">
-  <img src="assets/images/home_background-car-girl.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;height: 400px;">
+  <img src="assets/images/home_background-car-girl.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
 
              </picture>
 
-             <!-- <h2 style="position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);">demon</h2> -->
-
 <div class="header-content ">
-            <!-- <h3 class="c-main-title c-font-72 c-font-50 c-font-bold c-font-uppercase c-font-white c-center">One stop <span class="c-font-yellow-4">TELE SOLUTION </span></h3> -->
-
-            <!-- <h3 class="c-main-title c-font-72 c-font-50  c-font-bold c-font-uppercase c-font-white c-center">Injured at work ?</h3> -->
-
-              <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center" style="text-align: center;">Injured at work ?</h3>
             
-            <!-- <div class="buy-button" style="display:block;"> -->
 
-             <!-- <a href="tel:(469) 581-0084" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Call us at (469) 581-0084 </a>  -->
-
-           <!-- <a href="tel:tel:(469) 581-0084" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin desk-margin-custom custom-btn-new">Call us at (469) 581-0084</a> -->
-
-            <!-- </div> -->
+              <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center" style="text-align: center;font-weight: 100;">Revolutionizing Care<br><strong>Through Telehealth</strong></h3>
+               <p class="text-left mobile-para-padding"> 
+                <a href="#" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>
+            </p>
+            
           </div>
 
 
@@ -190,127 +182,16 @@ include("header.php");
 </section>
 
 
-
-
-
-<!-- <section id="demos">
-      <div class="row">
-        <div class="large-12 columns">
-          <div class="owl-carousel">
-
-
-            <div class="item">
-             <div class="slider1">
-
-             
-
-             <picture>
-  <source srcset="assets/images/mob-home-tele.jpg" media="(max-width: 600px)">
-  
-  <img src="assets/images/home_background-couple.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
-</picture>
-
-
-
-
-
-
-
-               <div class="header-content ">
-
-            <h3 class="c-main-title c-font-72 c-font-50 c-font-bold c-font-uppercase c-font-white c-center">One stop <span class="c-font-yellow-4">TELE SOLUTION </span></h3>
-
-            <h3 class="c-main-title c-font-72 c-font-50  c-font-bold c-font-uppercase c-font-white c-center"> for all your injury needs</h3>
-            
-            <div class="buy-button" style="display:block;"> <a href="javascript:void(0);" data-toggle="modal" data-target="#myModal" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin"> Learn more </a> </div>
-          </div>
-             </div>
-            </div>
-
-
-            
-
-            <div class="item">
-              <div class="slider1">
-               <img src="assets/images/home_background-couple.jpg" class="full" />
-               <div class="header-content ">
-            <h3 class="c-main-title c-font-72 c-font-50 c-font-bold c-font-uppercase c-font-white c-center">Eliminate the costs of drugs, doctor visits, or unnecessary procedures <span class="c-font-yellow-4">via TELE HEALTH</span></h3>
-            <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center"></h3>
-            
-            <div class="buy-button" style="display:block;"> <a href="javascript:void(0);" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin"> Learn more </a> </div>
-              </div>
-             </div> 
-            </div>
-
-
-
-            <div class="item">
-             <div class="slider1">
-
-
-              
-
-
-           
-              <picture>
-  <source srcset="assets/images/mob-home-lady.jpg" media="(max-width: 600px)">
-  <img src="assets/images/home_background-couple.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
-</picture>
-
-
-
-
-
-
-               <div class="header-content ">
-
-            <h3 class="c-main-title c-font-72 c-font-50 c-font-bold c-font-uppercase c-font-white c-center"> Reduce Your medical costs of back pain<br/><span class="c-font-yellow-4 c-font-uppercase text-big"> </span></h3>
-
-            <h3 class="c-main-title c-font-72 c-font-50 c-font-bold c-font-uppercase c-font-white c-center"> check our  <span class="c-font-yellow-4 c-font-uppercase text-big">Tele spine </span>program</h3>
-            
-            <div class="buy-button" style="display:block;"> <a href="javascript:void(0);" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin"> Learn more </a> </div>
-          </div>
-             </div>
-            </div>
-
-
-          </div>
-        </div>
-        </div>
-      </section> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
 <section id="whyus" class="c-margin" style="background-color: #e6e6e5 !important; z-index: 1000;position: relative;"> 
     <div id="desk" class="c-content-box c-size-md">
       <div class="container">
         <div class="col-md-12">
           <div class=""></div>
-         <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline c-center">Your Recovery is Our Priority</h3>
+         <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline c-center"> The Best Online Orthopedic Telemedicine Service!</h3>
          <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
-         From auto injuries to workman’s comp,<span class="d-d-block"> we treat it all.</span>
+         We Specialize in Immediate Pain Relief of the Neck, Back, Shoulder, Arm, Elbow, Wrist, Hand, Hip, Leg, Knee, Ankle, and Foot</span>
          </h1>
+        
         </div>
         <!-- <div class="col-md-6">
           <p class="custom-fonts mobile-para-padding">
@@ -355,96 +236,6 @@ include("header.php");
 
 
 
- <!--  <section id="process" style="
-    z-index: 1000;
-    position: relative;">
-    <div class="c-content-box c-size-md mobile-bottom" id="injured" style="background-color:#faf7f2;">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="c-content-title-1 c-margin-b-60">
-              <h3 class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Injured ? </h3>
-              <div class="c-root-unserline-left">
-                <div class="c-underline"></div>
-              </div>
-              <h4 class="sub-heading"> Here is what to do... </h4>
-            </div>
-          </div>
-        </div>
-        <div class="c-content-counter-1 c-opt-1">
-          <div class="row ">
-            <div class="col-md-4 margin-bottom">
-              <div class="er">
-                <div class="c-counter c-font-bold ">01</div>
-              </div>
-              <p class="c-content sm-text-center text-center custom-fonts custom-call"> Call Us at </p>
-
-                <a hreflang="en" href="tel:(469) 581-0084" class="links cta-secondary"> (469) 581-0084 </a>
-
-                <p class="c-content sm-text-center text-center custom-fonts custom-call margin-bottom margin-top">
-                  You will get connected to our Care Coordinator who will confirm information and review injury as well as collect past medical history.
-                </p>
-              
-            </div>
-            <div class="col-md-4">
-              <div class="er">
-                <div class="c-counter c-font-bold">02</div>
-              </div>
-              <p class="c-content sm-text-center text-center custom-fonts lines">One of our representatives will connect you with our medical team.</p>
-
-            
-              <p class="c-content sm-text-center text-center custom-fonts margin-bottom c-margin-b-40 c-margin-b-20 c-margin-t-10">
-                 Receive care from home, office or wherever.
-Care coordinator will connect you to physician/specialist who shall review your injury, conduct a physical exam, assess and diagnose the issue and implement a treatment plan 
-              </p>
-
-
-
-
-
-
-
-
-
-
-
-            </div>
-            <div class="col-md-4">
-              <div class="er">
-                <div class="c-counter c-font-bold">03</div>
-              </div>
-              <p class="c-content sm-text-center text-center custom-fonts lines-two">Get back in shape - Get back to life.</p>
-
-<p class="c-content sm-text-center text-center custom-fonts margin-bottom">
-                 
-After the physician has diagnosed the issue, our care coordinator will review instructions, schedule follow-up visits if necessary and send a secure email with visit summary and follow-ups.
-</p>
-
-
-
-
-
-            </div>
-
-
-<div class="visit-button-holder">
-<a href="tel:(469) 581-0084" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder">Start a visit</a>
-</div>
-
-
-          </div>
-
-
-
-        </div>
-      </div>
-    </div>
-
-  </section>
- -->
-
-
-
 <section id="whyus-new" style="z-index: 1000;position: relative;"> 
     <div id="desk-one" class="c-bg-white">
       <div class="container">
@@ -455,15 +246,15 @@ After the physician has diagnosed the issue, our care coordinator will review in
 
         <div class="col-md-6 padding-custom mobile-space">
           <div class="c-margin-b-40 c-margin-t-50">
-          <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile double-para">Getting injured the care they need, when they need it.</h1>
+          <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile double-para">Be Seen by a Surgeon at YOUR Convenience, and Get Answers NOW!</h1>
         </div>
           <p class="custom-fonts mobile-para-padding double-mobile">
-            We place injured at the heart of everything we do. We utilize creative and innovative solutions to timely and efficiently connect injured patients with quality providers and specialists.
+           Injury Live provides all patients with a convenient, secure and clinically informative encounter with one of our Tele-Orthopedic specialists. Our remote providers manage musculoskeletal injuries, and chronic bone and joint conditions by means of telemedicine. Our physical exam is supported by imaging and telehealth peripherals that allow our Tele-Orthopedic experts to treat a wide variety of symptoms. You will receive a diagnosis, advice, physical therapy and prescription order for select medications and braces, as your doctor deems necessary.
           </p>
            
-          <p class="custom-fonts mobile-para-padding double-mobile">
+          <!-- <p class="custom-fonts mobile-para-padding double-mobile">
             <p class="custom-fonts mobile-para-padding double-mobile">Depending on the type of injury, we have a team of multi-specialty group that combines <span class="italic"><i class="italic">orthopedic</i></span>, <i class="italic">neuro-spine</i>, <i class="italic">psychiatrists</i>, <i class="italic" >psychologists</i> and doctors who work with a complete neurology team all in one location. </p>
-          </p>
+          </p> -->
 
           <div class="c-margin-b-10 c-margin-t-20 custom-flex">
 
@@ -496,18 +287,15 @@ After the physician has diagnosed the issue, our care coordinator will review in
         
 
           <div class="c-margin-b-40 c-margin-b-20 c-margin-t-0">
-              <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile">Tele-Medicine</h1>
+              <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile">Physical Therapy</h1>
           </div>
 
 
            <div class="pa custom-fonts">
-            <p class="custom-fonts mobile-para-padding">We empower clients with advanced <i class="italic">tele-medicine</i> technology and support services that increase access to care, improve the quality and effectiveness of medical interactions, reduce professional liability claims and related costs and increase revenue.
-            </p>
-
-            <p class="custom-fonts mobile-para-padding">Let us know if you’ve been in an accident or otherwise injured, and our experienced team can help.</p>
+            <p class="custom-fonts mobile-para-padding">Injury Live provides all patients with a convenient, secure and clinically informative encounter with our Physical Therapy team. Our remote therapists manage the rehabilitation of injuries and conditions by means of telemedicine. Our therapy program is supported by partnering with on-site medical staff to help patients hit program goals, as outlined by their physician orders.</p>
             
             <p class="text-left mobile-para-padding"> 
-                <a href="tel:(469) 581-0084" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at (469) 581-0084</a>
+                <a href="tel:(972) 865-4454" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at (972) 865-4454</a>
             </p>
           </div>
 
@@ -558,7 +346,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
           <div class="c-media"> 
            <p class="c-font-black m-0"><span class="footer-para">E-mail :</span> <a href="mailto:info@texasspecialtyclinic.com" class="links cta-secondary footer-links">info@texasspecialtyclinic.com</a></p>
            <br/>
-           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:(469) 581-0084" class="links cta-secondary footer-links"> (469) 581-0084</a></p>
+           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:(972) 865-4454" class="links cta-secondary footer-links"> (972) 865-4454</a></p>
            <br/>
            <p class="c-font-black m-0"><span class="footer-para">Fax : (888) 900-4530</span></p>
           </div>

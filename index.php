@@ -177,10 +177,10 @@ include("header.php");
                               <div class="header-content ">
                                 
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Online and On-Demand Orthopedic Care</h3>
-                                 <div class="buy-button" style="display:block;">
+                                 <!-- <div class="buy-button" style="display:block;">
                                     <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Be Seen by a Surgeon at YOUR Convenience, and Get Answers NOW!Previous</a> 
                                    
-                                 </div>
+                                 </div> -->
                               </div>
                            </div>
                         </div>
@@ -194,9 +194,9 @@ include("header.php");
                               <div class="header-content ">
                                  <!-- <h3 class="c-main-title c-font-72 c-font-50 c-font-bold c-font-uppercase c-font-white c-center">Eliminate the costs of drugs, doctor visits, or unnecessary procedures <span class="c-font-yellow-4">via TELE HEALTH</span></h3> -->
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Chronic Joint Pain?</h3>
-                                 <div class="buy-button" style="display:block;">
-                                    <a href="tel:(469) 581-0084" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you have arthritis </a> 
-                                 </div>
+                                 <!-- <div class="buy-button" style="display:block;">
+                                    <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you have arthritis </a> 
+                                 </div> -->
                               </div>
                            </div>
                         </div>
@@ -208,9 +208,9 @@ include("header.php");
                               </picture>
                               <div class="header-content ">
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Acute Joint Pain?</h3>
-                                 <div class="buy-button" style="display:block;">
-                                    <a href="tel:(469) 581-0084" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you have a sprain, strain or tendonitis </a> 
-                                 </div>
+                                 <!-- <div class="buy-button" style="display:block;">
+                                    <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you have a sprain, strain or tendonitis </a> 
+                                 </div> -->
                               </div>
                            </div>
                         </div>
@@ -223,10 +223,10 @@ include("header.php");
                               <div class="header-content ">
                                 
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Care from the Comfort of Home</h3>
-                                 <div class="buy-button" style="display:block;">
+                                 <!-- <div class="buy-button" style="display:block;">
                                     <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Our Virtual Diagnostic Clinic uses a patent-pending form of video telvideounication</a> 
                                    
-                                 </div>
+                                 </div> -->
                               </div>
                            </div>
                         </div>
@@ -238,9 +238,9 @@ include("header.php");
                               </picture>
                               <div class="header-content ">
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Injured?</h3>
-                                 <div class="buy-button" style="display:block;">
-                                    <a href="tel:(469) 581-0084" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you need to go to the ER</a> 
-                                 </div>
+                                 <!-- <div class="buy-button" style="display:block;">
+                                    <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you need to go to the ER</a> 
+                                 </div> -->
                               </div>
                            </div>
                         </div>
@@ -252,9 +252,9 @@ include("header.php");
                               </picture>
                               <div class="header-content ">
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Transparent Costs and Exceptional Care</h3>
-                                 <div class="buy-button" style="display:block;">
-                                    <a href="tel:(469) 581-0084" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">No referral? No insurance? No problem! Our team of US trained Orthopedic Surgeons<br> have years of experience in their respective fieldsPrevious</a> 
-                                 </div>
+                                 <!-- <div class="buy-button" style="display:block;">
+                                    <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">No referral? No insurance? No problem! Our team of US trained Orthopedic Surgeons<br> have years of experience in their respective fieldsPrevious</a> 
+                                 </div> -->
                               </div>
                            </div>
                         </div>
@@ -267,9 +267,9 @@ include("header.php");
                               </picture>
                               <div class="header-content ">
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Need a Second Opinion?</h3>
-                                 <div class="buy-button" style="display:block;">
-                                    <a href="tel:(469) 581-0084" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">We will thoroughly review your medical record and imaging reports and<br> offer a non-biased second opinion and treatment recommendations</a> 
-                                 </div>
+                                 <!-- <div class="buy-button" style="display:block;">
+                                    <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">We will thoroughly review your medical record and imaging reports and<br> offer a non-biased second opinion and treatment recommendations</a> 
+                                 </div> -->
                               </div>
                            </div>
                         </div>
@@ -475,7 +475,7 @@ include("header.php");
               </div>
               <p class="c-content sm-text-center text-center custom-fonts custom-call"> Call Us at </p>
 
-                <a hreflang="en" href="tel:(469) 581-0084" class="links cta-secondary"> (469) 581-0084 </a>
+                <a hreflang="en" href="tel:(972) 865-4454" class="links cta-secondary"> (972) 865-4454 </a>
 
                 <p class="c-content sm-text-center text-center custom-fonts custom-call margin-bottom margin-top">
                   You will get connected to our Care Coordinator who will confirm information and review injury as well as collect past medical history.
@@ -525,7 +525,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
 
 
 <div class="visit-button-holder">
-<a href="tel:(469) 581-0084" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder">Start a visit</a>
+<a href="tel:(972) 865-4454" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder">Start a visit</a>
 </div>
 
 
@@ -604,7 +604,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
             <p class="custom-fonts mobile-para-padding">Let us know if you’ve been in an accident or otherwise injured, and our experienced team can help.</p>
             
             <p class="text-left mobile-para-padding"> 
-                <a href="tel:(469) 581-0084" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at (469) 581-0084</a>
+                <a href="tel:(972) 865-4454" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at (972) 865-4454</a>
             </p>
           </div>
 

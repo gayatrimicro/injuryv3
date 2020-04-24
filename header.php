@@ -53,7 +53,7 @@
 
            <li class="c-onepage-link show show-mobile-three"> <a href="#" class="c-link">Employers</a>
              
-             <ul class="child-dropdown"> 
+             <!-- <ul class="child-dropdown"> 
                 <li class="child-li"><a href="javascript:void(0);" class="links-dropdown" hreflang="en"><span class="tele">Workers compensation</span></a></li>
                 <li class="child-li"><a href="javascript:void(0);" class="links-dropdown"><span class="tele">Self-funded</span></a></li>
               </ul>
@@ -61,7 +61,7 @@
               <ul class="mobile-dropdown-three"> 
                 <li class="child-li"><a href="javascript:void(0);" class="links-dropdown mobile-links" hreflang="en">Workers compensation</a></li>
                 <li class="child-li"><a href="javascript:void(0);" class="links-dropdown mobile-links">Self-funded</a></li>
-              </ul>
+              </ul> -->
 
            </li>
 

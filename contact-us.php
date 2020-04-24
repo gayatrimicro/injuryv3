@@ -169,9 +169,9 @@ include("header.php");
             
             <!-- <div class="buy-button" style="display:block;"> -->
 
-             <!-- <a href="tel:(469) 581-0084" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Call us at (469) 581-0084 </a>  -->
+             <!-- <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Call us at (972) 865-4454 </a>  -->
 
-           <!-- <a href="tel:tel:(469) 581-0084" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin desk-margin-custom custom-btn-new">Call us at (469) 581-0084</a> -->
+           <!-- <a href="tel:tel:(972) 865-4454" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin desk-margin-custom custom-btn-new">Call us at (972) 865-4454</a> -->
 
             <!-- </div> -->
           </div>
@@ -360,7 +360,7 @@ include("header.php");
           <div class="c-media"> 
            <p class="c-font-black m-0"><span class="footer-para">E-mail :</span> <a href="mailto:info@texasspecialtyclinic.com" class="links cta-secondary footer-links">info@texasspecialtyclinic.com</a></p>
            <br/>
-           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:(469) 581-0084" class="links cta-secondary footer-links"> (469) 581-0084</a></p>
+           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:(972) 865-4454" class="links cta-secondary footer-links"> (972) 865-4454</a></p>
            <br/>
            <p class="c-font-black m-0"><span class="footer-para">Fax : (888) 900-4530</span></p>
           </div>

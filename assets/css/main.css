@@ -108,12 +108,21 @@ body{
 .c-font-50 {
     font-size: 50px;
 }
-.header-content {
+/*.header-content {
     padding: 17% 6%;
     z-index: 9;
     position: fixed;
     top: -50px;
     font-family: 'Montserrat', sans-serif;
+}*/
+.header-content {
+    /*padding: 17% 6%; */
+    z-index: 9;
+    position: absolute;
+    top: 50%;
+    font-family: 'Montserrat', sans-serif;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 .child-dropdown{
     display: grid;
