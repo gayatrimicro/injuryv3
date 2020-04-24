@@ -73,119 +73,9 @@
 
 <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-fullscreen"> 
 
-<header class="c-layout-header c-layout-header-onepage c-layout-header-default c-layout-header-dark-mobile c-header-transparent-dark" id="home" data-minimize-offset="0">
-  <div class="c-navbar">
-    <div class="container-fluid"> 
-      <div class="c-navbar-wrapper clearfix">
-        <div class="c-brand c-pull-left"> 
-          <a href="#" class="c-logo"> 
-            <img src="assets/images/company_logo 2.png" alt="Logo" class="c-desktop-logo"> 
-            <img src="assets/images/company_logo 2.png" alt="Logo" class="c-desktop-logo-inverse"> 
-            <img src="assets/images/company_logo 2.png" alt="Logo" class="c-mobile-logo"> 
-          </a>
-          <button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu"> 
-            <span class="c-line"></span> 
-            <span class="c-line"></span> 
-            <span class="c-line"></span> 
-          </button>
-        </div>
-
-        <nav class="c-mega-menu c-mega-menu-onepage c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold" data-onepage-animation-speed="300">
-          <ul class="nav navbar-nav c-theme-nav">
-
-            <li class="c-onepage-link active c-active"> <a href="#" class="c-link">Home</a> </li>
-
-           <li class="c-onepage-link show show-mobile"><a href="#" class="c-link">Solutions</a> 
-
-              <ul class="child-dropdown">
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown" hreflang="en"><span class="tele">Orthopedics</span></a></li>
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown" hreflang="en"><span class="tele">Spine</span></a></li>
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown"><span class="tele">Injury and Pain</span></a></li>
-              </ul>
-
-              <ul class="mobile-dropdown">
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown mobile-links" hreflang="en">Orthopedics</a></li>
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown mobile-links" hreflang="en">Spine</a></li>
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown mobile-links">Injury and Pain</a></li>
-              </ul>
-
-            </li>
-
-            <li class="c-onepage-link active c-active"> <a href="#" class="c-link">Second Opinion</a> </li>
-         
-
-  <!-- <li class="c-onepage-link show show-mobile-two"> <a href="#" class="c-link">Services</a>
-              <ul class="child-dropdown"> 
-  <li class="child-li"><a href="javascript:void(0);" class="links-dropdown" hreflang="en"><span class="tele">Skilled Nursing Facility</span></a></li>
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown"><span class="tele">Emergency Response Management</span></a></li>
-              </ul>
-
-              <ul class="mobile-dropdown-two"> 
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown mobile-links" hreflang="en">Skilled Nursing Facility</a></li>
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown mobile-links">Emergency Response<br/>Management</a></li>
-              </ul>
-  </li> -->
-
-           <li class="c-onepage-link show show-mobile-three"> <a href="#" class="c-link">Employers</a>
-             
-             <ul class="child-dropdown"> 
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown" hreflang="en"><span class="tele">Workers compensation</span></a></li>
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown"><span class="tele">Self-funded</span></a></li>
-              </ul>
-
-              <ul class="mobile-dropdown-three"> 
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown mobile-links" hreflang="en">Workers compensation</a></li>
-                <li class="child-li"><a href="javascript:void(0);" class="links-dropdown mobile-links">Self-funded</a></li>
-              </ul>
-
-           </li>
-
-
-           <!-- <li class="c-onepage-link show"> <a href="#" class="c-link">Providers</a></li> -->
-           <!-- <li class="c-onepage-link show"> <a href="#" class="c-link">Attorney</a></li> -->
-           <li> <a href="tel:(972) 865-4454" ref="" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg btn-new c-btn-border-1x c-btn-dark c-btn-circle c-btn-uppercase c-btn-sbold"><i class="fa fa-phone" aria-hidden="true"></i>(972) 865-4454</a> </li>
-          </ul>
-        </nav>
-        
-        <!-- END: MEGA MENU --> 
-
-<script type="text/javascript">
-  /*prabhat pandit jquery code */
-  $(document).ready(function(){
-    $(".show-mobile").click(function(){
-    $(".mobile-dropdown").toggleClass("mobile-visible");
-    $(".mobile-links").addClass("links-dropdown-mobile");
-    });
-
-    $(".show-mobile-two").click(function(){
-    $(".mobile-dropdown-two").toggleClass("mobile-visible");
-    $(".mobile-links").addClass("links-dropdown-mobile");
-    });
-
-    $(".show-mobile-three").click(function(){
-    $(".mobile-dropdown-three").toggleClass("mobile-visible");
-    $(".mobile-links").addClass("links-dropdown-mobile");
-    });
-  });
-$(document).ready(function(){
-  $(".c-onepage-link").hover(function(){
-    $(this).find(".child-dropdown").addClass("shownow");
-    }, function(){
-     $(this).find(".child-dropdown").removeClass("shownow");
-  });
-});
-</script>
-        
-</div>
-</div>
-</div>
-
-
-
-
-
-</header>
-
+<?php
+include("header.php");
+?>
 
 
 
@@ -259,7 +149,7 @@ $(document).ready(function(){
    <div class="container new-container">
      
       <div class="row">
-        <div class="col-md-12 col-sm-6 new-cols" style="position: relative;">
+        <div class="col-md-12 col-sm-6 new-cols" style="position: relative;padding: 0px">
 
          
 <picture>
@@ -481,76 +371,9 @@ $(document).ready(function(){
   </section> -->
 
 
-  <section id="footer" style="
-    z-index: 1000;
-    position: relative;">
-    <footer class="global-footer">
-      <div class="grid-container -layout-wide">
-        <div class="global-footer__container res-text-center">
-          <nav class="global-footer-info-links">
-            <ul class="global-footer-info-links__list">
-              <li class="global-footer-info-links__list-item">
-                <ul class="global-footer-sublist">
-                  <li class="global-footer-sublist__item-title"> T&amp;C </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Terms</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Privacy Policy</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Disclaimer</a> </li>
-                 
-                </ul>
-              </li>
-              <li class="global-footer-info-links__list-item">
-                <ul class="global-footer-sublist">
-                  <li class="global-footer-sublist__item-title">  Content</li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Solution</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Services</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Employers</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Providers</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Attorney</a> </li>
-                 
-                </ul>
-              </li>
-              <li class="global-footer-info-links__list-item">
-                <ul class="global-footer-sublist">
-                  <li class="global-footer-sublist__item-title"> <span class="is-hidden-phone">Help</span></li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">FAQS</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Resources</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Complaints &amp; Escalations</a> </li>
-                  
-                </ul>
-              </li>
-            </ul>
-          </nav>
-          <div class="global-footer-stats"> <img class="global-footer-stats__logo res-mar-center" alt="" src="assets/images/company_logo-white.png">
-            <ul class="global-footer-stats__list res-mar-center">
-              <li class="global-footer-stats__list-item h-p0 text-center"> <span class="global-footer-stats__number">302,051</span> <span style="color: #08c597;">Injured assisted</span> </li>
-            </ul>
-          </div>
-        </div>
-        <hr class="global-footer__separator">
-        <div class="global-footer__container">
-          <div class="global-footer-company-links">
-            <ul class="global-footer-company-links__list">
-              <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">About us</a> </li>
-              <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">Careers</a> </li>
-             
-              <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">Sitemap</a> </li>
-            </ul>
-            <small class="global-footer-company-links__copyright"> © 2020 InjuryLIVE. All rights reserved. </small> </div>
-          <div class="global-footer-social">
-             <ul class="res-mar-center">
-              
-              <li class="global-footer-social__list-item"> <a class="global-footer__icon-link" rel="nofollow" href="javascript:void(0);"> <img class="global-footer-social__icon" alt="Facebook" title="Facebook" src="assets/images/facebook.svg"> </a> </li>
-
-              <li class="global-footer-social__list-item"> <a class="global-footer__icon-link" rel="nofollow" href="javascript:void(0);"> <img class="global-footer-social__icon" alt="Instagram" title="Instagram" src="assets/images/instagram.svg"> </a> </li>
-
-             
-            </ul>
-          </div>
-        </div>
-      </div>
-    </footer>
-  </section>
-  <!-- END: PAGE CONTENT --> 
+  <?php
+include("footer.php");
+?>
   
 </div>
 
