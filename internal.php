@@ -262,17 +262,14 @@ include("header.php");
           <p class="custom-fonts mobile-para-padding double-mobile">
            Injury Live provides all patients with a convenient, secure and clinically informative encounter with one of our Tele-Orthopedic specialists. Our remote providers manage musculoskeletal injuries, and chronic bone and joint conditions by means of telemedicine. Our physical exam is supported by imaging and telehealth peripherals that allow our Tele-Orthopedic experts to treat a wide variety of symptoms. You will receive a diagnosis, advice, physical therapy and prescription order for select medications and braces, as your doctor deems necessary.
           </p>
-           
+           <p class="text-left mobile-para-padding"> 
+                <a href="#" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>
+            </p>
           <!-- <p class="custom-fonts mobile-para-padding double-mobile">
             <p class="custom-fonts mobile-para-padding double-mobile">Depending on the type of injury, we have a team of multi-specialty group that combines <span class="italic"><i class="italic">orthopedic</i></span>, <i class="italic">neuro-spine</i>, <i class="italic">psychiatrists</i>, <i class="italic" >psychologists</i> and doctors who work with a complete neurology team all in one location. </p>
           </p> -->
 
-          <div class="c-margin-b-10 c-margin-t-20 custom-flex">
-
-          <a href="javascript:void(0);" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Learn more </a>
-
-
-          </div>
+          
         </div>
       </div>
       
