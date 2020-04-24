@@ -36,7 +36,7 @@
 
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-<title>Injury Live</title>
+<title>Orthopedic Telemedicine | Injury Live</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -70,7 +70,18 @@
    document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lato:n3,n4:default.js" type="text/javascript">\x3C/script>');
 </script>
 
-
+<style type="text/css">
+  #desk {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.bigger-font-medium {
+    font-size: 30px;
+    letter-spacing: -.08333rem;
+    margin-bottom: 1.11111rem;
+    color: #3b3f48;
+}
+</style>
 </head>
 
 <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-fullscreen"> 
@@ -156,8 +167,8 @@ include("header.php");
 
          
 <picture>
-  <source srcset="assets/images/homepage-hero-mobile-car.jpg" media="(max-width: 600px)">
-  <img src="assets/images/home_background-car-girl.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+  <source srcset="assets/images/mob-orthopedic-telemedicine.jpg" media="(max-width: 600px)">
+  <img src="assets/images/orthopedic-telemedicine.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
 
              </picture>
 
@@ -278,7 +289,7 @@ include("header.php");
         <div class="row custom-row">
         <div class="col-md-6 col-lg-6 col-sm-12">
          <div class="section-images">
-           <img src="assets/images/about_011.png" class="img-responsive custom-responsive images-small" alt="image failed to load, Error"/>
+           <img src="assets/images/orthotherapy.jpg" class="img-responsive custom-responsive" alt="image failed to load, Error"/>
          </div>
         </div>
         <div class="col-md-6 col-lg-6 col-sm-12 media-margin mobile-margin">

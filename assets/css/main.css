@@ -119,10 +119,10 @@ body{
     /*padding: 17% 6%; */
     z-index: 9;
     position: absolute;
-    top: 50%;
+    top: 50% !important;
     font-family: 'Montserrat', sans-serif;
-    left: 50%;
-    transform: translate(-50%, -50%);
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
 }
 .child-dropdown{
     display: grid;

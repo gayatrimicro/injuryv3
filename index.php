@@ -76,7 +76,7 @@
     /*padding: 17% 6%; */
     z-index: 9;
     position: absolute;
-    top: 50%;
+    top: 50% !important;
     font-family: 'Montserrat', sans-serif;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -171,7 +171,7 @@ include("header.php");
                         <div class="item">
                            <div class="slider1">
                               <picture>
-                                 <source srcset="assets/images/homepage-hero-mobile-worker-slip-man.jpg" media="(max-width: 600px)">
+                                 <source srcset="assets/images/mob-slider-demand.jpg" media="(max-width: 600px)">
                                  <img src="assets/images/slider-demand.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content ">
@@ -187,7 +187,7 @@ include("header.php");
                         <div class="item">
                            <div class="slider1">
                               <picture>
-                                 <source srcset="assets/images/homepage-hero-mobile-car.jpg" media="(max-width: 600px)">
+                                 <source srcset="assets/images/mob-slider-chronic.jpg" media="(max-width: 600px)">
                                  <img src="assets/images/slider-chronic.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <!-- <img src="assets/images/home_background-car-girl.jpg" class="full" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;"/> -->
@@ -203,7 +203,7 @@ include("header.php");
                         <div class="item">
                            <div class="slider1">
                               <picture>
-                                 <source srcset="assets/images/homepage-hero-mobile-troma.jpg" media="(max-width: 600px)">
+                                 <source srcset="assets/images/mob-slider-acute.jpg" media="(max-width: 600px)">
                                  <img src="assets/images/slider-acute.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content ">
@@ -217,12 +217,12 @@ include("header.php");
                         <div class="item">
                            <div class="slider1">
                               <picture>
-                                 <source srcset="assets/images/homepage-hero-mobile-worker-slip-man.jpg" media="(max-width: 600px)">
+                                 <source srcset="assets/images/mob-slider-comfert.jpg" media="(max-width: 600px)">
                                  <img src="assets/images/slider-comfert.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content ">
                                 
-                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Care from the Comfort of Home</h3>
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Care from the <br>Comfort of Home</h3>
                                  <!-- <div class="buy-button" style="display:block;">
                                     <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Our Virtual Diagnostic Clinic uses a patent-pending form of video telvideounication</a> 
                                    
@@ -247,11 +247,11 @@ include("header.php");
                         <div class="item">
                            <div class="slider1">
                               <picture>
-                                 <source srcset="assets/images/homepage-hero-mobile-troma.jpg" media="(max-width: 600px)">
+                                 <source srcset="assets/images/mob-slider-transparent-cost.jpg" media="(max-width: 600px)">
                                  <img src="assets/images/slider-transparent-cost.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content ">
-                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Transparent Costs and Exceptional Care</h3>
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Transparent Costs and <br>Exceptional Care</h3>
                                  <!-- <div class="buy-button" style="display:block;">
                                     <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">No referral? No insurance? No problem! Our team of US trained Orthopedic Surgeons<br> have years of experience in their respective fieldsPrevious</a> 
                                  </div> -->
@@ -262,7 +262,7 @@ include("header.php");
                         <div class="item">
                            <div class="slider1">
                               <picture>
-                                 <source srcset="assets/images/homepage-hero-mobile-troma.jpg" media="(max-width: 600px)">
+                                 <source srcset="assets/images/mob-slider-second-opinion.jpg" media="(max-width: 600px)">
                                  <img src="assets/images/slider-second-opinion.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content ">
