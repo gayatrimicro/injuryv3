@@ -36,7 +36,7 @@
 
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-<title>Injury Live</title>
+<title>Orthopedics | Injury Live</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -167,6 +167,7 @@ include("header.php");
    <div class="container new-container">
       <div class="row">
                   <div class="large-12 columns">
+
                      <div class="owl-carousel">
                         <div class="item">
                            <div class="slider1">
@@ -174,13 +175,16 @@ include("header.php");
                                  <source srcset="assets/images/mob-slider-demand.jpg" media="(max-width: 600px)">
                                  <img src="assets/images/slider-demand.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
-                              <div class="header-content ">
+                              <div class="header-content">
                                 
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Online and On-Demand Orthopedic Care</h3>
                                  <!-- <div class="buy-button" style="display:block;">
                                     <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Be Seen by a Surgeon at YOUR Convenience, and Get Answers NOW!Previous</a> 
                                    
                                  </div> -->
+                                <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
                               </div>
                            </div>
                         </div>
@@ -197,6 +201,9 @@ include("header.php");
                                  <!-- <div class="buy-button" style="display:block;">
                                     <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you have arthritis </a> 
                                  </div> -->
+                                 <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
                               </div>
                            </div>
                         </div>
@@ -211,6 +218,9 @@ include("header.php");
                                  <!-- <div class="buy-button" style="display:block;">
                                     <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you have a sprain, strain or tendonitis </a> 
                                  </div> -->
+                                 <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
                               </div>
                            </div>
                         </div>
@@ -227,6 +237,9 @@ include("header.php");
                                     <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Our Virtual Diagnostic Clinic uses a patent-pending form of video telvideounication</a> 
                                    
                                  </div> -->
+                                 <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
                               </div>
                            </div>
                         </div>
@@ -241,6 +254,9 @@ include("header.php");
                                  <!-- <div class="buy-button" style="display:block;">
                                     <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you need to go to the ER</a> 
                                  </div> -->
+                                 <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
                               </div>
                            </div>
                         </div>
@@ -255,6 +271,9 @@ include("header.php");
                                  <!-- <div class="buy-button" style="display:block;">
                                     <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">No referral? No insurance? No problem! Our team of US trained Orthopedic Surgeons<br> have years of experience in their respective fieldsPrevious</a> 
                                  </div> -->
+                                 <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
                               </div>
                            </div>
                         </div>
@@ -270,6 +289,9 @@ include("header.php");
                                  <!-- <div class="buy-button" style="display:block;">
                                     <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">We will thoroughly review your medical record and imaging reports and<br> offer a non-biased second opinion and treatment recommendations</a> 
                                  </div> -->
+                                 <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
                               </div>
                            </div>
                         </div>
@@ -730,20 +752,26 @@ include("footer.php");
     responsiveClass:true,
     autoplay:true,
     nav:true,
+    dots: false,
     responsive:{
         0:{
             items:1,
-            nav:true
+            loop:true,
+            dots: false,
+            nav:false
         },
         600:{
             items:1,
-            nav:true,
-            autoplay:false
+            nav:false,
+            loop:true,
+            dots: false,
+            autoplay:true
         },
         1000:{
             items:1,
-            nav:true,
-            loop:false,
+            dots: false,
+            nav:false,
+            loop:true,
             autoplay:true
         }
     }
@@ -751,121 +779,7 @@ include("footer.php");
 </script>
 
 
-<script>
-			$(document).ready(function() {
-    var api;
-    var slider = $('.c-layout-revo-slider .tp-banner');
-    var cont = $('.c-layout-revo-slider .tp-banner-container');    
-    var onepageMode = $('.c-mega-menu-onepage-dots').size() > 0 ? true : false;
 
-    if (onepageMode) {
-        api = slider.show().revolution({
-            sliderType:"standard",
-            sliderLayout:"fullscreen",
-            responsiveLevels:[2048,1024,778,480],
-            gridwidth: [1170, 1024, 778, 480],
-            gridheight: [868, 768, 960, 720],
-            delay: 15000,    
-            startwidth:1170,
-            startheight: 1000,
-
-            navigation: {
-                keyboardNavigation:"off",
-                keyboard_direction: "horizontal",
-                mouseScrollNavigation:"off",
-                onHoverStop:"off",
-                bullets: {
-                    style:"round",
-                    enable:true,
-                    hide_onmobile:false,
-                    hide_onleave:true,
-                    hide_delay:200,
-                    hide_delay_mobile:1200,
-                    hide_under:0,
-                    hide_over:9999,
-                    direction:"horizontal",
-                    h_align:"center",
-                    v_align:"bottom",
-                    space:5,
-                    v_offset:60,
-
-                },
-                touch: {
-                    touchenabled: 'off',
-                }   
-            },
-
-            spinner: "spinner2",
-
-            shadow: 0,
-            fullWidth: "off",
-            forceFullWidth: "off",
-
-            hideThumbsOnMobile: "on",
-            hideNavDelayOnMobile: 1500,
-            hideBulletsOnMobile: "on",
-            hideArrowsOnMobile: "on",
-            hideThumbsUnderResolution: 0
-        });
-    } else {
-        api = slider.show().revolution({
-            sliderType:"standard",
-            sliderLayout:"fullscreen",
-            responsiveLevels:[2048,1024,778,480],
-            gridwidth: [1170, 1024, 778, 480],
-            gridheight: [868, 768, 960, 720],
-            delay: 15000,    
-            startwidth:1170,
-            startheight: App.getViewPort().height,
-
-            navigation: {
-                keyboardNavigation:"off",
-                keyboard_direction: "horizontal",
-                mouseScrollNavigation:"off",
-                onHoverStop:"on",
-                arrows: {
-                    style:"circle",
-                    enable:true,
-                    hide_onmobile:false,
-                    hide_onleave:false,
-                    tmp:'',
-                    left: {
-                        h_align:"left",
-                        v_align:"center",
-                        h_offset:30,
-                        v_offset:0
-                    },
-                    right: {
-                        h_align:"right",
-                        v_align:"center",
-                        h_offset:30,
-                        v_offset:0
-                    }
-                },
-                touch: {
-                    touchenabled: 'on',
-                    swipe_threshold: 75,
-                    swipe_min_touches: 1,
-                    swipe_direction: 'horizontal',
-                    drag_block_vertical: true
-                }      
-            },
-
-            spinner: "spinner2",
-
-            shadow: 0,
-            fullWidth: "off",
-            forceFullWidth: "off",
-
-            hideThumbsOnMobile: "on",
-            hideNavDelayOnMobile: 1500,
-            hideBulletsOnMobile: "on",
-            hideArrowsOnMobile: "on",
-            hideThumbsUnderResolution: 0
-        });
-    }
-});
-			</script>
 
 
 

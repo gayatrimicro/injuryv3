@@ -7,7 +7,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
   <link rel='stylesheet' type='text/css' href='https://d33wubrfki0l68.cloudfront.net/bundles/2835d381ea542b7b6f33b7ad013e66d159afec9a.css'/>
-<script src="assets/js/jquery.min.js" type="text/javascript"></script> 
+<!-- <script src="assets/js/jquery.min.js" type="text/javascript"></script>  -->
 
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -30,8 +30,7 @@
 <link rel="icon" href="assets/images/company_logo 2.png" sizes="16x16 32x32" type="image/png">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js"></script>
-<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-
+<!-- <script src="https://code.jquery.com/jquery-3.4.1.js"></script> -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
 
 
@@ -70,6 +69,8 @@
 <script type="text/javascript">
    document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lato:n3,n4:default.js" type="text/javascript">\x3C/script>');
 </script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
 </head>
 
 <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-fullscreen"> 
@@ -253,6 +254,14 @@ include("header.php");
     .padding-custom-box {
     padding: 10px;
 }
+#modal-success{
+    display: none;
+    text-align: center;
+    color: #040404;
+    text-transform: uppercase;
+    font-size: 1rem;
+   
+}
     @media (max-width: 600px){
       .center-services-img{
         width: 36rem;
@@ -308,6 +317,10 @@ include("header.php");
 
         <div class="col-md-12 padding-custom-box">
           <div class="form-group text-center">
+        <label id="modal-success">Thank you for your enquiry</label>
+      </div></div>
+        <div class="col-md-12 padding-custom-box">
+          <div class="form-group text-center">
         <button type="submit" id="submit-button" class="btn btn-success bottom-btn"><span class="glyphicon glyphicon-off"></span> Submit Now</button>
       </div>
       <br><br>
@@ -320,46 +333,30 @@ include("header.php");
   </section> 
 
 <script>
-$(document).ready(function() { 
+
     $('#contact-form').submit(function(event) {
       event.preventDefault();
       var formdata = $('#contact-form').serialize();
-
+      alert(formdata);
           if ($('#fname').val() != "" && $('#lname').val() != "" && $('#phone').val() != "" && $('#email').val() != "" && $('#comments').val() != "" ) {
             
              $.ajax({
-                              url:'contact-form.php',
+                              url:'request.php',
                               type:'POST',
                               data:formdata,
                               success:function(result){
-                              //alert("Your enquiry has been sent successfully");
-                              Swal.fire(
-                                         'Your enquiry has been sent successfully ?',
-                                         'we will get back to you soon ?'
-                                        )
-
-                              $("#contact-form").trigger('reset');
-                              $(".close").click();  
-                              }
-  
-
+                                
+                                  $("#modal-success").css("display", "block");
+                                  // alert("Your enquiry has been sent successfully");
+                                  $("#fname, #lname, #phone, #email, #comments").val("");
+                              } 
                     });
 
-         
+        
     }
              else{
-
-
-              Swal.fire({
-                          icon: 'error',
-                          title: 'Oops...',
-                          text: 'All fields are mandatory !',
-                          footer: '<a href>Why do I have this issue?</a>'
-                        })
-                    return false;
+              alert("All fields are mandatory");
                   }
-    });
-  return false;
 
 });
 </script>
@@ -588,9 +585,9 @@ include("footer.php");
 
 
 
-<script src="assets/slider/jquery.min.js"></script>
+<!-- <script src="assets/slider/jquery.min.js"></script> -->
 <script src="assets/slider/owl.carousel.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script> -->
 
 
 
