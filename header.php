@@ -14,13 +14,39 @@
             <span class="c-line"></span> 
           </button>
         </div>
+        <style type="text/css">
+          .c-link > span, .links-dropdown > span {
+            position: relative;
+            color: #000;
+            text-decoration: none;
+          }
 
+          .c-link > span:hover, .links-dropdown > span:hover {
+            color: #000;
+          }
+          .c-link > span:before, .links-dropdown > span:before {
+            content: "";
+            position: absolute;
+            width: 100%;
+            height: 2px;
+            bottom: -6px;
+            left: 0;
+            background-color: #000;
+            visibility: hidden;
+            transform: scaleX(0);
+            transition: all 0.3s ease-in-out 0s;
+          }
+          .c-link > span:hover:before, .links-dropdown > span:hover:before {
+            visibility: visible;
+            transform: scaleX(1);
+          }
+        </style>
         <nav class="c-mega-menu c-mega-menu-onepage c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold" data-onepage-animation-speed="300">
           <ul class="nav navbar-nav c-theme-nav">
 
-            <li class="c-onepage-link active c-active"> <a href="#" class="c-link">Home</a> </li>
+            <li class="c-onepage-link active c-active"> <a href="#" class="c-link"><span>Home</span></a> </li>
 
-            <li class="c-onepage-link show show-mobile"><a href="#" class="c-link">Solutions</a> 
+            <li class="c-onepage-link show show-mobile"><a href="#" class="c-link"><span>Solutions</span></a> 
 
               <ul class="child-dropdown">
                 <li class="child-li"><a href="javascript:void(0);" class="links-dropdown" hreflang="en"><span class="tele">Orthopedics</span></a></li>
@@ -36,7 +62,7 @@
 
             </li>
 
-            <li class="c-onepage-link active c-active"> <a href="#" class="c-link">Second Opinion</a> </li>
+            <li class="c-onepage-link active c-active"> <a href="#" class="c-link"><span>Second Opinion</span></a> </li>
          
 
   <!-- <li class="c-onepage-link show show-mobile-two"> <a href="#" class="c-link">Services</a>
@@ -51,7 +77,7 @@
               </ul>
   </li> -->
 
-           <li class="c-onepage-link show show-mobile-three"> <a href="#" class="c-link">Employers</a>
+           <li class="c-onepage-link show show-mobile-three"> <a href="#" class="c-link"><span>Employers</span></a>
              
              <!-- <ul class="child-dropdown"> 
                 <li class="child-li"><a href="javascript:void(0);" class="links-dropdown" hreflang="en"><span class="tele">Workers compensation</span></a></li>
