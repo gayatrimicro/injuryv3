@@ -22,7 +22,7 @@
           }
 
           .c-link > span:hover, .links-dropdown > span:hover {
-            color: #000;
+            color: #0a0 !important;
           }
           .c-link > span:before, .links-dropdown > span:before {
             content: "";
@@ -31,7 +31,7 @@
             height: 2px;
             bottom: -6px;
             left: 0;
-            background-color: #000;
+            background-color: #0a0;
             visibility: hidden;
             transform: scaleX(0);
             transition: all 0.3s ease-in-out 0s;
