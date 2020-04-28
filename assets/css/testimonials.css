@@ -45,3 +45,8 @@
     float: left;
     margin-right: 10px;
 }
+@media (max-width: 600px){
+    #quote-carousel .carousel-control {
+        margin-top: 90px;
+    }
+}

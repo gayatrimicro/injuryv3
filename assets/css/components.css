@@ -4923,8 +4923,12 @@ z-index:9;
 
 @media (max-width: 991px) {
   /* 991px */
+  .c-margin-b-10, .main-margin {
+    /* margin-bottom: 10px; */
+    margin: 0 auto !important;
+}
   .c-layout-header .c-navbar .c-mega-menu.c-mega-menu-dark-mobile {
-    background: #394048; }
+    background: #e6e6e6; }
     .c-layout-header .c-navbar .c-mega-menu.c-mega-menu-dark-mobile > .nav.navbar-nav > li > .c-link {
       border-bottom: 1px solid #404851;
       color: #ebedf2; }

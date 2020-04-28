@@ -250,7 +250,7 @@ include("header.php");
                                  <img src="assets/images/home_background-workers-slip.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content ">
-                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Injured?</h3>
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center main-margin">Injured?</h3>
                                  <!-- <div class="buy-button" style="display:block;">
                                     <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you need to go to the ER</a> 
                                  </div> -->
