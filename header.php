@@ -3,7 +3,7 @@
     <div class="container-fluid"> 
       <div class="c-navbar-wrapper clearfix">
         <div class="c-brand c-pull-left"> 
-          <a href="#" class="c-logo"> 
+          <a href="http://spacegm.com/injuryv3/" class="c-logo"> 
             <img src="http://spacegm.com/injuryv3/assets/images/company_logo 2.png" alt="Logo" class="c-desktop-logo"> 
             <img src="http://spacegm.com/injuryv3/assets/images/company_logo 2.png" alt="Logo" class="c-desktop-logo-inverse"> 
             <img src="http://spacegm.com/injuryv3/assets/images/company_logo 2.png" alt="Logo" class="c-mobile-logo"> 
