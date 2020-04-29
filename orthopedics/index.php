@@ -83,6 +83,11 @@
     margin-top: 2.11111rem;
     color: #3b3f48;
 }
+@media (max-width: 600px){
+  .bigger-font-medium {
+    font-size: 20px;
+}
+}
 </style>
 </head>
 

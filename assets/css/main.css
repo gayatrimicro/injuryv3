@@ -2,6 +2,12 @@
 .fancybox-margin {
 	margin-right: 0px;
 }
+.desk-only{
+  display: block;
+}
+.mob-only{
+  display: none;
+}
 .slider1{
   width: 100%;
   position: relative;;
@@ -1428,7 +1434,12 @@ form{
 
 @media only screen and (max-width:600px){
 
-  
+  .desk-only{
+  display: none;
+}
+.mob-only{
+  display: block;
+}
 .c-font-50 {
     font-size: 30px;
 }

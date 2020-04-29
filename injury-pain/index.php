@@ -36,7 +36,7 @@
 
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-<title>Spine | Injury Live</title>
+<title>Injury and Pain | Injury Live</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -182,7 +182,7 @@ include("../header.php");
 <div class="header-content ">
             
 
-              <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center" style="text-align: center;font-weight: 100;">Expert care for low back pain<br><strong> at a Push of a Button</strong></h3>
+              <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center" style="text-align: center;font-weight: 100;">Experience relief and recovery from your...<br><strong> PAIN AND INJURY</strong></h3>
                <p class="text-left mobile-para-padding"> 
                 <a href="#" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>
             </p>
@@ -204,10 +204,9 @@ include("../header.php");
     <div id="desk" class="c-content-box c-size-md">
       <div class="container">
         <div class="col-md-12">
-          <div class=""></div>
-         <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline c-center"> Easy, Affordable, Convenient & Effective </h3>
+         <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline c-center">'PAIN ISN'T JUST A SENSATION ,... IT'S AN EXPERIENCE...'</h3>
          <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
-         Low back pain hurts, it’s inconvenient, and often very expensive. Injury Live offers a new way to get better and stay better using smart, online tools and expert guidance.</span>
+         Pain can short-lived, or last for years even decades;<br class="desk-only">... it can be minor, or it can be severe;<br class="desk-only">... it can be localised, or it can be wide-spread;<br class="desk-only">... it can develop after a specific accident, injury, surgery, or emotional trauma, or it may seem to develop with no obvious cause at all.</span>
          </h1>
         
         </div>
@@ -264,21 +263,27 @@ include("../header.php");
 
         <div class="col-md-6 padding-custom mobile-space">
           <div class="c-margin-b-40 c-margin-t-50">
-          <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile double-para">Our Back & Spine Pain Services</h1>
+          <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile double-para">WE'D LOVE TO HELP YOU IF YOU ARE SUFFERING WITH ONE OR MORE OF THE FOLLOWING...</h1>
         </div>
-          <p class="custom-fonts mobile-para-padding double-mobile">
-           Injury Live offers our patients leading-edge solutions for back pain and spine pain, either of the acute or chronic variety. Pain management is one of the most important parts of a patient’s physical, mental, and emotional well-being. </p>
-          <p class="custom-fonts mobile-para-padding double-mobile">
-          Injury Live is based on the clinical experience and expertise of our specialists and the most recent low back pain research from over 100 clinical studies. The result –  Injury Live users get immediate relief from their low back pain and learn the skill necessary to keep it from coming back.
-          </p>
-           <p class="text-left mobile-para-padding"> 
-                <a href="#" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>
-            </p>
-          <!-- <p class="custom-fonts mobile-para-padding double-mobile">
-            <p class="custom-fonts mobile-para-padding double-mobile">Depending on the type of injury, we have a team of multi-specialty group that combines <span class="italic"><i class="italic">orthopedic</i></span>, <i class="italic">neuro-spine</i>, <i class="italic">psychiatrists</i>, <i class="italic" >psychologists</i> and doctors who work with a complete neurology team all in one location. </p>
-          </p> -->
-
-          
+          <ul>
+            <li>HEADACHES (CERVICOGENIC)</li>
+            <li>NECK PAIN</li>
+            <li>MID BACK PAIN</li>
+            <li>LOW BACK PAIN</li>
+            <li>LEG PAIN</li>
+            <li>SHOULDER PAIN</li>
+            <li>ELBOW PAIN</li>
+            <li>WRIST AND HAND PAIN</li>
+            <li>HIP AND GROIN PAIN</li>
+            <li>PELVIC PAIN</li>
+            <li>KNEE PAIN</li>
+            <li>SHIN PAIN</li>
+            <li>FOOT AND ANKLE PAIN</li>
+            <li>JAW PAIN</li>
+            <li>COMPLEX REGIONAL PAIN</li>
+            <li>OSTEOARTHRITIS</li>
+            <li>SPORTS INJURY</li>
+          </ul>
         </div>
       </div>
       
@@ -304,14 +309,12 @@ include("../header.php");
         
 
           <div class="c-margin-b-40 c-margin-b-20 c-margin-t-0">
-              <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile">Patient Satisfaction with Telehealth</h1>
+              <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile">WHY CHOOSE A TELEHEALTH CONSULTATION?</h1>
           </div>
 
 
            <div class="pa custom-fonts">
-            <p class="custom-fonts mobile-para-padding">Patient satisfaction with telemedicine is very high at 98.3% and for good reasons. Reduced costs and more convenient access to personalized therapeutic content and provider guidance strongly encourage patients to adopt and utilize Digital health solutions.</p>
-
-            <p class="custom-fonts mobile-para-padding">Digital health is safe, efficient, and convenient for both patients and providers. It is often cited as the method preferred by patients who demand timely access to their doctors. Many medical conditions and testing procedures do not require the physical presence of a physician or the time and expense of an office visit.</p>
+            <p class="custom-fonts mobile-para-padding">Telehealth Appointments are online virtual video consultations, which take place over webcam. You’ll receive help with managing any musculoskeletal pain, injury, or disorder that you are suffering from. You will receive appropriate, evidence-based telerehabilitation, advice and guidance from a fully regulated Primary Healthcare Practitioner; either a Chiropractor or Podiatrist, dependent upon your complaint.</p>
 
             
           </div>
@@ -319,41 +322,8 @@ include("../header.php");
           </div>
         </div>
         </div>
-        <span class="desk-only"><br>
-        <br>
-        <br>
-        <br>
-        <br></span>
-        <div class="row custom-row">
-       
-        <div class="col-md-6 col-lg-6 col-sm-12 media-margin mobile-margin">
-
-          <div class="text-white col-md-12">
         
-
-          <!-- <div class="c-margin-b-40 c-margin-b-20 c-margin-t-0">
-              <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile">Patient Satisfaction with Telehealth</h1>
-          </div> -->
-
-
-           <div class="pa custom-fonts">
-
-            <p class="custom-fonts mobile-para-padding">Telehealth solutions answer the problems of cost, access, and convenience while achieving desired outcomes. Telehealth solutions may in fact be the perfect vehicle to effect the greatest therapeutic change in patients and lower cost for all stakeholders. Telehealth closes the distance and collapses time between provider and patient and enables faster insight into the patient’s condition, progress, and ongoing needs.</p>
-            
-            <p class="text-left mobile-para-padding"> 
-                <a href="tel:(972) 865-4454" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at (972) 865-4454</a>
-            </p>
-          </div>
-
-          </div>
-        </div>
-         <div class="col-md-6 col-lg-6 col-sm-12">
-         <div class="section-images">
-           <img src="../assets/images/orthotherapy.jpg" class="img-responsive custom-responsive" alt="image failed to load, Error"/>
-         </div>
-        </div>
-        </div>
-
+        
 
 
 
