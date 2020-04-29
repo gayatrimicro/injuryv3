@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en" class="wf-lato-n3-active wf-lato-n4-active wf-active"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<script type="text/javascript" async="" src="assets/js/analytics.js"></script>
+<script type="text/javascript" async="" src="../assets/js/analytics.js"></script>
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
   <link rel='stylesheet' type='text/css' href='https://d33wubrfki0l68.cloudfront.net/bundles/2835d381ea542b7b6f33b7ad013e66d159afec9a.css'/>
-<!-- <script src="assets/js/jquery.min.js" type="text/javascript"></script>  -->
+<!-- <script src="../assets/js/jquery.min.js" type="text/javascript"></script>  -->
 
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -26,8 +26,8 @@
 <!-- google recaptacha end here !-->
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
-<link rel="icon" href="assets/images/company_logo 2.png" sizes="16x16" type="image/png"> 
-<link rel="icon" href="assets/images/company_logo 2.png" sizes="16x16 32x32" type="image/png">
+<link rel="icon" href="../assets/images/company_logo 2.png" sizes="16x16" type="image/png"> 
+<link rel="icon" href="../assets/images/company_logo 2.png" sizes="16x16 32x32" type="image/png">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js"></script>
 <!-- <script src="https://code.jquery.com/jquery-3.4.1.js"></script> -->
@@ -44,28 +44,28 @@
 <meta content="" name="author">
 
 <!-- Owl Stylesheets -->
-<link rel="stylesheet" href="assets/slider/owl.carousel.min.css">
-<link rel="stylesheet" href="assets/slider/owl.theme.default.min.css">
-<script src="assets/slider/sweetalert.min.js"></script>
-<script src="assets/slider/jquery.validate.min.js"></script>
+<link rel="stylesheet" href="../assets/slider/owl.carousel.min.css">
+<link rel="stylesheet" href="../assets/slider/owl.theme.default.min.css">
+<script src="../assets/slider/sweetalert.min.js"></script>
+<script src="../assets/slider/jquery.validate.min.js"></script>
 
 
 
 <!-- BEGIN GLOBAL MANDATORY STYLES -->
-<link href="assets/css/socicon.css" rel="stylesheet" type="text/css">
-<link href="assets/css/simple-line-icons.min.css" rel="stylesheet" type="text/css">
-<link href="assets/css/bootstrap-social.css" rel="stylesheet" type="text/css">
-<link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="assets/css/animate.min.css" rel="stylesheet" type="text/css">
-<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="assets/css/plugins.css" rel="stylesheet" type="text/css">
-<link href="assets/css/default.css" rel="stylesheet" type="text/css">
-<link href="assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
-<link href="assets/css/custom.css" rel="stylesheet" type="text/css">
-<link href="assets/css/main.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/socicon.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/simple-line-icons.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootstrap-social.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/animate.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/plugins.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/default.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/main.css" rel="stylesheet" type="text/css">
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
-<link href="assets/css/css" rel="stylesheet" type="text/css">
+<link href="../assets/css/css" rel="stylesheet" type="text/css">
 <script type="text/javascript">
    document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lato:n3,n4:default.js" type="text/javascript">\x3C/script>');
 </script>
@@ -76,7 +76,7 @@
 <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-fullscreen"> 
 
 <?php
-include("header.php");
+include("../header.php");
 ?>
 
 
@@ -155,8 +155,8 @@ include("header.php");
 
          
 <picture>
-  <source srcset="assets/images/homepage-hero-mobile-car.jpg" media="(max-width: 600px)">
-  <img src="assets/images/home_background-car-girl.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;height: 400px;">
+  <source srcset="../assets/images/homepage-hero-mobile-car.jpg" media="(max-width: 600px)">
+  <img src="../assets/images/home_background-car-girl.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;height: 400px;">
 
              </picture>
 
@@ -220,15 +220,15 @@ include("header.php");
 
           
          <div class="col-md-6">
-            <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline c-center">Call us at</h3>
-            <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
+            <h3 class="c-font-uppercase c-font-bold heading--subheadline c-center">Call us at</h3>
+            <h1 class="c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
            <a href="tel:(972) 865-4454">(972) 865-4454</a>
            </h1>
          </div>
 
          <div class="col-md-6">
-            <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline c-center">Fax us at</h3>
-            <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
+            <h3 class="c-font-uppercase c-font-bold heading--subheadline c-center">Fax us at</h3>
+            <h1 class="c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
             <a href="fax:">(214) 888-4450</a>
            </h1>
          </div>
@@ -414,7 +414,7 @@ include("header.php");
 
 
   <?php
-include("footer.php");
+include("../footer.php");
 ?>
   
 </div>
@@ -423,15 +423,15 @@ include("footer.php");
 <div class="c-layout-go2top" style="display:block;"> <i class="fa fa-arrow-up"></i> </div>
 <!-- END: LAYOUT/FOOTERS/GO2TOP --> 
 
-<script src="assets/js/bootstrap.min.js" type="text/javascript"></script> 
-<script src="assets/js/owl.carousel.min.js" type="text/javascript"></script> 
-<script src="assets/js/reveal-animate.js" type="text/javascript"></script> 
-<script src="assets/js/components.js" type="text/javascript"></script> 
-<script src="assets/js/app.js" type="text/javascript"></script> 
-<script src="assets/js/wow.js" type="text/javascript"></script>  
-<script src="assets/js/jquery.cubeportfolio.min.js" type="text/javascript"></script> 
-<script src="assets/js/jquery.counterup.min.js" type="text/javascript"></script> 
-<script src="assets/js/jquery.fancybox.pack.js" type="text/javascript"></script> 
+<script src="../assets/js/bootstrap.min.js" type="text/javascript"></script> 
+<script src="../assets/js/owl.carousel.min.js" type="text/javascript"></script> 
+<script src="../assets/js/reveal-animate.js" type="text/javascript"></script> 
+<script src="../assets/js/components.js" type="text/javascript"></script> 
+<script src="../assets/js/app.js" type="text/javascript"></script> 
+<script src="../assets/js/wow.js" type="text/javascript"></script>  
+<script src="../assets/js/jquery.cubeportfolio.min.js" type="text/javascript"></script> 
+<script src="../assets/js/jquery.counterup.min.js" type="text/javascript"></script> 
+<script src="../assets/js/jquery.fancybox.pack.js" type="text/javascript"></script> 
 <script>
 	$(document).ready(function() {    
 		App.init(); // init core    
@@ -585,8 +585,8 @@ include("footer.php");
 
 
 
-<!-- <script src="assets/slider/jquery.min.js"></script> -->
-<script src="assets/slider/owl.carousel.js"></script>
+<!-- <script src="../assets/slider/jquery.min.js"></script> -->
+<script src="../assets/slider/owl.carousel.js"></script>
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script> -->
 
 
