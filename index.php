@@ -36,7 +36,7 @@
 
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-<title>Orthopedics | Injury Live</title>
+<title>Injury Live</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -168,39 +168,34 @@ include("header.php");
       <div class="row">
                   <div class="large-12 columns">
 
-                     <div class="owl-carousel">
+                    <!--  <div class="owl-carousel">
                         <div class="item">
-                           <div class="slider1">
+                           <div class="slider1"> -->
                               <picture>
                                  <source srcset="assets/images/mob-slider-demand.jpg" media="(max-width: 600px)">
                                  <img src="assets/images/slider-demand.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content">
                                 
-                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Online and On-Demand Orthopedic Care</h3>
-                                 <!-- <div class="buy-button" style="display:block;">
-                                    <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Be Seen by a Surgeon at YOUR Convenience, and Get Answers NOW!Previous</a> 
-                                   
-                                 </div> -->
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">THE LEADING MULTISPECIALTY TELEMEDICINE PROVIDER</h3>
+                                 
                                 <div class="c-margin-b-10 c-margin-t-0">
                                   <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
                                 </div>
                               </div>
-                           </div>
-                        </div>
-                        <div class="item">
+                           <!-- </div>
+                        </div> -->
+                        <!-- <div class="item">
                            <div class="slider1">
                               <picture>
                                  <source srcset="assets/images/mob-slider-chronic.jpg" media="(max-width: 600px)">
                                  <img src="assets/images/slider-chronic.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
-                              <!-- <img src="assets/images/home_background-car-girl.jpg" class="full" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;"/> -->
+
                               <div class="header-content ">
-                                 <!-- <h3 class="c-main-title c-font-72 c-font-50 c-font-bold c-font-uppercase c-font-white c-center">Eliminate the costs of drugs, doctor visits, or unnecessary procedures <span class="c-font-yellow-4">via TELE HEALTH</span></h3> -->
+                                 
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Chronic Joint Pain?</h3>
-                                 <!-- <div class="buy-button" style="display:block;">
-                                    <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you have arthritis </a> 
-                                 </div> -->
+                                 
                                  <div class="c-margin-b-10 c-margin-t-0">
                                   <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
                                 </div>
@@ -215,9 +210,7 @@ include("header.php");
                               </picture>
                               <div class="header-content ">
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Acute Joint Pain?</h3>
-                                 <!-- <div class="buy-button" style="display:block;">
-                                    <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you have a sprain, strain or tendonitis </a> 
-                                 </div> -->
+                                 
                                  <div class="c-margin-b-10 c-margin-t-0">
                                   <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
                                 </div>
@@ -233,10 +226,7 @@ include("header.php");
                               <div class="header-content ">
                                 
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Care from the <br>Comfort of Home</h3>
-                                 <!-- <div class="buy-button" style="display:block;">
-                                    <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Our Virtual Diagnostic Clinic uses a patent-pending form of video telvideounication</a> 
-                                   
-                                 </div> -->
+                                 
                                  <div class="c-margin-b-10 c-margin-t-0">
                                   <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
                                 </div>
@@ -251,9 +241,7 @@ include("header.php");
                               </picture>
                               <div class="header-content ">
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center main-margin">Injured?</h3>
-                                 <!-- <div class="buy-button" style="display:block;">
-                                    <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">Find out if you need to go to the ER</a> 
-                                 </div> -->
+                                 
                                  <div class="c-margin-b-10 c-margin-t-0">
                                   <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
                                 </div>
@@ -268,15 +256,13 @@ include("header.php");
                               </picture>
                               <div class="header-content ">
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Transparent Costs and <br>Exceptional Care</h3>
-                                 <!-- <div class="buy-button" style="display:block;">
-                                    <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">No referral? No insurance? No problem! Our team of US trained Orthopedic Surgeons<br> have years of experience in their respective fieldsPrevious</a> 
-                                 </div> -->
+                                 
                                  <div class="c-margin-b-10 c-margin-t-0">
                                   <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
                                 </div>
                               </div>
                            </div>
-                        </div>
+                        </div> 
 
                         <div class="item">
                            <div class="slider1">
@@ -286,21 +272,20 @@ include("header.php");
                               </picture>
                               <div class="header-content ">
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Need a Second Opinion?</h3>
-                                 <!-- <div class="buy-button" style="display:block;">
-                                    <a href="tel:(972) 865-4454" style="background: #0b755c !important; color: #fff; border:2px solid #5ddec6 !important;" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin">We will thoroughly review your medical record and imaging reports and<br> offer a non-biased second opinion and treatment recommendations</a> 
-                                 </div> -->
+                                 
                                  <div class="c-margin-b-10 c-margin-t-0">
                                   <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
                                 </div>
                               </div>
                            </div>
                         </div>
+                        -->
 
 
 
 
 
-                     </div>
+                     <!-- </div> -->
                   </div>
                
       </div>

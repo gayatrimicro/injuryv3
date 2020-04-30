@@ -46,7 +46,7 @@
 
             <li class="c-onepage-link active c-active"> <a href="http://spacegm.com/injuryv3/" class="c-link"><span>Home</span></a> </li>
 
-            <li class="c-onepage-link show show-mobile"><a href="#" class="c-link"><span>Solutions</span></a> 
+            <li class="c-onepage-link show show-mobile"><a href="#" class="c-link"><span>Our Specialties</span></a> 
 
               <ul class="child-dropdown">
                 <li class="child-li"><a href="http://spacegm.com/injuryv3/orthopedics/" class="links-dropdown" hreflang="en"><span class="tele">Orthopedics</span></a></li>
