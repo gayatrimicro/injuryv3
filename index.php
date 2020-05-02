@@ -647,9 +647,27 @@ After the physician has diagnosed the issue, our care coordinator will review in
         "TELEMEDICINE IS THE USE OF A HIGH QUALITY AUDIO-VISUAL COMMUNICATION SOFTWARE PLATFORM LINKING REMOTE CARE PROVIDERS AND PATIENTS WITH SPECIALISTS IN AREAS THAT ARE UNDERSERVED OR THE NEED EXCEEDS THE CAPACITY. "</strong>
       </p>
       <p class="c-content sm-text-center text-center custom-fonts margin-bottom">Although it sounds modern, even futuristic, the first reference to telemedicine in the medical literature appeared in 1950 (Zundel, 1996), and was the transmission of radiologic images by telephone between West Chester and Philadelphia, Pennsylvania, a distance of 24 miles. Injury Live connects specialists with distant patients and caregivers using the most sophisticated computer platform and software available to allow for meaningful and complete interactions between patients and caregivers. By providing access to specialists in areas that are either unavailable, under-served or where the existing specialists are over-utilized, we allow a level of care and interaction that helps redefine the local standard of care. By providing specialist consultations and care, we hope to improve the improve the patient- physician experience, improve diagnostic accuracy and the care delivery, allow for certain patients to be cared for locally without the need for transfer, with improved efficiencies in the delivery of services. In short, <strong>Injury Live</strong> defines quality, value-based care.  </p>
-      <div class="col-md-4"><img src="assets/images/about_01.png" style="width: 99%;"></div>
-      <div class="col-md-4"><img src="assets/images/about_01.png" style="width: 99%;"></div>
-      <div class="col-md-4"><img src="assets/images/about_01.png" style="width: 99%;"></div>
+      <div class="col-md-4">
+        <img src="assets/images/about_01.png" style="width: 100%;">
+        <p  class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
+          TECHNOLOGY
+        </strong></p>
+        <p  class="c-content sm-text-center text-center custom-fonts margin-bottom">The software and hardware platform and linkage allows for seamless, face-to-face interaction between the consulting physician and local provider and/or patient, effectively marking a new era in medicine.  We partner with the most sophisticated technology providers in the world bringing you a complete package of physician services and technology.</p>
+      </div>
+      <div class="col-md-4">
+        <img src="assets/images/about_01.png" style="width: 100%;">
+        <p  class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
+          SPECIALISTS
+        </strong></p>
+        <p  class="c-content sm-text-center text-center custom-fonts margin-bottom">Our physicians are experts in their chosen fields, which range from neurology to nonoperative neurosurgery to behavioral health. When needed, remote telemedicine consultations can save time and money, and help potentially improve the quality of care delivered locally.</p>
+      </div>
+      <div class="col-md-4">
+        <img src="assets/images/about_01.png" style="width: 100%;">
+        <p  class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
+          TELEMEDICINE
+        </strong></p>
+        <p  class="c-content sm-text-center text-center custom-fonts margin-bottom">Technology + Specialists = TeleMedicine. Healthcare is rapidly changing. Advancements in modern medicine allow for unprecedented coverage and more complete care to delivered close to home in many cases. We are leading the industry with innovation and fields of service, offering for the first time numerous specialities not previously utilized. </p>
+      </div>
     </div>
   </div>
 </section>
