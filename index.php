@@ -76,7 +76,7 @@
     /*padding: 17% 6%; */
     z-index: 9;
     position: absolute;
-    top: 50% !important;
+    top: 70% !important;
     font-family: 'Montserrat', sans-serif;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -417,7 +417,7 @@ include("header.php");
         </div>
         <div class="col-md-6">
           <p class="custom-fonts mobile-para-padding">
-           Injury Live provides Medical and Surgical Specialties to provide Virtual Care Telemedicine Consultations For Hospitals, Clinics and Remote Worksites To Increase Access to Specialty Care When and Where you Need It</p>
+           Injury Live provides Medical and Surgical Specialties to provide Virtual Care Telemedicine Consultations for Hospitals, Clinics and Remote Worksites to Increase Access to Specialty Care when and where you Need it.</p>
           <div class="c-margin-b-10 c-margin-t-0">
          <a href="javascript:void(0);" data-toggle="modal" data-target="#request" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Request a Call back to know more</a>
           </div>
@@ -545,14 +545,14 @@ After the physician has diagnosed the issue, our care coordinator will review in
 
 <section style="z-index: 1000;position: relative;background-color: #fff"> 
   <div class="container">
-    <div class="row">
+    <div class="row" style="margin-bottom: 8rem;margin-top: 5rem;">
       <div class="col-md-6 col-ls-6 col-sm-12">
         <div class="visit-button-holder">
           <a href="tel:(972) 865-4454" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="width: 100%;height: 100px;">Complementary Hospital<br> Telemedicine Business Model<br> Consultation</a>
         </div>
       </div>
       <div class="col-md-6 col-ls-6 col-sm-12">
-        <img src="assets/images/about_01.png"  style="width: 100%;height: 150px;margin-top: 10px !important;">
+        <img src="assets/images/side-tele.jpg"  style="width: 100%;height:auto;margin-top: 30px !important;border-radius: 3px;">
       </div>
     </div>
     
@@ -585,7 +585,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
       </div>
     </div>
     <div class="row">
-      <img src="assets/images/telehealth-header.jpg" style="width: 100%;height: auto;padding: 3rem 0rem;">
+      <img src="assets/images/telemed-laptop.jpg" style="width: 100%;height: auto;padding: 3rem 0rem;">
     </div>
     <hr>
     <div class="row diff-to-other" style="padding: 0rem 2rem 0rem;">
@@ -619,7 +619,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
 </section>
 
 
-<section style="background-image: url('assets/images/telehealth-header.jpg');height: 250px;z-index: 1000;position: relative;background-position: left;background-repeat: no-repeat;background-size: cover">
+<section style="background-image: url('assets/images/speciality-side.jpg');height: 250px;z-index: 1000;position: relative;background-position: left;background-repeat: no-repeat;background-size: cover;margin-top: 4rem;">
     <div style="position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);">
       <h1 style="font-size: 65px;color: #fff;font-weight: bold;">Our Specialities</h1>
     </div>
@@ -642,31 +642,31 @@ After the physician has diagnosed the issue, our care coordinator will review in
 
 
     <div class="row">
-      <h3 style="padding: 1rem 0rem 3rem;" class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> What is Telemedicine? </h3>
+      <h3 style="padding: 5rem 0rem 3rem;" class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> What is Telemedicine? </h3>
       <p class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
         "TELEMEDICINE IS THE USE OF A HIGH QUALITY AUDIO-VISUAL COMMUNICATION SOFTWARE PLATFORM LINKING REMOTE CARE PROVIDERS AND PATIENTS WITH SPECIALISTS IN AREAS THAT ARE UNDERSERVED OR THE NEED EXCEEDS THE CAPACITY. "</strong>
       </p>
-      <p class="c-content sm-text-center text-center custom-fonts margin-bottom">Although it sounds modern, even futuristic, the first reference to telemedicine in the medical literature appeared in 1950 (Zundel, 1996), and was the transmission of radiologic images by telephone between West Chester and Philadelphia, Pennsylvania, a distance of 24 miles. Injury Live connects specialists with distant patients and caregivers using the most sophisticated computer platform and software available to allow for meaningful and complete interactions between patients and caregivers. By providing access to specialists in areas that are either unavailable, under-served or where the existing specialists are over-utilized, we allow a level of care and interaction that helps redefine the local standard of care. By providing specialist consultations and care, we hope to improve the improve the patient- physician experience, improve diagnostic accuracy and the care delivery, allow for certain patients to be cared for locally without the need for transfer, with improved efficiencies in the delivery of services. In short, <strong>Injury Live</strong> defines quality, value-based care.  </p>
+      <p class="c-content sm-text-center text-justify custom-fonts margin-bottom">Although it sounds modern, even futuristic, the first reference to telemedicine in the medical literature appeared in 1950 (Zundel, 1996), and was the transmission of radiologic images by telephone between West Chester and Philadelphia, Pennsylvania, a distance of 24 miles. Injury Live connects specialists with distant patients and caregivers using the most sophisticated computer platform and software available to allow for meaningful and complete interactions between patients and caregivers. By providing access to specialists in areas that are either unavailable, under-served or where the existing specialists are over-utilized, we allow a level of care and interaction that helps redefine the local standard of care. By providing specialist consultations and care, we hope to improve the improve the patient- physician experience, improve diagnostic accuracy and the care delivery, allow for certain patients to be cared for locally without the need for transfer, with improved efficiencies in the delivery of services. In short, <strong>Injury Live</strong> defines quality, value-based care.  </p>
       <div class="col-md-4">
-        <img src="assets/images/about_01.png" style="width: 100%;">
+        <img src="assets/images/technology.jpeg" style="width: 100%;margin: 4rem 0rem;">
         <p  class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
           TECHNOLOGY
         </strong></p>
-        <p  class="c-content sm-text-center text-center custom-fonts margin-bottom">The software and hardware platform and linkage allows for seamless, face-to-face interaction between the consulting physician and local provider and/or patient, effectively marking a new era in medicine.  We partner with the most sophisticated technology providers in the world bringing you a complete package of physician services and technology.</p>
+        <p  class="c-content custom-fonts margin-bottom text-justify">The software and hardware platform and linkage allows for seamless, face-to-face interaction between the consulting physician and local provider and/or patient, effectively marking a new era in medicine.  We partner with the most sophisticated technology providers in the world bringing you a complete package of physician services and technology.</p>
       </div>
       <div class="col-md-4">
-        <img src="assets/images/about_01.png" style="width: 100%;">
+        <img src="assets/images/specialist.jpeg" style="width: 100%;margin: 4rem 0rem;">
         <p  class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
           SPECIALISTS
         </strong></p>
-        <p  class="c-content sm-text-center text-center custom-fonts margin-bottom">Our physicians are experts in their chosen fields, which range from neurology to nonoperative neurosurgery to behavioral health. When needed, remote telemedicine consultations can save time and money, and help potentially improve the quality of care delivered locally.</p>
+        <p  class="c-content custom-fonts margin-bottom text-justify">Our physicians are experts in their chosen fields, which range from neurology to nonoperative neurosurgery to behavioral health. When needed, remote telemedicine consultations can save time and money, and help potentially improve the quality of care delivered locally.</p>
       </div>
       <div class="col-md-4">
-        <img src="assets/images/about_01.png" style="width: 100%;">
+        <img src="assets/images/tele-system.jpeg" style="width: 100%;margin: 4rem 0rem;">
         <p  class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
           TELEMEDICINE
         </strong></p>
-        <p  class="c-content sm-text-center text-center custom-fonts margin-bottom">Technology + Specialists = TeleMedicine. Healthcare is rapidly changing. Advancements in modern medicine allow for unprecedented coverage and more complete care to delivered close to home in many cases. We are leading the industry with innovation and fields of service, offering for the first time numerous specialities not previously utilized. </p>
+        <p  class="c-content custom-fonts margin-bottom text-justify">Technology + Specialists = TeleMedicine. Healthcare is rapidly changing. Advancements in modern medicine allow for unprecedented coverage and more complete care to delivered close to home in many cases. We are leading the industry with innovation and fields of service, offering for the first time numerous specialities not previously utilized. </p>
       </div>
     </div>
   </div>
