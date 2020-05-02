@@ -172,16 +172,16 @@ include("header.php");
                         <div class="item">
                            <div class="slider1"> -->
                               <picture>
-                                 <source srcset="assets/images/mob-slider-demand.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/slider-demand.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                                 <source srcset="assets/images/mob-slider-transparent-cost.jpg" media="(max-width: 600px)">
+                                 <img src="assets/images/slider-transparent-cost.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
                               </picture>
                               <div class="header-content">
                                 
                                  <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">THE LEADING MULTISPECIALTY TELEMEDICINE PROVIDER</h3>
                                  
-                                <div class="c-margin-b-10 c-margin-t-0">
+                                <!-- <div class="c-margin-b-10 c-margin-t-0">
                                   <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
-                                </div>
+                                </div> -->
                               </div>
                            <!-- </div>
                         </div> -->
@@ -412,16 +412,12 @@ include("header.php");
           <div class=""></div>
          <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline">Your Recovery is Our Priority</h3>
          <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile">
-         From auto injuries to workman’s comp,<span class="d-d-block"> we treat it all.</span>
+         Access to Specialty Care When and Where you Need It
          </h1>
         </div>
         <div class="col-md-6">
           <p class="custom-fonts mobile-para-padding">
-           An injury can occur at any time of the day or night, on any holiday, and can be very minor or very severe.</p>
-
-    <p class="custom-fonts mobile-para-padding">Get instant access to specialized doctors that are uniquely qualified to treat all Injuries be it
-
-     <a href="javascript:void(0);" class="links cta-secondary links-fonts" hreflang="en">Auto Injury</a> or <a href="javascript:void(0);" class="links cta-secondary links-fonts" hreflang="en">Work-related Injury</a>.</p>
+           Injury Live provides Medical and Surgical Specialties to provide Virtual Care Telemedicine Consultations For Hospitals, Clinics and Remote Worksites To Increase Access to Specialty Care When and Where you Need It</p>
           <div class="c-margin-b-10 c-margin-t-0">
          <a href="javascript:void(0);" data-toggle="modal" data-target="#request" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Request a Call back to know more</a>
           </div>
@@ -466,11 +462,11 @@ include("header.php");
         <div class="row">
           <div class="col-md-12">
             <div class="c-content-title-1 c-margin-b-60">
-              <h3 class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Injured ? </h3>
+              <h3 class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> How it works </h3>
               <div class="c-root-unserline-left">
                 <div class="c-underline"></div>
               </div>
-              <h4 class="sub-heading"> Here is what to do... </h4>
+              <!-- <h4 class="sub-heading"> Here is what to do... </h4> -->
             </div>
           </div>
         </div>
@@ -547,6 +543,116 @@ After the physician has diagnosed the issue, our care coordinator will review in
   </section>
 
 
+<section style="z-index: 1000;position: relative;background-color: #fff"> 
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 col-ls-6 col-sm-12">
+        <div class="visit-button-holder">
+          <a href="tel:(972) 865-4454" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="width: 100%;height: 100px;">Complementary Hospital<br> Telemedicine Business Model<br> Consultation</a>
+        </div>
+      </div>
+      <div class="col-md-6 col-ls-6 col-sm-12">
+        <img src="assets/images/about_01.png"  style="width: 100%;height: 150px;margin-top: 10px !important;">
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+<section style="background-image: url('assets/images/telehealth-header.jpg');height: 250px;z-index: 1000;position: relative;background-position: left;background-repeat: no-repeat;background-size: cover">
+    <div style="position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);">
+      <h1 style="font-size: 70px;color: #fff;font-weight: bold;">About us</h1>
+    </div>
+</section>
+<style type="text/css">
+  .diff-to-other ul li{
+    margin-bottom: 1rem;
+  }
+</style>
+<section style="position: relative;z-index: 9999999;background-color: #fff;">
+  <div class="container">
+    <div class="row" style="padding: 5rem 2rem 0rem;">
+      <h3 style="padding: 3rem 0rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> What Makes Injury Live The Leader? </h3>
+      <p class="c-content sm-text-center text-left custom-fonts margin-bottom">Injury Live expands the options for telemedicine to include over 19 medical and surgical specialities. By providing these service lines, we can either provide either stand-alone specialities to sites where none is currently offered or available. Additionally and just as commonly, we can augment or supplement existing clinical staff by providing specialist availability where clinical staffing is inconsistent, or not adequate to meet the need. By offering a stream-lined solution that is both cost-effective and can help improve the quality of care offered. </p>
+
+      <p class="c-content sm-text-center text-left custom-fonts margin-bottom">Our physicians, who have active clinical practices themselves, use our evidence-based approach and protocols to deliver a conservative and appropriate care plan for patients in conjunction with local providers. Whether it is a non-emergent condition where a consultation would be beneficial, an emergent evaluation of a new condition which may occasionally be treated locally, or initial stabilization recommendations for emergent conditions while waiting a transfer, we provide broad access to the appropriate specialists. We also know and appreciate that not all conditions can or should be evaluated and treated using Telemedicine, and the facility and its providers also play significant factors in these decisions.</p>
+
+      <p class="c-content sm-text-center text-left custom-fonts margin-bottom">Lastly, If your facility has an existing telemedicine service we can seamlessly integrate with it, or add additional service lines to your existing telemedicine unit as needed. In the event that a new service is being established we provide turn-key solutions customized to meet your specific needs.</p>
+    </div>
+    <div class="row">
+      <div class="visit-button-holder">
+        <a href="contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="padding: 2rem 4rem;margin:2rem;">Learn more about Injury Live</a>
+      </div>
+    </div>
+    <div class="row">
+      <img src="assets/images/telehealth-header.jpg" style="width: 100%;height: auto;padding: 3rem 0rem;">
+    </div>
+    <hr>
+    <div class="row diff-to-other" style="padding: 0rem 2rem 0rem;">
+      <h3 style="padding: 1rem 0rem 3rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Differentiating Injury Live from Other Telemedicine Providers </h3>
+      <ul>
+        <li>19 different medical and surgical specialties available via our board-certified telemedicine providers</li>
+        <li>Specialist consultation services available 24/7 via telemedicine platform. Initial call-back times range from 5 minutes for emergencies to 15 minutes for urgent conditions, and 30 minutes for routine conditions in the ED, depending on specialty. Backup connectivity options provided. <strong>Industry First.</strong></li>
+        <li>Initial contact for a consultation is a physician-to-physician interaction. Overlapping call shifts allow for seamless patient care and follow-up when indicated. <strong>Industry First.</strong></li>
+        <li>Fully-accredited by the <strong>Joint Commission</strong> for Ambulatory Health Care, one of the only telemedicine providers in the country to have this prestigious honor. </li>
+        <li>Available ED and inpatient consultations, as well as follow-up consultations. Rounding services available.</li>
+        <li>Quarterly volume assessment, diagnosis matrices, quality assurance and disposition data provided.</li>
+        <li>Turn-key or a la carte integration of physician services and technology platform creating customized solutions for each facility needs, budgets and goals. <strong>Industry First.</strong></li>
+        <li>Our proprietary physician staffing model allows the specialists to be paired with the same hospitals on an ongoing basis, maximizing continuity of care and building lasting professional relationships. <strong>Industry First.</strong></li>
+        <li>Specialist physicians and surgeons are specialists in their field, with advanced training who are committed to providing high quality care and supporting the community mission. All physicians have ownership options within our company. <strong>Industry First.</strong></li>
+        <li>Ongoing peer-initiated and reviewed research aimed at the continuing improvement of care, outcomes and services delivery where permitted. <strong>Industry First.</strong></li>
+        <li>Individual, hospital specific training available. Online video training for ancillary providers includes specialty specific assessments, red flags, etc. Specialized discharge instruction available. <strong>Industry First.</strong></li>
+        <li>Injury Live supports and manages non-profit initiatives focused on global health and improving the delivery of care. <strong>Industry First.</strong></li>
+        <li>CME training and specialty-specific clinical update live-video seminars. <strong>Industry First.</strong></li>
+        <li>Synergy with local specialists - our goal is to be non-competitive, providing staffing as needed to patients, and supporting local specialists wherever possible.</li>
+      </ul>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="visit-button-holder">
+        <a href="contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="padding: 2rem 4rem;margin:2rem;">Schedule a 5-minute quick overview call</a>
+      </div>
+    </div>
+    <hr>
+  </div>
+
+</section>
+
+
+<section style="background-image: url('assets/images/telehealth-header.jpg');height: 250px;z-index: 1000;position: relative;background-position: left;background-repeat: no-repeat;background-size: cover">
+    <div style="position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);">
+      <h1 style="font-size: 65px;color: #fff;font-weight: bold;">Our Specialities</h1>
+    </div>
+</section>
+
+<section style="position: relative;z-index: 9999999;background-color: #fff;">
+  <div class="container">
+    <div class="row" style="padding: 5rem 2rem 0rem;">
+      <div class="col-md-4">
+        <h1 class="text-center">Orthopedics</h1>
+      </div>
+      <div class="col-md-4">
+        <h1 class="text-center">Spine</h1>
+      </div>
+      <div class="col-md-4">
+        <h1 class="text-center">Injury &amp; Pain</h1>
+      </div>
+    </div>
+    <hr>
+
+
+    <div class="row">
+      <h3 style="padding: 1rem 0rem 3rem;" class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> What is Telemedicine? </h3>
+      <p class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
+        "TELEMEDICINE IS THE USE OF A HIGH QUALITY AUDIO-VISUAL COMMUNICATION SOFTWARE PLATFORM LINKING REMOTE CARE PROVIDERS AND PATIENTS WITH SPECIALISTS IN AREAS THAT ARE UNDERSERVED OR THE NEED EXCEEDS THE CAPACITY. "</strong>
+      </p>
+      <p class="c-content sm-text-center text-center custom-fonts margin-bottom">Although it sounds modern, even futuristic, the first reference to telemedicine in the medical literature appeared in 1950 (Zundel, 1996), and was the transmission of radiologic images by telephone between West Chester and Philadelphia, Pennsylvania, a distance of 24 miles. Injury Live connects specialists with distant patients and caregivers using the most sophisticated computer platform and software available to allow for meaningful and complete interactions between patients and caregivers. By providing access to specialists in areas that are either unavailable, under-served or where the existing specialists are over-utilized, we allow a level of care and interaction that helps redefine the local standard of care. By providing specialist consultations and care, we hope to improve the improve the patient- physician experience, improve diagnostic accuracy and the care delivery, allow for certain patients to be cared for locally without the need for transfer, with improved efficiencies in the delivery of services. In short, <strong>Injury Live</strong> defines quality, value-based care.  </p>
+      <div class="col-md-4"><img src="assets/images/about_01.png" style="width: 99%;"></div>
+      <div class="col-md-4"><img src="assets/images/about_01.png" style="width: 99%;"></div>
+      <div class="col-md-4"><img src="assets/images/about_01.png" style="width: 99%;"></div>
+    </div>
+  </div>
+</section>
 
 
 <!-- <section id="whyus-new" style="z-index: 1000;position: relative;"> 
@@ -622,9 +728,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
     </div>
   </section> -->
 
-  <section id="testimonials" style="
-    z-index: 1000;
-    position: relative;">
+  <section id="testimonials" style="z-index: 1000;position: relative;background-color: #fff;">
 
     <div class="container">
         <div class="row">
