@@ -20,7 +20,7 @@ body {
   padding: 0px !important;
   margin: 0px !important;
   font-weight: 300;
-  font-size: 16px; }
+  font-size: 18px; }
 
 a {
   outline: none !important;
@@ -3242,7 +3242,7 @@ h1 {
       padding-left: 0;
       padding-right: 0; }
     .c-layout-header .c-navbar {
-      height: 110px; }
+      height: auto; }
       .c-layout-header .c-navbar > .container {
         position: relative;
         padding: 0; }
@@ -3256,7 +3256,6 @@ h1 {
         display: inline-block;
         background: none;
         border: 0;
-            margin: 20px 20px 0 0;
         padding: 0;
         float: right;
         outline: none; }

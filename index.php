@@ -25,8 +25,8 @@
 <!-- google recaptacha end here !-->
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
-<link rel="icon" href="assets/images/company_logo 2.png" sizes="16x16" type="image/png"> 
-<link rel="icon" href="assets/images/company_logo 2.png" sizes="16x16 32x32" type="image/png">
+<link rel="icon" href="assets/images/favicon.png" sizes="16x16" type="image/png"> 
+<link rel="icon" href="assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js"></script>
 <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
@@ -36,7 +36,7 @@
 
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-<title>Injury Live</title>
+<title>Speciality Care Live</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -412,14 +412,14 @@ include("header.php");
           <div class=""></div>
          <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline">Your Recovery is Our Priority</h3>
          <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile">
-         Access to Specialty Care When and Where you Need It
+         Access to Specialty Care when and where you need It
          </h1>
         </div>
         <div class="col-md-6">
           <p class="custom-fonts mobile-para-padding">
-           Injury Live provides Medical and Surgical Specialties to provide Virtual Care Telemedicine Consultations for Hospitals, Clinics and Remote Worksites to Increase Access to Specialty Care when and where you Need it.</p>
+           Speciality Care Live provides Medical and Surgical Specialties to provide Virtual Care Telemedicine Consultations for Hospitals, Clinics and remote worksites to increase access to Specialty Care when and where you need it.</p>
           <div class="c-margin-b-10 c-margin-t-0">
-         <a href="javascript:void(0);" data-toggle="modal" data-target="#request" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Request a Call back to know more</a>
+         <a href="javascript:void(0);" data-toggle="modal" data-target="#request" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Request a call back to know more</a>
           </div>
         </div>
       </div>
@@ -497,7 +497,7 @@ include("header.php");
               <div class="er">
                 <div class="c-counter c-font-bold ">01</div>
               </div>
-              <p class="c-content sm-text-center text-center custom-fonts custom-call"> Call Us at </p>
+              <p class="c-content sm-text-center text-center custom-fonts custom-call"> Call us at </p>
 
                 <a hreflang="en" href="tel:(972) 865-4454" class="links cta-secondary"> (972) 865-4454 </a>
 
@@ -588,13 +588,14 @@ After the physician has diagnosed the issue, our care coordinator will review in
 <style type="text/css">
   .diff-to-other ul li{
     margin-bottom: 1rem;
+    text-align: justify;
   }
 </style>
-<section style="position: relative;z-index: 9999999;background-color: #fff;">
+<section style="position: relative;z-index: 9999999;background-color: #fff;padding: 0rem 0rem 5rem;">
   <div class="container">
     <div class="row" style="padding: 5rem 2rem 0rem;">
-      <h3 style="padding: 3rem 0rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> What Makes Injury Live The Leader? </h3>
-      <p class="c-content text-justify custom-fonts margin-bottom padding-mob">Injury Live expands the options for telemedicine to include over 19 medical and surgical specialities. By providing these service lines, we can either provide either stand-alone specialities to sites where none is currently offered or available. Additionally and just as commonly, we can augment or supplement existing clinical staff by providing specialist availability where clinical staffing is inconsistent, or not adequate to meet the need. By offering a stream-lined solution that is both cost-effective and can help improve the quality of care offered. </p>
+      <h3 style="padding: 3rem 0rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> What makes Speciality Care Live the Leader? </h3>
+      <p class="c-content text-justify custom-fonts margin-bottom padding-mob">Speciality Care Live expands the options for telemedicine to include over 19 medical and surgical specialities. By providing these service lines, we can either provide either stand-alone specialities to sites where none is currently offered or available. Additionally and just as commonly, we can augment or supplement existing clinical staff by providing specialist availability where clinical staffing is inconsistent, or not adequate to meet the need. By offering a stream-lined solution that is both cost-effective and can help improve the quality of care offered. </p>
 
       <p class="c-content text-justify custom-fonts margin-bottom padding-mob">Our physicians, who have active clinical practices themselves, use our evidence-based approach and protocols to deliver a conservative and appropriate care plan for patients in conjunction with local providers. Whether it is a non-emergent condition where a consultation would be beneficial, an emergent evaluation of a new condition which may occasionally be treated locally, or initial stabilization recommendations for emergent conditions while waiting a transfer, we provide broad access to the appropriate specialists. We also know and appreciate that not all conditions can or should be evaluated and treated using Telemedicine, and the facility and its providers also play significant factors in these decisions.</p>
 
@@ -602,15 +603,17 @@ After the physician has diagnosed the issue, our care coordinator will review in
     </div>
     <div class="row">
       <div class="visit-button-holder">
-        <a href="contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="padding: 2rem 4rem;margin:2rem;">Learn more about Injury Live</a>
+        <a href="contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="padding: 2rem 4rem;margin:2rem;">Learn more about Speciality Care Live</a>
       </div>
     </div>
-    <div class="row">
+    <!-- <div class="row">
       <img src="assets/images/telemed-laptop.jpg" style="width: 100%;height: auto;padding: 3rem 0rem;">
     </div>
-    <hr>
-    <div class="row diff-to-other" style="padding: 0rem 2rem 0rem;">
-      <h3 style="padding: 1rem 0rem 3rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Differentiating Injury Live from Other Telemedicine Providers </h3>
+    <hr> --></div></section>
+    <section style="position: relative;z-index: 9999999;background-color: #e6e6e5 !important;padding: 5rem 0rem">
+  <div class="container">
+    <div class="row diff-to-other" style="padding: 1rem 2rem 1rem;">
+      <h3 style="padding: 1rem 0rem 3rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Differentiating Speciality Care Live from other Telemedicine Providers </h3>
       <ul>
         <li>19 different medical and surgical specialties available via our board-certified telemedicine providers</li>
         <li>Specialist consultation services available 24/7 via telemedicine platform. Initial call-back times range from 5 minutes for emergencies to 15 minutes for urgent conditions, and 30 minutes for routine conditions in the ED, depending on specialty. Backup connectivity options provided. <strong>Industry First.</strong></li>
@@ -623,24 +626,24 @@ After the physician has diagnosed the issue, our care coordinator will review in
         <li>Specialist physicians and surgeons are specialists in their field, with advanced training who are committed to providing high quality care and supporting the community mission. All physicians have ownership options within our company. <strong>Industry First.</strong></li>
         <li>Ongoing peer-initiated and reviewed research aimed at the continuing improvement of care, outcomes and services delivery where permitted. <strong>Industry First.</strong></li>
         <li>Individual, hospital specific training available. Online video training for ancillary providers includes specialty specific assessments, red flags, etc. Specialized discharge instruction available. <strong>Industry First.</strong></li>
-        <li>Injury Live supports and manages non-profit initiatives focused on global health and improving the delivery of care. <strong>Industry First.</strong></li>
+        <li>Speciality Care Live supports and manages non-profit initiatives focused on global health and improving the delivery of care. <strong>Industry First.</strong></li>
         <li>CME training and specialty-specific clinical update live-video seminars. <strong>Industry First.</strong></li>
         <li>Synergy with local specialists - our goal is to be non-competitive, providing staffing as needed to patients, and supporting local specialists wherever possible.</li>
       </ul>
     </div>
-    <hr>
+    <!-- <hr> -->
     <div class="row">
       <div class="visit-button-holder">
         <a href="contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="padding: 2rem 4rem;margin:2rem;">Schedule a 5-minute quick<br class="mob-only"> overview call</a>
       </div>
     </div>
-    <hr>
+    <!-- <hr> -->
   </div>
 
 </section>
 
 
-<section style="background-image: url('assets/images/speciality-side.jpg');height: 250px;z-index: 1000;position: relative;background-position: center;background-repeat: no-repeat;background-size: cover;">
+<!-- <section style="background-image: url('assets/images/speciality-side.jpg');height: 250px;z-index: 1000;position: relative;background-position: center;background-repeat: no-repeat;background-size: cover;">
     <div style="position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);">
       <h1 class="our-spe">Our Specialities</h1>
     </div>
@@ -659,15 +662,16 @@ After the physician has diagnosed the issue, our care coordinator will review in
         <h1 class="text-center">Injury &amp; Pain</h1>
       </div>
     </div>
-    <hr>
+    <hr> -->
 
-
+<section style="position: relative;z-index: 9999999;background-color: #fff !important;padding: 0rem 0rem 5rem;">
+  <div class="container">
     <div class="row">
       <h3 style="padding: 5rem 0rem 3rem;" class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> What is Telemedicine? </h3>
       <p class="c-content sm-text-center text-center custom-fonts margin-bottom padding-mob"><strong>
         "TELEMEDICINE IS THE USE OF A HIGH QUALITY AUDIO-VISUAL COMMUNICATION SOFTWARE PLATFORM LINKING REMOTE CARE PROVIDERS AND PATIENTS WITH SPECIALISTS IN AREAS THAT ARE UNDERSERVED OR THE NEED EXCEEDS THE CAPACITY. "</strong>
       </p>
-      <p class="c-content text-justify custom-fonts margin-bottom padding-mob-head">Although it sounds modern, even futuristic, the first reference to telemedicine in the medical literature appeared in 1950 (Zundel, 1996), and was the transmission of radiologic images by telephone between West Chester and Philadelphia, Pennsylvania, a distance of 24 miles. Injury Live connects specialists with distant patients and caregivers using the most sophisticated computer platform and software available to allow for meaningful and complete interactions between patients and caregivers. By providing access to specialists in areas that are either unavailable, under-served or where the existing specialists are over-utilized, we allow a level of care and interaction that helps redefine the local standard of care. By providing specialist consultations and care, we hope to improve the improve the patient- physician experience, improve diagnostic accuracy and the care delivery, allow for certain patients to be cared for locally without the need for transfer, with improved efficiencies in the delivery of services. In short, <strong>Injury Live</strong> defines quality, value-based care.  </p>
+      <p class="c-content text-justify custom-fonts margin-bottom padding-mob-head">Although it sounds modern, even futuristic, the first reference to telemedicine in the medical literature appeared in 1950 (Zundel, 1996), and was the transmission of radiologic images by telephone between West Chester and Philadelphia, Pennsylvania, a distance of 24 miles. Speciality Care Live connects specialists with distant patients and caregivers using the most sophisticated computer platform and software available to allow for meaningful and complete interactions between patients and caregivers. By providing access to specialists in areas that are either unavailable, under-served or where the existing specialists are over-utilized, we allow a level of care and interaction that helps redefine the local standard of care. By providing specialist consultations and care, we hope to improve the improve the patient- physician experience, improve diagnostic accuracy and the care delivery, allow for certain patients to be cared for locally without the need for transfer, with improved efficiencies in the delivery of services. In short, <strong>Speciality Care Live</strong> defines quality, value-based care.  </p>
       <div class="col-md-4">
         <img src="assets/images/technology.jpeg" style="width: 100%;margin: 4rem 0rem;">
         <p  class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
