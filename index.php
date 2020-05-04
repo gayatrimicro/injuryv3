@@ -595,7 +595,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
   <div class="container">
     <div class="row" style="padding: 5rem 2rem 0rem;">
       <h3 style="padding: 3rem 0rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> What makes Speciality Care Live the Leader? </h3>
-      <p class="c-content text-justify custom-fonts margin-bottom padding-mob">Speciality Care Live expands the options for telemedicine to include over 19 medical and surgical specialities. By providing these service lines, we can either provide either stand-alone specialities to sites where none is currently offered or available. Additionally and just as commonly, we can augment or supplement existing clinical staff by providing specialist availability where clinical staffing is inconsistent, or not adequate to meet the need. By offering a stream-lined solution that is both cost-effective and can help improve the quality of care offered. </p>
+      <p class="c-content text-justify custom-fonts margin-bottom padding-mob">Speciality Care Live expands the options for telemedicine  to include many medical and surgical specialities. By providing these service lines, we can either provide either stand-alone specialities to sites where none is currently offered or available. Additionally and just as commonly, we can augment or supplement existing clinical staff by providing specialist availability where clinical staffing is inconsistent, or not adequate to meet the need. By offering a stream-lined solution that is both cost-effective and can help improve the quality of care offered. </p>
 
       <p class="c-content text-justify custom-fonts margin-bottom padding-mob">Our physicians, who have active clinical practices themselves, use our evidence-based approach and protocols to deliver a conservative and appropriate care plan for patients in conjunction with local providers. Whether it is a non-emergent condition where a consultation would be beneficial, an emergent evaluation of a new condition which may occasionally be treated locally, or initial stabilization recommendations for emergent conditions while waiting a transfer, we provide broad access to the appropriate specialists. We also know and appreciate that not all conditions can or should be evaluated and treated using Telemedicine, and the facility and its providers also play significant factors in these decisions.</p>
 
@@ -615,10 +615,9 @@ After the physician has diagnosed the issue, our care coordinator will review in
     <div class="row diff-to-other" style="padding: 1rem 2rem 1rem;">
       <h3 style="padding: 1rem 0rem 3rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Differentiating Speciality Care Live from other Telemedicine Providers </h3>
       <ul>
-        <li>19 different medical and surgical specialties available via our board-certified telemedicine providers</li>
+        <li>Many different medical and surgical specialties available via our board-certified telemedicine providers</li>
         <li>Specialist consultation services available 24/7 via telemedicine platform. Initial call-back times range from 5 minutes for emergencies to 15 minutes for urgent conditions, and 30 minutes for routine conditions in the ED, depending on specialty. Backup connectivity options provided. <strong>Industry First.</strong></li>
         <li>Initial contact for a consultation is a physician-to-physician interaction. Overlapping call shifts allow for seamless patient care and follow-up when indicated. <strong>Industry First.</strong></li>
-        <li>Fully-accredited by the <strong>Joint Commission</strong> for Ambulatory Health Care, one of the only telemedicine providers in the country to have this prestigious honor. </li>
         <li>Available ED and inpatient consultations, as well as follow-up consultations. Rounding services available.</li>
         <li>Quarterly volume assessment, diagnosis matrices, quality assurance and disposition data provided.</li>
         <li>Turn-key or a la carte integration of physician services and technology platform creating customized solutions for each facility needs, budgets and goals. <strong>Industry First.</strong></li>
@@ -627,7 +626,6 @@ After the physician has diagnosed the issue, our care coordinator will review in
         <li>Ongoing peer-initiated and reviewed research aimed at the continuing improvement of care, outcomes and services delivery where permitted. <strong>Industry First.</strong></li>
         <li>Individual, hospital specific training available. Online video training for ancillary providers includes specialty specific assessments, red flags, etc. Specialized discharge instruction available. <strong>Industry First.</strong></li>
         <li>Speciality Care Live supports and manages non-profit initiatives focused on global health and improving the delivery of care. <strong>Industry First.</strong></li>
-        <li>CME training and specialty-specific clinical update live-video seminars. <strong>Industry First.</strong></li>
         <li>Synergy with local specialists - our goal is to be non-competitive, providing staffing as needed to patients, and supporting local specialists wherever possible.</li>
       </ul>
     </div>
