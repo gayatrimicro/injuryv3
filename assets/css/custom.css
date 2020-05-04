@@ -1872,12 +1872,12 @@ input[type=text].footer-subscribe__input--short, input[type=email].footer-subscr
 }
 .global-footer-stats__logo {
 	display: block;
-	height: 110px;
+	height: 45px;
 	margin-bottom: 16px;
 	-webkit-transform: translateY(-4px);
 	transform: translateY(-4px);
 	width: auto;
-	    margin: 13px 75px;
+	    margin: 13px 60px;
 }
 
 @media (max-width: 1023px) {
