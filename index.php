@@ -99,7 +99,7 @@ include("header.php");
 
 
 
-<div class="c-layout-header-dot  c-layout-header-default c-layout-header-dark-mobile c-header-transparent-dark" id="home" data-minimize-offset="0">
+<div class="c-layout-header-dot  c-layout-header-default c-layout-header-dark-mobile c-header-transparent-dark" data-minimize-offset="0">
   <div class="c-navbar">
     <div class="container-fluid"> 
       <!-- BEGIN: BRAND -->
@@ -138,16 +138,16 @@ include("header.php");
         <form>
           <div class="row">
             <div class="col-md-12 form-group">
-              <input type="text" class="form-control input-lg c-square" id="login-email" required="" placeholder="Enter Name">
+              <input type="text" class="form-control input-lg c-square" id="login-name" required="" placeholder="Enter Name">
             </div>
             <div class="col-md-6 form-group">
-              <input type="email" class="form-control input-lg c-square" id="login-password" required="" placeholder="Enter Email">
+              <input type="email" class="form-control input-lg c-square" id="login-email" required="" placeholder="Enter Email">
             </div>
              <div class="col-md-6 form-group">
-              <input type="number" class="form-control input-lg c-square" id="login-password" required="" placeholder="Enter Mobile">
+              <input type="number" class="form-control input-lg c-square" id="login-number" required="" placeholder="Enter Mobile">
             </div>
             <div class="col-md-12 form-group">
-              <textarea type="text" class="form-control input-lg c-square" id="login-password" placeholder="Enter Your Message"></textarea>
+              <textarea type="text" class="form-control input-lg c-square" id="login-message" placeholder="Enter Your Message"></textarea>
             </div>
           </div>
           <div class=" form-group">
@@ -405,7 +405,7 @@ include("header.php");
 
 
   
-<section id="whyus" class="c-margin" style="background-color: #e6e6e5 !important; z-index: 1000;position: relative;"> 
+<section id="whyus" class="c-margin" style="background-color: #f1f1f1 !important; z-index: 1000;position: relative;"> 
     <div id="desk" class="c-content-box c-size-md">
       <div class="container">
         <div class="col-md-6">
@@ -573,7 +573,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
         </div>
       </div>
       <div class="col-md-6 col-ls-6 col-sm-12">
-        <img src="assets/images/side-tele.jpg"  style="width: 100%;height:auto;margin-top: 30px !important;border-radius: 3px;">
+        <img src="assets/images/side-tele.jpg" alt="side-tele" style="width: 100%;height:auto;margin-top: 30px !important;border-radius: 3px;">
       </div>
     </div>
     
@@ -610,7 +610,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
       <img src="assets/images/telemed-laptop.jpg" style="width: 100%;height: auto;padding: 3rem 0rem;">
     </div>
     <hr> --></div></section>
-    <section style="position: relative;z-index: 9999999;background-color: #e6e6e5 !important;padding: 5rem 0rem">
+    <section style="position: relative;z-index: 9999999;background-color: #f1f1f1 !important;padding: 5rem 0rem">
   <div class="container">
     <div class="row diff-to-other" style="padding: 1rem 2rem 1rem;">
       <h3 style="padding: 1rem 0rem 3rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Differentiating Speciality Care Live from other Telemedicine Providers </h3>
@@ -671,21 +671,21 @@ After the physician has diagnosed the issue, our care coordinator will review in
       </p>
       <p class="c-content text-justify custom-fonts margin-bottom padding-mob-head">Although it sounds modern, even futuristic, the first reference to telemedicine in the medical literature appeared in 1950 (Zundel, 1996), and was the transmission of radiologic images by telephone between West Chester and Philadelphia, Pennsylvania, a distance of 24 miles. Speciality Care Live connects specialists with distant patients and caregivers using the most sophisticated computer platform and software available to allow for meaningful and complete interactions between patients and caregivers. By providing access to specialists in areas that are either unavailable, under-served or where the existing specialists are over-utilized, we allow a level of care and interaction that helps redefine the local standard of care. By providing specialist consultations and care, we hope to improve the improve the patient- physician experience, improve diagnostic accuracy and the care delivery, allow for certain patients to be cared for locally without the need for transfer, with improved efficiencies in the delivery of services. In short, <strong>Speciality Care Live</strong> defines quality, value-based care.  </p>
       <div class="col-md-4">
-        <img src="assets/images/technology.jpeg" style="width: 100%;margin: 4rem 0rem;">
+        <img src="assets/images/technology.jpeg" alt="technology" style="width: 100%;margin: 4rem 0rem;">
         <p  class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
           TECHNOLOGY
         </strong></p>
         <p  class="c-content custom-fonts margin-bottom text-justify padding-mob">The software and hardware platform and linkage allows for seamless, face-to-face interaction between the consulting physician and local provider and/or patient, effectively marking a new era in medicine.  We partner with the most sophisticated technology providers in the world bringing you a complete package of physician services and technology.</p>
       </div>
       <div class="col-md-4">
-        <img src="assets/images/specialist.jpeg" style="width: 100%;margin: 4rem 0rem;">
+        <img src="assets/images/specialist.jpeg" alt="speciality" style="width: 100%;margin: 4rem 0rem;">
         <p  class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
           SPECIALISTS
         </strong></p>
         <p  class="c-content custom-fonts margin-bottom text-justify padding-mob">Our physicians are experts in their chosen fields, which range from neurology to nonoperative neurosurgery to behavioral health. When needed, remote telemedicine consultations can save time and money, and help potentially improve the quality of care delivered locally.</p>
       </div>
       <div class="col-md-4">
-        <img src="assets/images/tele-system.jpeg" style="width: 100%;margin: 4rem 0rem;">
+        <img src="assets/images/tele-system.jpeg" alt="tele-sys" style="width: 100%;margin: 4rem 0rem;">
         <p  class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
           TELEMEDICINE
         </strong></p>
@@ -769,7 +769,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
     </div>
   </section> -->
 
-  <section id="testimonials" class="desk-only" style="z-index: 1000;position: relative;background-color: #e6e6e5;">
+  <section id="testimonials" class="desk-only" style="z-index: 1000;position: relative;background-color: #f1f1f1;">
 
     <div class="container">
         <div class="row">
@@ -835,8 +835,8 @@ After the physician has diagnosed the issue, our care coordinator will review in
                     </ol>
 
                     <!-- Carousel Buttons Next/Prev -->
-                    <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
-                    <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a>
+                    <!-- <a data-slide="prev" href="#quote-carousel" class="left carousel-control"><i class="fa fa-chevron-left"></i></a>
+                    <a data-slide="next" href="#quote-carousel" class="right carousel-control"><i class="fa fa-chevron-right"></i></a> -->
                 </div>
             </div>
         </div>
@@ -1194,12 +1194,12 @@ $('.c-hor-nav-toggler').on('click', () => {
      display: block !important;
   }
 </style>
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || 
 {widgetcode:"dff61a8418f84d56287ce8dab67b9f39a67977fb7395780d46b6acaa5b3dc65a", values:{},ready:function(){}};
 var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;
 s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
-</script>
+</script> -->
 
 
 <!-- <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: 'e6312c83-0591-4201-8b7e-b46a59cfc27c', f: true }); done = true; } }; })();

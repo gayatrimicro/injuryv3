@@ -384,7 +384,7 @@
     margin: 0 -1px 0px auto;
     border-radius: 5px;
     left: 38px;
-    background-color: #08c597 !important;
+    background-color: #193560 !important;
 }
 
 .c-underline-bottom {
@@ -429,7 +429,7 @@
 }
 .c-root-unserline-left {
 	border-radius: 5px;
-	background-color:#08c597;
+	background-color:#097ec2;
 	z-index: 230;
 	width: 120px;
 	height: 10px;
@@ -1410,7 +1410,7 @@ input[type=text].footer-subscribe__input--short, input[type=email].footer-subscr
 }
 .global-footer__text-link:link, .global-footer__text-link:visited {
 	color: white;
-	opacity: 0.5;
+	opacity: 1;
 	text-decoration: none
 }
 .global-footer__text-link:active, .global-footer__text-link:hover {
@@ -1468,7 +1468,7 @@ input[type=text].footer-subscribe__input--short, input[type=email].footer-subscr
 }
 .global-footer-company-links__copyright, .global-footer-company-links__price-disclaimer {
 	display: block;
-	color: #999999;
+	color: #fff;
 	font-size: inherit;
 	margin-top: 12px
 }

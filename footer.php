@@ -39,7 +39,7 @@
           </nav>
           <div class="global-footer-stats"> <img class="global-footer-stats__logo res-mar-center" alt="" src="assets/images/company_logo-2.png">
             <ul class="global-footer-stats__list res-mar-center">
-              <li class="global-footer-stats__list-item h-p0 text-center"> <span class="global-footer-stats__number">302,051</span> <span style="color: #08c597;">Injured assisted</span> </li>
+              <li class="global-footer-stats__list-item h-p0 text-center"> <span class="global-footer-stats__number">302,051</span> <span style="color: #fff;">Injured assisted</span> </li>
             </ul>
           </div>
         </div>

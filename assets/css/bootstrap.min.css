@@ -995,7 +995,7 @@ body {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	line-height: 1.42857;
-	color: #6d6d6d;
+	color: #131313;
 }
 button, input, select, textarea {
 	font-family: inherit;
@@ -1105,7 +1105,7 @@ hr {
 	font-size: 12px
 }
 p {
-	color: #4E5464;
+	color: #131313;
     line-height: 22px;
     font-size: 16px;
    font-family: lato, sans-serif;
@@ -1305,7 +1305,7 @@ blockquote .small, blockquote footer, blockquote small {
 	display: block;
 	font-size: 80%;
 	line-height: 1.42857;
-	color: #777
+	color: #131313;
 }
 blockquote .small:before, blockquote footer:before, blockquote small:before {
 	content: '\2014 \00A0'
