@@ -62,7 +62,7 @@
 
             </li>
 
-            <li class="c-onepage-link active c-active"> <a href="#" class="c-link"><span>Second Opinion</span></a> </li>
+            <li class="c-onepage-link active c-active"> <a href="http://spacegm.com/injuryv3/second-opinion/" class="c-link"><span>Second Opinion</span></a> </li>
          
 
   <!-- <li class="c-onepage-link show show-mobile-two"> <a href="#" class="c-link">Services</a>

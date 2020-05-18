@@ -36,7 +36,7 @@
 
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-<title>Employer | Injury Live</title>
+<title>Second Opinion | Injury Live</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -267,7 +267,7 @@ include("../header.php");
 <section style="z-index: 1000;position: relative;">
   <div class="inner_bannertel">
     <h3>Speciality Care Live Features and Benefit</h3>
-    <p>Speciality Care Live is a telemedicine solution dedicated to the treatment of minor, work-related injuries and illnesses. Minimize lost duty time and productivity and avoid unnecessary visits to hospitals and urgent care facilities.</p>
+    <p>Concentra Telemed is a telemedicine solution dedicated to the treatment of minor, work-related injuries and illnesses. Minimize lost duty time and productivity and avoid unnecessary visits to hospitals and urgent care facilities.</p>
       <ul class="tel_banul">
         <li><div><img src="../assets/images/high-user-satisfaction-icon.png"><p>CONVENIENCE</p></div></li>
         <!-- <li><div><img src="../assets/images/open24x7.png"><p>Open 24/7</p></div></li> -->
@@ -593,7 +593,7 @@ include("../header.php");
 </ul>
 </div>
 </div>
-<p style="font-size: 1.5rem;">Speciality Care Live is not appropriate for serious or life-threatening conditions. For such conditions, please seek <span> </span>emergency medical assistance immediately.</p></div><ul class="buttons"><li class="field-promolink"><a href="#" data-variantitemid="{ABB27377-0DA0-4AD7-8869-D18D7FA7022D}" data-variantfieldname="PromoLink">Find out where Speciality Care Live is available</a></li></ul></div> </div>
+<p style="font-size: 1.5rem;">Concentra Telemed is not appropriate for serious or life-threatening conditions. For such conditions, please seek <span> </span>emergency medical assistance immediately.</p></div><ul class="buttons"><li class="field-promolink"><a href="#" data-variantitemid="{ABB27377-0DA0-4AD7-8869-D18D7FA7022D}" data-variantfieldname="PromoLink">Find out where Concentra Telemed is available</a></li></ul></div> </div>
 </div>
 </div>
 </div>
@@ -640,30 +640,30 @@ include("../header.php");
       <button class="accordion">Employer Resources</button>
       <div class="panels">
         <ul>
-          <li>Speciality Care Live Starter Kit</li>
+          <li>Concentra Telemed Starter Kit</li>
           <li>Marketing Tool Kit</li>
-          <li>Speciality Care Live FAQ</li>
-          <li>How to use Speciality Care Live</li>
-          <li>Speciality Care Live Availability</li>
+          <li>Concentra Telemed FAQ</li>
+          <li>How to use Concentra Telemed</li>
+          <li>Concentra Telemed Availability</li>
         </ul>
       </div>
 
       <button class="accordion">How do I get started?</button>
       <div class="panels">
-        <p>First, report any work-related incident to your supervisor, who will assist in using Speciality Care Live. Go to Google Play or the Apple App Store to download the Speciality Care Live app on your mobile device. You can also go to companyname.com to access from a computer.</p>
+        <p>First, report any work-related incident to your supervisor, who will assist in using Concentra Telemed. Go to Google Play or the Apple App Store to download the Concentra Telemed app on your mobile device. You can also go to concentratelemed.com to access from a computer.</p>
       </div>
 
-      <button class="accordion">How long does a Speciality Care Live visit take?</button>
+      <button class="accordion">How long does a Concentra Telemed visit take?</button>
       <div class="panels">
-        <p>The length of each visit depends on your condition and medical needs. One advantage of using Speciality Care Live for qualified injuries is you will not spend time traveling to and from a medical facility or sitting in a waiting room.</p>
+        <p>The length of each visit depends on your condition and medical needs. One advantage of using Concentra Telemed for qualified injuries is you will not spend time traveling to and from a medical facility or sitting in a waiting room.</p>
       </div>
 
       <button class="accordion">How do I authorize a telemedicine visit?</button>
       <div class="panels">
-        <p>An employer authorization form must be submitted to use Speciality Care Live. The authorization form can be submitted in the following ways:</p>
+        <p>An employer authorization form must be submitted to use Concentra Telemed. The authorization form can be submitted in the following ways:</p>
         <ul>
-          <li>Email (companyname@demain.com)</li>
-          <li>Portal (https://portal.SSL.com/login)</li>
+          <li>Email (telemed@concentra.com)</li>
+          <li>Portal (https://portal.concentra.com/login)</li>
           <li>Fax (844-371-8990)</li>
           <li>Screen shot (Hold the form up to the camera at start of video visit)</li>
         </ul>
@@ -680,29 +680,29 @@ include("../header.php");
           <li>iPad Mini 2</li>
           <li>iPod Touch 6th gen and newer</li>
         </ul>
-        <p>Microsoft Windows Operating System : recommended that you use the latest version of Google Chrome, Microsoft Internet Explorer, Mozilla Firefox, or Safari (Mac only). You cannot access companyname.com via mobile device.
+        <p>Microsoft Windows Operating System : recommended that you use the latest version of Google Chrome, Microsoft Internet Explorer, Mozilla Firefox, or Safari (Mac only). You cannot access concentratelemed.com via mobile device.
 
         </p>
       </div>
 
-      <button class="accordion">Is Speciality Care Live available 24/7/365?</button>
+      <button class="accordion">Is Concentra Telemed available 24/7/365?</button>
       <div class="panels">
-        <p>Speciality Care Live delivers 24/7 access in all available states except Hawaii and will continue to provide anytime access as we expand to other states.</p>
+        <p>Concentra Telemed delivers 24/7 access in all available states except Hawaii and will continue to provide anytime access as we expand to other states.</p>
       </div>
 
-      <button class="accordion">How secure is a Speciality Care Live visit?</button>
+      <button class="accordion">How secure is a Concentra Telemed visit?</button>
       <div class="panels">
-        <p>Speciality Care Live deploys a HIPAA-compliant system of secure communication to maintain the integrity of your protected health information (PHI). The platform is equipped to monitor communications for prevention of accidental or malicious breaches. In addition, Speciality Care Live does not record video visits or store patient records in this platform.</p>
+        <p>Concentra Telemed deploys a HIPAA-compliant system of secure communication to maintain the integrity of your protected health information (PHI). The platform is equipped to monitor communications for prevention of accidental or malicious breaches. In addition, Concentra does not record video visits or store patient records in this platform.</p>
       </div>
 
-      <button class="accordion">Can I use Speciality Care Live while traveling with work?</button>
+      <button class="accordion">Can I use Concentra Telemed while traveling with work?</button>
       <div class="panels">
-        <p>It depends on the state. Our ultimate goal is to provide nationwide access to occupational health clinicians using our telemedicine platform; however, there are some states where Speciality Care Live is currently unavailable.</p>
+        <p>It depends on the state. Our ultimate goal is to provide nationwide access to occupational health clinicians using our telemedicine platform; however, there are some states where Concentra Telemed is currently unavailable.</p>
       </div>
 
-      <button class="accordion">Can I use Speciality Care Live for my primary care needs?</button>
+      <button class="accordion">Can I use Concentra Telemed for my primary care needs?</button>
       <div class="panels">
-        <p>No. Speciality Care Live is a telemedicine platform designed to manage less serious work injuries only. It should not be utilized to treat health conditions that are not work-related.</p>
+        <p>No. Concentra Telemed is a telemedicine platform designed to manage less serious work injuries only. It should not be utilized to treat health conditions that are not work-related.</p>
       </div>
 
       <button class="accordion">What if I need technical assistance?</button>
