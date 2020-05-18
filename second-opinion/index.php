@@ -252,7 +252,7 @@ include("../header.php");
 
     <div class="row">
       <div class="visit-button-holder">
-        <a href="contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder btn-mob" style="margin:2rem;">Learn more about Speciality Care Live</a>
+        <a href="../contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder btn-mob" style="margin:2rem;">Learn more about Speciality Care Live</a>
       </div>
     </div>
   </div>
