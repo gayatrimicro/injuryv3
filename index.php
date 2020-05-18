@@ -162,135 +162,39 @@ include("header.php");
 
 
 
-<div class="c-layout-page"> 
+<div class="c-layout-page">
 <section class="banner">
+
    <div class="container new-container">
+     
       <div class="row">
-                  <div class="large-12 columns">
+        <div class="col-md-12 col-sm-6 new-cols" style="position: relative;padding: 0px">
 
-                    <!--  <div class="owl-carousel">
-                        <div class="item">
-                           <div class="slider1"> -->
-                              <picture>
-                                 <source srcset="assets/images/mob-slider-transparent-cost.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/slider-transparent-cost.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
-                              </picture>
-                              <div class="header-content">
-                                
-                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">THE LEADING MULTISPECIALTY TELEMEDICINE PROVIDER</h3>
-                                 
-                                <!-- <div class="c-margin-b-10 c-margin-t-0">
-                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
-                                </div> -->
-                              </div>
-                           <!-- </div>
-                        </div> -->
-                        <!-- <div class="item">
-                           <div class="slider1">
-                              <picture>
-                                 <source srcset="assets/images/mob-slider-chronic.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/slider-chronic.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
-                              </picture>
+         
+<picture>
+  <source srcset="assets/images/mob-orthopedic-telemedicine.jpg" media="(max-width: 600px)">
+  <img src="assets/images/employer.jpg" class="full" alt="orthotherapy" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
 
-                              <div class="header-content ">
-                                 
-                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Chronic Joint Pain?</h3>
-                                 
-                                 <div class="c-margin-b-10 c-margin-t-0">
-                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
-                                </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="item">
-                           <div class="slider1">
-                              <picture>
-                                 <source srcset="assets/images/mob-slider-acute.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/slider-acute.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
-                              </picture>
-                              <div class="header-content ">
-                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Acute Joint Pain?</h3>
-                                 
-                                 <div class="c-margin-b-10 c-margin-t-0">
-                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
-                                </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="item">
-                           <div class="slider1">
-                              <picture>
-                                 <source srcset="assets/images/mob-slider-comfert.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/slider-comfert.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
-                              </picture>
-                              <div class="header-content ">
-                                
-                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Care from the <br>Comfort of Home</h3>
-                                 
-                                 <div class="c-margin-b-10 c-margin-t-0">
-                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
-                                </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="item">
-                           <div class="slider1">
-                              <picture>
-                                 <source srcset="assets/images/homepage-hero-mobile-worker-slip-man.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/home_background-workers-slip.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
-                              </picture>
-                              <div class="header-content ">
-                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center main-margin">Injured?</h3>
-                                 
-                                 <div class="c-margin-b-10 c-margin-t-0">
-                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
-                                </div>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="item">
-                           <div class="slider1">
-                              <picture>
-                                 <source srcset="assets/images/mob-slider-transparent-cost.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/slider-transparent-cost.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
-                              </picture>
-                              <div class="header-content ">
-                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Transparent Costs and <br>Exceptional Care</h3>
-                                 
-                                 <div class="c-margin-b-10 c-margin-t-0">
-                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
-                                </div>
-                              </div>
-                           </div>
-                        </div> 
+             </picture>
 
-                        <div class="item">
-                           <div class="slider1">
-                              <picture>
-                                 <source srcset="assets/images/mob-slider-second-opinion.jpg" media="(max-width: 600px)">
-                                 <img src="assets/images/slider-second-opinion.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
-                              </picture>
-                              <div class="header-content ">
-                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Need a Second Opinion?</h3>
-                                 
-                                 <div class="c-margin-b-10 c-margin-t-0">
-                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
-                                </div>
-                              </div>
-                           </div>
-                        </div>
-                        -->
+<div class="header-content ">
+            
 
-
-
-
-
-                     <!-- </div> -->
-                  </div>
+              <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center" style="text-align: center;font-weight: 100;">Revolutionizing Care<br><strong>Through Telehealth</strong></h3>
                
+            
+          </div>
+
+
+</div>
       </div>
-   </div>
-</section>
+
+
+
+   </div> 
+
+</section> 
+
 
 
 

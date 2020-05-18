@@ -75,6 +75,15 @@
     padding-top: 60px;
     padding-bottom: 60px;
 }
+.header-content {
+    padding: 0% !important; 
+    z-index: 9;
+    position: absolute;
+    top: 50% !important;
+    font-family: 'Montserrat', sans-serif;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 .bigger-font-medium {
     font-size: 30px;
     line-height: 1.3;
@@ -165,7 +174,137 @@ include("../header.php");
 
 <div class="c-layout-page"> 
 
-  <section class="banner">
+<section class="banner">
+   <div class="container new-container">
+      <div class="row">
+                  <div class="large-12 columns">
+
+                    <!--  <div class="owl-carousel">
+                        <div class="item">
+                           <div class="slider1"> -->
+                              <picture>
+                                 <source srcset="../assets/images/mob-slider-transparent-cost.jpg" media="(max-width: 600px)">
+                                 <img src="../assets/images/slider-transparent-cost.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                              </picture>
+                              <div class="header-content">
+                                
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">THE LEADING MULTISPECIALTY TELEMEDICINE PROVIDER</h3>
+                                 <p class="text-left mobile-para-padding" style="margin: 0 auto !important;"> 
+                                    <a href="#" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Connect to an expert</a>
+                                </p>
+                                <!-- <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div> -->
+                              </div>
+                           <!-- </div>
+                        </div> -->
+                        <!-- <div class="item">
+                           <div class="slider1">
+                              <picture>
+                                 <source srcset="assets/images/mob-slider-chronic.jpg" media="(max-width: 600px)">
+                                 <img src="assets/images/slider-chronic.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                              </picture>
+
+                              <div class="header-content ">
+                                 
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Chronic Joint Pain?</h3>
+                                 
+                                 <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="slider1">
+                              <picture>
+                                 <source srcset="assets/images/mob-slider-acute.jpg" media="(max-width: 600px)">
+                                 <img src="assets/images/slider-acute.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                              </picture>
+                              <div class="header-content ">
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Acute Joint Pain?</h3>
+                                 
+                                 <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="slider1">
+                              <picture>
+                                 <source srcset="assets/images/mob-slider-comfert.jpg" media="(max-width: 600px)">
+                                 <img src="assets/images/slider-comfert.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                              </picture>
+                              <div class="header-content ">
+                                
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Care from the <br>Comfort of Home</h3>
+                                 
+                                 <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="slider1">
+                              <picture>
+                                 <source srcset="assets/images/homepage-hero-mobile-worker-slip-man.jpg" media="(max-width: 600px)">
+                                 <img src="assets/images/home_background-workers-slip.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                              </picture>
+                              <div class="header-content ">
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center main-margin">Injured?</h3>
+                                 
+                                 <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="item">
+                           <div class="slider1">
+                              <picture>
+                                 <source srcset="assets/images/mob-slider-transparent-cost.jpg" media="(max-width: 600px)">
+                                 <img src="assets/images/slider-transparent-cost.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                              </picture>
+                              <div class="header-content ">
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Transparent Costs and <br>Exceptional Care</h3>
+                                 
+                                 <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
+                              </div>
+                           </div>
+                        </div> 
+
+                        <div class="item">
+                           <div class="slider1">
+                              <picture>
+                                 <source srcset="assets/images/mob-slider-second-opinion.jpg" media="(max-width: 600px)">
+                                 <img src="assets/images/slider-second-opinion.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                              </picture>
+                              <div class="header-content ">
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Need a Second Opinion?</h3>
+                                 
+                                 <div class="c-margin-b-10 c-margin-t-0">
+                                  <a href="javascript:void(0);" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Book a TeleConsultation</a>
+                                </div>
+                              </div>
+                           </div>
+                        </div>
+                        -->
+
+
+
+
+
+                     <!-- </div> -->
+                  </div>
+               
+      </div>
+   </div>
+</section>
+  <!-- <section class="banner">
 
    <div class="container new-container">
      
@@ -197,7 +336,10 @@ include("../header.php");
 
    </div> 
 
-</section>
+</section> -->
+
+
+
 <style type="text/css">
   .inner_bannertel {
     background-color: #253c56;
@@ -398,7 +540,7 @@ include("../header.php");
 .richtextcontent ul>li, .field-content ul>li, .rich-text ul>li {
     padding-left: 3rem;
     position: relative;
-    letter-spacing: 1.5px;
+    letter-spacing: 0.2px;
     line-height: 1.5;
     font-size: 1.6rem;
 }
@@ -427,9 +569,9 @@ include("../header.php");
     border-bottom-style: solid;
     border-radius: 0;
     cursor: pointer;
-    color: #002855;
+    color: #097ec2;
     background-color: transparent;
-    border-color: #ed8b00;
+    border-color: #097ec2;
 }
 .richtextcontent ul>li:before, .field-content ul>li:before, .rich-text ul>li:before {
     content: "";
@@ -439,7 +581,7 @@ include("../header.php");
     left: 0;
     top: .1rem;
     display: inline-block;
-    color: #ed8b00;
+    color: #097ec2;
     vertical-align: middle;
 }
 .accordion {
@@ -475,7 +617,7 @@ include("../header.php");
     font-size: 100%;
     float: right;
     display: inline-block;
-    color: #ed8b00;
+    color: #097ec2;
     vertical-align: middle;
 }
 
@@ -529,6 +671,7 @@ include("../header.php");
   }
   .tel_banul li {
     width: 100%;
+        margin: 2rem 0rem;
   }
   .marg{
     margin-left: 0px;
@@ -559,7 +702,7 @@ include("../header.php");
 <ul>
 <li>Mobile device or computer with a webcam and microphone</li>
 <li>Employee's photo ID and email address</li>
-<li><a href="#">Employer authorization form</a></li>
+<li><a href="#" style="color: #097ec2;text-decoration: underline;">Employer authorization form</a></li>
 </ul></div>
 <ul class="buttons"><li class="field-promolink"><a href="#" data-variantitemid="{60BB8A4F-5BEA-4158-8303-00A5F2D0DAA1}" data-variantfieldname="PromoLink">Download the Details</a></li></ul></div> </div>
 </div>
@@ -605,7 +748,7 @@ include("../header.php");
 <section id="clients-new-new" style="background:#f4f9fc;position: relative;z-index: 100000;">
     <div class="inner_bannertel">
     <h3>Speciality Care Live Has Expanded its Telemedicine Services</h3>
-    <p>Speciality Care Live is now available in Speciality Care Live medical centers throughout the nation. The telemedicine services available in all states with a Speciality Care Live footprint are as follows:</p>
+    
       <ul class="tel_banul-second">
         <li>
           <div>
@@ -637,21 +780,7 @@ include("../header.php");
 
   <section id="accordian">
       <h3 style="text-align: center;">Employer FAQs and Resources</h3>
-      <button class="accordion">Employer Resources</button>
-      <div class="panels">
-        <ul>
-          <li>Speciality Care Live Starter Kit</li>
-          <li>Marketing Tool Kit</li>
-          <li>Speciality Care Live FAQ</li>
-          <li>How to use Speciality Care Live</li>
-          <li>Speciality Care Live Availability</li>
-        </ul>
-      </div>
-
-      <button class="accordion">How do I get started?</button>
-      <div class="panels">
-        <p>First, report any work-related incident to your supervisor, who will assist in using Speciality Care Live. Go to Google Play or the Apple App Store to download the Speciality Care Live app on your mobile device. You can also go to companyname.com to access from a computer.</p>
-      </div>
+      
 
       <button class="accordion">How long does a Speciality Care Live visit take?</button>
       <div class="panels">
@@ -662,10 +791,8 @@ include("../header.php");
       <div class="panels">
         <p>An employer authorization form must be submitted to use Speciality Care Live. The authorization form can be submitted in the following ways:</p>
         <ul>
-          <li>Email (companyname@demain.com)</li>
-          <li>Portal (https://portal.SSL.com/login)</li>
-          <li>Fax (844-371-8990)</li>
-          <li>Screen shot (Hold the form up to the camera at start of video visit)</li>
+          <li>Email (<a href="mailto:scctelevisit@cmclancaster.com">scctelevisit@cmclancaster.com</a>)</li>
+          <li>Fax ((214) 888-4450)</li>
         </ul>
       </div>
 
@@ -680,14 +807,9 @@ include("../header.php");
           <li>iPad Mini 2</li>
           <li>iPod Touch 6th gen and newer</li>
         </ul>
-        <p>Microsoft Windows Operating System : recommended that you use the latest version of Google Chrome, Microsoft Internet Explorer, Mozilla Firefox, or Safari (Mac only). You cannot access companyname.com via mobile device.
+        <p>Microsoft Windows Operating System : recommended that you use the latest version of Google Chrome, Microsoft Internet Explorer, Mozilla Firefox, or Safari (Mac only). You cannot access <a href="mailto:scctelevisit@cmclancaster.com">scctelevisit@cmclancaster.com</a> via mobile device.
 
         </p>
-      </div>
-
-      <button class="accordion">Is Speciality Care Live available 24/7/365?</button>
-      <div class="panels">
-        <p>Speciality Care Live delivers 24/7 access in all available states except Hawaii and will continue to provide anytime access as we expand to other states.</p>
       </div>
 
       <button class="accordion">How secure is a Speciality Care Live visit?</button>
@@ -707,7 +829,7 @@ include("../header.php");
 
       <button class="accordion">What if I need technical assistance?</button>
       <div class="panels">
-        <p>If you need help or have technical issues, call 855-835-6337.</p>
+        <p>If you need help or have technical issues, call <a style="color: #097ec2;text-decoration: underline;font-weight: 600;" href="tel:(972) 865-4454">(972) 865-4454</a>.</p>
       </div>  
   </section>
 
