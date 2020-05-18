@@ -25,8 +25,8 @@
 <!-- google recaptacha end here !-->
 
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
-<link rel="icon" href="../assets/images/company_logo 2.png" sizes="16x16" type="image/png"> 
-<link rel="icon" href="../assets/images/company_logo 2.png" sizes="16x16 32x32" type="image/png">
+<link rel="icon" href="../assets/images/favicon.png" sizes="16x16" type="image/png"> 
+<link rel="icon" href="../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js"></script>
 <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
