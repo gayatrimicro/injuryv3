@@ -100,7 +100,7 @@ include("../header.php");
 
 
 
-<div class="c-layout-header-dot  c-layout-header-default c-layout-header-dark-mobile c-header-transparent-dark" id="home" data-minimize-offset="0">
+<div class="c-layout-header-dot  c-layout-header-default c-layout-header-dark-mobile c-header-transparent-dark" data-minimize-offset="0">
   <div class="c-navbar">
     <div class="container-fluid"> 
       <!-- BEGIN: BRAND -->
@@ -139,16 +139,16 @@ include("../header.php");
         <form>
           <div class="row">
             <div class="col-md-12 form-group">
-              <input type="text" class="form-control input-lg c-square" id="login-email" required="" placeholder="Enter Name">
+              <input type="text" class="form-control input-lg c-square" id="login-name" required="" placeholder="Enter Name">
             </div>
             <div class="col-md-6 form-group">
-              <input type="email" class="form-control input-lg c-square" id="login-password" required="" placeholder="Enter Email">
+              <input type="email" class="form-control input-lg c-square" id="login-email" required="" placeholder="Enter Email">
             </div>
              <div class="col-md-6 form-group">
-              <input type="number" class="form-control input-lg c-square" id="login-password" required="" placeholder="Enter Mobile">
+              <input type="number" class="form-control input-lg c-square" id="login-mobile" required="" placeholder="Enter Mobile">
             </div>
             <div class="col-md-12 form-group">
-              <textarea type="text" class="form-control input-lg c-square" id="login-password" placeholder="Enter Your Message"></textarea>
+              <textarea type="text" class="form-control input-lg c-square" id="login-message" placeholder="Enter Your Message"></textarea>
             </div>
           </div>
           <div class=" form-group">
@@ -175,7 +175,7 @@ include("../header.php");
          
 <picture>
   <source srcset="../assets/images/mob-orthopedic-telemedicine.jpg" media="(max-width: 600px)">
-  <img src="../assets/images/orthopedic-telemedicine.jpg" class="full" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+  <img src="../assets/images/orthopedic-telemedicine.jpg" class="full" alt="telemedicine" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
 
              </picture>
 
@@ -259,7 +259,7 @@ include("../header.php");
       <div class="container">
 
         <div class="col-md-6 padding-custom">
-          <div class="c-media"> <img src="../assets/images/about_01.png" class="img-responsive custom-width" style="z-index: 1000; position: relative;"> </div>
+          <div class="c-media"> <img src="../assets/images/about_01.png" class="img-responsive custom-width" style="z-index: 1000; position: relative;" alt="about"> </div>
         </div>
 
         <div class="col-md-6 padding-custom mobile-space">
@@ -420,7 +420,7 @@ include("../footer.php");
 </div>
 
 <!-- BEGIN: LAYOUT/FOOTERS/GO2TOP -->
-<div class="c-layout-go2top" style="display:block;"> <i class="fa fa-arrow-up"></i> </div>
+<!-- <div class="c-layout-go2top" style="display:block;"> <i class="fa fa-arrow-up"></i> </div> -->
 <!-- END: LAYOUT/FOOTERS/GO2TOP --> 
 
 <script src="../assets/js/jquery.min.js" type="text/javascript"></script> 
@@ -866,12 +866,12 @@ $('.c-hor-nav-toggler').on('click', () => {
      display: block !important;
   }
 </style>
-<script type="text/javascript">
+<!-- <script type="text/javascript">
 var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || 
 {widgetcode:"dff61a8418f84d56287ce8dab67b9f39a67977fb7395780d46b6acaa5b3dc65a", values:{},ready:function(){}};
 var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;
 s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
-</script>
+</script> -->
 
 
 <!-- <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: 'e6312c83-0591-4201-8b7e-b46a59cfc27c', f: true }); done = true; } }; })();

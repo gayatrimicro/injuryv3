@@ -856,7 +856,7 @@ include("footer.php");
 </div>
 
 <!-- BEGIN: LAYOUT/FOOTERS/GO2TOP -->
-<div class="c-layout-go2top" style="display:block;"> <i class="fa fa-arrow-up"></i> </div>
+<!-- <div class="c-layout-go2top" style="display:block;"> <i class="fa fa-arrow-up"></i> </div> -->
 <!-- END: LAYOUT/FOOTERS/GO2TOP --> 
 
 <script src="assets/js/jquery.min.js" type="text/javascript"></script> 

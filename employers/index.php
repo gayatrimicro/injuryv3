@@ -36,7 +36,7 @@
 
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-<title>Injury and Pain | Injury Live</title>
+<title>Employer | Injury Live</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -175,16 +175,16 @@ include("../header.php");
          
 <picture>
   <source srcset="../assets/images/mob-orthopedic-telemedicine.jpg" media="(max-width: 600px)">
-  <img src="../assets/images/orthopedic-telemedicine.jpg" class="full" alt="telemedicine" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+  <img src="../assets/images/employer.jpg" class="full" alt="orthotherapy" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
 
              </picture>
 
 <div class="header-content ">
             
 
-              <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center" style="text-align: center;font-weight: 100;">Experience relief and recovery from your...<br><strong> PAIN AND INJURY</strong></h3>
+              <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center" style="text-align: center;font-weight: 100;">Revolutionizing Care<br><strong>Through Telehealth</strong></h3>
                <p class="text-left mobile-para-padding"> 
-                <a href="#" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>
+                <a href="#" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Connect to an expert</a>
             </p>
             
           </div>
@@ -198,34 +198,90 @@ include("../header.php");
    </div> 
 
 </section>
+<style type="text/css">
+  .inner_bannertel {
+    background-color: #253c56;
+    color: #fff;
+    text-align: center;
+    padding: 50px;
+    /*background-image: url(../assets/images/concentra-pattern.png)!important;*/
+}
+.inner_bannertel h3 {
+    color: #fff;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 55px;
+    position: relative;
+}
+.inner_bannertel p {
+    font-size: 18px;
+    text-align: center;
+    color: #fff;
+}
+.tel_banul {
+    margin-top: 55px;
+    margin: 0 auto;
+    margin-top: 55px;
+    width: 78%;
+}
+.tel_banul li {
+    list-style: none;
+    display: inline-block;
+    width: 24%;
+}
+.tel_banul li img:hover {
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    transform: translate3d(0, 0, 0);
+    perspective: 1000px;
+    cursor: pointer;
+}
+.tel_banul li img {
+    width: 65px;
+    margin-bottom: 20px;
+}
 
 
-<section id="whyus" class="c-margin" style="background-color: #e6e6e5 !important; z-index: 1000;position: relative;"> 
-    <div id="desk" class="c-content-box c-size-md">
-      <div class="container">
-        <div class="col-md-12">
-         <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline c-center">'PAIN ISN'T JUST A SENSATION ,... IT'S AN EXPERIENCE...'</h3>
-         <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
-         Pain can short-lived, or last for years even decades;<br class="desk-only">... it can be minor, or it can be severe;<br class="desk-only">... it can be localised, or it can be wide-spread;<br class="desk-only">... it can develop after a specific accident, injury, surgery, or emotional trauma, or it may seem to develop with no obvious cause at all.</span>
-         </h1>
-        
-        </div>
-        <!-- <div class="col-md-6">
-          <p class="custom-fonts mobile-para-padding">
-           An injury can occur at any time of the day or night, on any holiday, and can be very minor or very severe.</p>
 
-    <p class="custom-fonts mobile-para-padding">Get instant access to specialized doctors that are uniquely qualified to treat all Injuries be it
-
-     <a href="javascript:void(0);" class="links cta-secondary links-fonts" hreflang="en">Auto Injury</a> or <a href="javascript:void(0);" class="links cta-secondary links-fonts" hreflang="en">Work-related Injury</a>.</p>
-          <div class="c-margin-b-10 c-margin-t-0">
-         <a href="javascript:void(0);" data-toggle="modal" data-target="#request" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Request a Call back to know more</a>
-          </div>
-        </div> -->
-      </div>
-      
+.tel_banul-second {
+    margin-top: 55px;
+    margin: 0 auto;
+    margin-top: 55px;
+    width: 100%;
+}
+.tel_banul-second li {
+    list-style: none;
+    display: inline-block;
+    width: 31%;
+}
+.tel_banul-second li img:hover {
+    animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+    transform: translate3d(0, 0, 0);
+    perspective: 1000px;
+    cursor: pointer;
+}
+.tel_banul-second li img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+</style>
+<section style="z-index: 1000;position: relative;">
+  <div class="inner_bannertel">
+    <h3>Speciality Care Live Features and Benefit</h3>
+    <p>Concentra Telemed is a telemedicine solution dedicated to the treatment of minor, work-related injuries and illnesses. Minimize lost duty time and productivity and avoid unnecessary visits to hospitals and urgent care facilities.</p>
+      <ul class="tel_banul">
+        <li><div><img src="../assets/images/high-user-satisfaction-icon.png"><p>CONVENIENCE</p></div></li>
+        <!-- <li><div><img src="../assets/images/open24x7.png"><p>Open 24/7</p></div></li> -->
+        <li><div><img src="../assets/images/prompt-care-icon.png"><p>EARLY INTERVENTION</p></div></li>
+        <li><div><img src="../assets/images/trained-clinical-staff-icon.png"><p>MEDICAL EXPERTISE</p></div></li>
+        <li><div><img src="../assets/images/secure-platform-icon.png"><p>PRIVACY & SECURITY</p></div></li>
+      </ul>  
     </div>
-   
-  </section> 
+</section>
+
+
+
+
+
 
   
 
@@ -247,90 +303,414 @@ include("../header.php");
         display: block;
       }
     }
+    #content .row {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+#content ul {
+    list-style-type: none;
+    padding-inline-start:20px;
+}
+.medium-6{
+  width: 50%;
+  display: inline-block;
+  float: left;
+}
+.row:not(.expanded) .row {
+    max-width: none;
+}
+.component.background-pattern, .columns.background-pattern {
+    /*background-image: url(../assets/images/bg-pattern.png) !important;*/
+}
+.component.background-color-lightGrey, .columns.background-color-lightGrey {
+    background-color: #ebebeb;
+}
+.card {
+    overflow: hidden;
+}
+.card>.component-content {
+    padding-bottom: 10rem;
+}
+.card>.component-content {
+    margin: 3rem;
+    padding: 2rem 2rem 6rem;
+    background-color: #fff;
+    border: 2px solid #fff;
+    box-shadow: 0 0 1rem 0.5rem rgba(84,88,90,.05);
+    position: relative;
+    height: auto;
+    min-height: 98rem;
+}
+.card>.component-content .field-promoicon, .card>.component-content .news-article-featured .field-headlineimage {
+    margin: 0;
+    margin: -2rem -2rem 0;
+    position: relative;
+}
+.card>.component-content .field-promoicon img, .card>.component-content .news-article-featured .field-headlineimage img {
+    width: 100%;
+    height: auto;
+    max-height: none;
+    max-width: none;
+}
+.card>.component-content .field-promoicon:after, .card>.component-content .news-article-featured .field-headlineimage:after {
+    content: ' ';
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    pointer-events: none;
+    background: linear-gradient(to top,#fff 1rem,rgba(255,255,255,0) 85%);
+}
+.card>.component-content>div:nth-child(2) .field-promotitle, .card>.component-content .news-article-featured .item>.field-title:nth-child(2) {
+    margin: -1.5rem -2rem 0;
+    padding: 0 2rem;
+    position: relative;
+}
+.card>.component-content .card-content .field-promotitle {
+    font-family: 'Source Sans Pro',sans-serif;
+    font-size: 3rem;
+    font-weight: 400;
+    color: #002855;
+    text-transform: none;
+    margin: 0 0 1rem;
+}
+.card>.component-content .bar-double {
+    height: .5rem;
+    margin: 1.5rem 0;
+    border-top: 2px solid #ebebeb;
+    border-bottom: 2px solid #ebebeb;
+}
+.card>.component-content .field-promotext {
+    margin: 1rem 0;
+}
+.richtextcontent p, .field-content p, .rich-text p {
+    font-size: 2rem;
+    line-height: 1.5;
+    font-weight: 400;
+    margin: 1rem 0 1rem 1rem;
+
+}
+.richtextcontent ul, .field-content ul, .rich-text ul {
+    text-align: left;
+    display: block;
+}
+.richtextcontent ul>li, .field-content ul>li, .rich-text ul>li {
+    padding-left: 3rem;
+    position: relative;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+    font-size: 1.6rem;
+}
+.card>.component-content ul.buttons {
+    position: absolute;
+    bottom: 2rem;
+    left: 2rem;
+    right: 2rem;
+    text-align: center;
+}
+.component .buttons li {
+    display: inline-block;
+    margin: .5rem;
+}
+.card>.component-content .card-content a {
+    word-wrap: break-word;
+}
+.component ul.buttons a, .component ul.buttons button, .component .field-promolink a, .component .field-promolink button, .component .link a, .component .link button {
+    padding: .5em 0;
+    display: inline-block;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    border: none;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-radius: 0;
+    cursor: pointer;
+    color: #002855;
+    background-color: transparent;
+    border-color: #ed8b00;
+}
+.richtextcontent ul>li:before, .field-content ul>li:before, .rich-text ul>li:before {
+    content: "";
+    font-family: 'FontAwesome';
+    font-size: 100%;
+    position: absolute;
+    left: 0;
+    top: .1rem;
+    display: inline-block;
+    color: #ed8b00;
+    vertical-align: middle;
+}
+.accordion {
+  background-color: #eee0;
+  color: #444;
+  cursor: pointer;
+  padding: 16px;
+  width: 100%;
+  border: none;
+  border-bottom: thin solid #777;
+  text-align: left;
+  outline: none;
+  font-weight: 600;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active-acc, .accordion:hover {
+  background-color: #253b55;
+  color: #fff;
+}
+#accordian h3{
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+
+.accordion:after {
+  content: "";
+    font-family: 'FontAwesome';
+    font-size: 100%;
+    float: right;
+    display: inline-block;
+    color: #ed8b00;
+    vertical-align: middle;
+}
+
+.active-acc:after {
+  content: "\2212";
+}
+
+.panels {
+  padding: 0 18px;
+  background-color: #253b55;
+  max-height: 0;
+  color: #fff;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+.panels p, .panels ul{
+  color: #fff !important;
+    font-size: 16px !important;
+    padding: 1rem !important;
+    font-family: 'Source Sans Pro',sans-serif;
+    line-height: 1.5;
+    letter-spacing: 1px;
+}
+.panels li{
+  margin-left: 2rem;
+}
+#accordian{
+  padding: 3rem 5rem;
+  z-index: 1000;
+  position: relative;
+  background-color: #f1f1f1 !important;
+}
+.marg{
+  margin-left: 30px;
+}
+@media (max-width: 600px){
+  .tel_banul-second{
+    padding: 0px;
+  }
+  .tel_banul-second li{
+    width: 100%;
+    padding: 20px 0px;
+
+  }
+  #accordian{
+    padding: 1rem !important;
+  }
+  .tel_banul {
+    width: 100%;
+    padding: 0px;
+  }
+  .tel_banul li {
+    width: 100%;
+  }
+  .marg{
+    margin-left: 0px;
+  }
+  .card>.component-content{
+    margin: 20px 0px;
+    height: auto;
+    min-height: auto;
+  }
+  .medium-6{
+    width: 100%;
+  }
+  .card>.component-content .field-promotext{
+    margin-bottom: 7rem;
+  }
+
+}
+
   </style>   
 
  
+ <section id="content" style="z-index: 1000;position: relative;">
+   <div class="row component column-splitter">
+<div class="col-md-6 col-lg-6 col-sm-12 columns background-color-lightGrey background-pattern columns">
+<div class="component promo card columns equal">
+<div class="component-content marg" >
+<div class="field-promoicon"><img src="../assets/images/home_background-couple-old.jpg" alt="Female speaking to a doctor through her laptop via telemedicine." width="483" height="212" style="height: auto;width: 100%;" data-variantitemid="{60BB8A4F-5BEA-4158-8303-00A5F2D0DAA1}" data-variantfieldname="PromoIcon" style="margin: 0px 0px" /></div><div class="card-content"><h3 class="field-promotitle">How it Works</h3><div class="bar-double"></div><div class="richtextcontent field-promotext"><p>To get started, the following will be needed:</p>
+<ul>
+<li>Mobile device or computer with a webcam and microphone</li>
+<li>Employee's photo ID and email address</li>
+<li><a href="#">Employer authorization form</a></li>
+</ul></div>
+<ul class="buttons"><li class="field-promolink"><a href="#" data-variantitemid="{60BB8A4F-5BEA-4158-8303-00A5F2D0DAA1}" data-variantfieldname="PromoLink">Download the Details</a></li></ul></div> </div>
+</div>
+</div>
+<div class="col-md-6 col-lg-6 col-sm-12 columns background-color-lightGrey background-pattern columns">
+<div class="component promo card columns equal">
+<div class="component-content">
+<div class="field-promoicon"><img src="../assets/images/home_background-couple-old.jpg" alt="Man standing in a field using his phone for telemedicine services." width="483" height="212" style="height: auto;width: 100%;" data-variantitemid="{ABB27377-0DA0-4AD7-8869-D18D7FA7022D}" data-variantfieldname="PromoIcon" style="margin: 0px 0px" /></div><div class="card-content"><h3 class="field-promotitle">What it Treats and Where it&#39;s Available</h3><div class="bar-double"></div><div class="richtextcontent field-promotext"><div class="row">
+<div class="medium-6">
+<p><strong>Initial Injuries</strong></p>
+<ul>
+<li>Grade I/II strains/sprains</li>
+<li>First-degree burns</li>
+<li>Back strains/sprains</li>
+<li>Neck strains/sprains</li>
+<li>Contusions</li>
+<li>Abrasions</li>
+<li>Rashes</li>
+<li>Tendonitis/repetitive-use injuries</li>
+<li>Bloodborne pathogen (BBP) exposures</li>
+</ul>
+</div>
+<div class="medium-6">
+<p><strong>Injury Rechecks</strong></p>
+<ul>
+<li>Some wound and laceration checks</li>
+<li>Second-degree burns</li>
+<li>Moderate cervical and low back injuries</li>
+<li>Significant sprains, strains, and contusions</li>
+<li>Routine postoperative checks</li>
+</ul>
+</div>
+</div>
+<p style="font-size: 1.5rem;">Concentra Telemed is not appropriate for serious or life-threatening conditions. For such conditions, please seek <span> </span>emergency medical assistance immediately.</p></div><ul class="buttons"><li class="field-promolink"><a href="#" data-variantitemid="{ABB27377-0DA0-4AD7-8869-D18D7FA7022D}" data-variantfieldname="PromoLink">Find out where Concentra Telemed is available</a></li></ul></div> </div>
+</div>
+</div>
+</div>
+ </section>
 
 
-
-<section id="whyus-new" style="z-index: 1000;position: relative;"> 
-    <div id="desk-one" class="c-bg-white">
-      <div class="container">
-
-        <div class="col-md-6 padding-custom">
-          <div class="c-media"> <img src="../assets/images/about_01.png" class="img-responsive custom-width" style="z-index: 1000; position: relative;" alt="About"> </div>
-        </div>
-
-        <div class="col-md-6 padding-custom mobile-space">
-          <div class="c-margin-b-40 c-margin-t-50">
-          <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile double-para">WE'D LOVE TO HELP YOU IF YOU ARE SUFFERING WITH ONE OR MORE OF THE FOLLOWING...</h1>
-        </div>
-          <ul>
-            <li>HEADACHES (CERVICOGENIC)</li>
-            <li>NECK PAIN</li>
-            <li>MID BACK PAIN</li>
-            <li>LOW BACK PAIN</li>
-            <li>LEG PAIN</li>
-            <li>SHOULDER PAIN</li>
-            <li>ELBOW PAIN</li>
-            <li>WRIST AND HAND PAIN</li>
-            <li>HIP AND GROIN PAIN</li>
-            <li>PELVIC PAIN</li>
-            <li>KNEE PAIN</li>
-            <li>SHIN PAIN</li>
-            <li>FOOT AND ANKLE PAIN</li>
-            <li>JAW PAIN</li>
-            <li>COMPLEX REGIONAL PAIN</li>
-            <li>OSTEOARTHRITIS</li>
-            <li>SPORTS INJURY</li>
-          </ul>
-        </div>
-      </div>
-      
-    </div>
-   
-  </section> 
 
 
 <section id="clients-new-new" style="background:#f4f9fc;position: relative;z-index: 100000;">
-    <div class="c-content-box c-size-md no-padding padding-top-bottom bg-bl" id="Workplace_Injuries">
-      <div class="container">
-
-
-        <div class="row custom-row">
-        <div class="col-md-6 col-lg-6 col-sm-12">
-         <div class="section-images">
-           <img src="../assets/images/orthotherapy.jpg" class="img-responsive custom-responsive" alt="image failed to load, Error" alt="orthopedics"/>
-         </div>
-        </div>
-        <div class="col-md-6 col-lg-6 col-sm-12 media-margin mobile-margin">
-
-          <div class="text-white col-md-12">
-        
-
-          <div class="c-margin-b-40 c-margin-b-20 c-margin-t-0">
-              <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile">WHY CHOOSE A TELEHEALTH CONSULTATION?</h1>
+    <div class="inner_bannertel">
+    <h3>Speciality Care Live Has Expanded its Telemedicine Services</h3>
+    <p>Speciality Care Live is now available in Speciality Care Live medical centers throughout the nation. The telemedicine services available in all states with a Speciality Care Live footprint are as follows:</p>
+      <ul class="tel_banul-second">
+        <li>
+          <div>
+            <img src="../assets/images/return-to-work-200x200-circle.png">
+            <p><strong>RETURN-TO-WORK EVALUATION</strong></p>
+            <p>Speciality Care Live may be used to evaluate employees who tested positive for or were potentially exposed to coronavirus disease (COVID-19) before they return to work.</p>
           </div>
-
-
-           <div class="pa custom-fonts">
-            <p class="custom-fonts mobile-para-padding">Telehealth Appointments are online virtual video consultations, which take place over webcam. You’ll receive help with managing any musculoskeletal pain, injury, or disorder that you are suffering from. You will receive appropriate, evidence-based telerehabilitation, advice and guidance from a fully regulated Primary Healthcare Practitioner; either a Chiropractor or Podiatrist, dependent upon your complaint.</p>
-
-            
+        </li>
+        <!-- <li><div><img src="../assets/images/open24x7.png"><p>Open 24/7</p></div></li> -->
+        <li>
+          <div>
+            <img src="../assets/images/telerehab-recheck-200x200-circle.png">
+            <p><strong>PHYSICAL THERAPY</strong></p>
+            <p>Employees previously seen at a Speciality Care Live medical center for physical therapy may use our telemedicine platform to continue their rehab sessions.</p>
           </div>
-
+        </li>
+        <li>
+          <div>
+            <img src="../assets/images/telemed-injury-recheck-200x200-circle.png">
+            <p><strong>INJURY RECHECK</strong></p>
+            <p>Employees treated for an injury at a Speciality Care Live medical center may use Speciality Care Live Telemed for their <br>injury rechecks.</p>
           </div>
-        </div>
-        </div>
-        
-        
-
-
-
-
-      </div>
+        </li>
+        <!-- <li><div><img src="../assets/images/secure-platform-icon.png"><p>PRIVACY & SECURITY</p></div></li> -->
+      </ul>  
     </div>
   </section>
+
+
+  <section id="accordian">
+      <h3 style="text-align: center;">Employer FAQs and Resources</h3>
+      <button class="accordion">Employer Resources</button>
+      <div class="panels">
+        <ul>
+          <li>Concentra Telemed Starter Kit</li>
+          <li>Marketing Tool Kit</li>
+          <li>Concentra Telemed FAQ</li>
+          <li>How to use Concentra Telemed</li>
+          <li>Concentra Telemed Availability</li>
+        </ul>
+      </div>
+
+      <button class="accordion">How do I get started?</button>
+      <div class="panels">
+        <p>First, report any work-related incident to your supervisor, who will assist in using Concentra Telemed. Go to Google Play or the Apple App Store to download the Concentra Telemed app on your mobile device. You can also go to concentratelemed.com to access from a computer.</p>
+      </div>
+
+      <button class="accordion">How long does a Concentra Telemed visit take?</button>
+      <div class="panels">
+        <p>The length of each visit depends on your condition and medical needs. One advantage of using Concentra Telemed for qualified injuries is you will not spend time traveling to and from a medical facility or sitting in a waiting room.</p>
+      </div>
+
+      <button class="accordion">How do I authorize a telemedicine visit?</button>
+      <div class="panels">
+        <p>An employer authorization form must be submitted to use Concentra Telemed. The authorization form can be submitted in the following ways:</p>
+        <ul>
+          <li>Email (telemed@concentra.com)</li>
+          <li>Portal (https://portal.concentra.com/login)</li>
+          <li>Fax (844-371-8990)</li>
+          <li>Screen shot (Hold the form up to the camera at start of video visit)</li>
+        </ul>
+      </div>
+
+      <button class="accordion">Can any mobile device work?</button>
+      <div class="panels">
+        <p>For the best experience using the app, a Wi-Fi connection of 4G or higher is recommended using a current iOS or Android device with a mic and webcam.</p>
+
+        <p>iOS Operating System (iOS 10 or newer required)</p>
+        <ul>
+          <li>iPhone 5 and newer</li>
+          <li>iPad 4th gen and newer</li>
+          <li>iPad Mini 2</li>
+          <li>iPod Touch 6th gen and newer</li>
+        </ul>
+        <p>Microsoft Windows Operating System : recommended that you use the latest version of Google Chrome, Microsoft Internet Explorer, Mozilla Firefox, or Safari (Mac only). You cannot access concentratelemed.com via mobile device.
+
+        </p>
+      </div>
+
+      <button class="accordion">Is Concentra Telemed available 24/7/365?</button>
+      <div class="panels">
+        <p>Concentra Telemed delivers 24/7 access in all available states except Hawaii and will continue to provide anytime access as we expand to other states.</p>
+      </div>
+
+      <button class="accordion">How secure is a Concentra Telemed visit?</button>
+      <div class="panels">
+        <p>Concentra Telemed deploys a HIPAA-compliant system of secure communication to maintain the integrity of your protected health information (PHI). The platform is equipped to monitor communications for prevention of accidental or malicious breaches. In addition, Concentra does not record video visits or store patient records in this platform.</p>
+      </div>
+
+      <button class="accordion">Can I use Concentra Telemed while traveling with work?</button>
+      <div class="panels">
+        <p>It depends on the state. Our ultimate goal is to provide nationwide access to occupational health clinicians using our telemedicine platform; however, there are some states where Concentra Telemed is currently unavailable.</p>
+      </div>
+
+      <button class="accordion">Can I use Concentra Telemed for my primary care needs?</button>
+      <div class="panels">
+        <p>No. Concentra Telemed is a telemedicine platform designed to manage less serious work injuries only. It should not be utilized to treat health conditions that are not work-related.</p>
+      </div>
+
+      <button class="accordion">What if I need technical assistance?</button>
+      <div class="panels">
+        <p>If you need help or have technical issues, call 855-835-6337.</p>
+      </div>  
+  </section>
+
 
   <section id="testimonials" style="
     z-index: 1000;
@@ -716,6 +1096,22 @@ if(mobile.length < 9 || mobile.length > 10){
 }
 });
 
+</script>
+<script>
+var acc = document.getElementsByClassName("accordion");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active-acc");
+    var panel = this.nextElementSibling;
+    if (panel.style.maxHeight) {
+      panel.style.maxHeight = null;
+    } else {
+      panel.style.maxHeight = panel.scrollHeight + "px";
+    } 
+  });
+}
 </script>
 <script>
 $(document).ready(function() { 
