@@ -209,7 +209,7 @@ include("../header.php");
 </section>
 
 
-<section style="position: relative;z-index: 9999999;background-color: #f1f1f1 !important;padding: 0rem 0rem 5rem;">
+<section style="position: relative;z-index: 999;background-color: #f1f1f1 !important;padding: 0rem 0rem 5rem;">
   <div class="container">
     <div class="row">
       <h3 style="padding: 5rem 0rem 3rem;" class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Our Mission </h3>
@@ -221,7 +221,7 @@ include("../header.php");
 </section>
 
 
-<section style="position: relative;z-index: 9999999;background-color: #253c56 !important;padding: 0rem 0rem 5rem;">
+<section style="position: relative;z-index: 999;background-color: #253c56 !important;padding: 0rem 0rem 5rem;">
   <div class="container">
     <div class="row">
       <h3 style="padding: 5rem 0rem 3rem;color: #fff;" class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Why Telemedicine </h3>
@@ -233,7 +233,7 @@ include("../header.php");
     </div>
   </div>
 </section>
-
+<div style="position: relative;z-index: 999;background-color: #fff !important;padding: 1px 0px 0px 0px;">
 <section class="bac_img">
   <div class="container">
     <div class="inner_benifits">
@@ -277,9 +277,10 @@ include("../header.php");
     </div>
   </div>
 </section>
+</div>
 
 
-<section style="position: relative;z-index: 9999999;background-color: #f1f1f1 !important;padding: 0rem 0rem 5rem;">
+<section style="position: relative;z-index: 999;background-color: #f1f1f1 !important;padding: 0rem 0rem 5rem;">
   <div class="container">
     <div class="row">
       <h3 style="padding: 5rem 0rem 3rem;" class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Why Speciality Care Live </h3>

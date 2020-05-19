@@ -3189,7 +3189,7 @@ h1 {
   .c-layout-header-fixed .c-layout-header {
     top: 0;
     position: fixed;
-    z-index: 9;
+    z-index: 1000000;
     width: 100%; }
 	.c-layout-header-dot {
     top: 0;

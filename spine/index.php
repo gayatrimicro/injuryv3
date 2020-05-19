@@ -347,7 +347,7 @@ include("../header.php");
 
           </div>
         </div>
-         <div class="col-md-6 col-lg-6 col-sm-12">
+         <div class="col-md-6 col-lg-6 col-sm-12 martxs">
          <div class="section-images">
            <img src="../assets/images/orthotherapy.jpg" class="img-responsive custom-responsive" alt="image failed to load, Error"/>
          </div>

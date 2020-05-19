@@ -284,7 +284,7 @@ include("../header.php");
       <div class="container"><br><br>
           <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
             Contact us
-           </h1><br><br>
+           </h1>
         <div class="col-md-6 padding-custom-box">
           <div class="form-group">
             <label for="fname">First name:</label>

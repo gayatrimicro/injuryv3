@@ -4,9 +4,9 @@
       <div class="c-navbar-wrapper clearfix">
         <div class="c-brand c-pull-left"> 
           <a href="http://spacegm.com/injuryv3/" class="c-logo"> 
-            <img src="assets/images/company_logo-2.png" alt="Logo" class="c-desktop-logo"> 
-            <img src="assets/images/company_logo-2.png" alt="Logo" class="c-desktop-logo-inverse"> 
-            <img src="assets/images/company_logo-2.png" alt="Logo" class="c-mobile-logo"> 
+            <img src="http://spacegm.com/injuryv3/assets/images/company_logo-2.png" alt="Logo" class="c-desktop-logo"> 
+            <img src="http://spacegm.com/injuryv3/assets/images/company_logo-2.png" alt="Logo" class="c-desktop-logo-inverse"> 
+            <img src="http://spacegm.com/injuryv3/assets/images/company_logo-2.png" alt="Logo" class="c-mobile-logo"> 
           </a>
           <button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu"> 
             <span class="c-line"></span> 

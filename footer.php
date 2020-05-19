@@ -34,7 +34,7 @@
               </li>
             </ul>
           </nav>
-          <div class="global-footer-stats"> <img class="global-footer-stats__logo res-mar-center" alt="" src="assets/images/company_logo-2.png">
+          <div class="global-footer-stats"> <img class="global-footer-stats__logo res-mar-center" alt="" src="http://spacegm.com/injuryv3/assets/images/company_logo-2.png">
             <ul class="global-footer-stats__list res-mar-center">
               <li class="global-footer-stats__list-item h-p0 text-center"> <span class="global-footer-stats__number">302,051</span> <span style="color: #fff;">Injured assisted</span> </li>
             </ul>
@@ -53,9 +53,9 @@
           <div class="global-footer-social">
              <ul class="res-mar-center">
               
-              <li class="global-footer-social__list-item"> <a class="global-footer__icon-link" rel="nofollow" href="javascript:void(0);"> <img class="global-footer-social__icon" alt="Facebook" title="Facebook" src="assets/images/facebook.svg"> </a> </li>
+              <li class="global-footer-social__list-item"> <a class="global-footer__icon-link" rel="nofollow" href="javascript:void(0);"> <img class="global-footer-social__icon" alt="Facebook" title="Facebook" src="http://spacegm.com/injuryv3/assets/images/facebook.svg"> </a> </li>
 
-              <li class="global-footer-social__list-item"> <a class="global-footer__icon-link" rel="nofollow" href="javascript:void(0);"> <img class="global-footer-social__icon" alt="Instagram" title="Instagram" src="assets/images/instagram.svg"> </a> </li>
+              <li class="global-footer-social__list-item"> <a class="global-footer__icon-link" rel="nofollow" href="javascript:void(0);"> <img class="global-footer-social__icon" alt="Instagram" title="Instagram" src="http://spacegm.com/injuryv3/assets/images/instagram.svg"> </a> </li>
 
              
             </ul>

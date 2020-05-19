@@ -495,7 +495,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
     text-align: justify;
   }
 </style>
-<section style="position: relative;z-index: 9999999;background-color: #fff;padding: 0rem 0rem 5rem;">
+<section style="position: relative;z-index: 999;background-color: #fff;padding: 0rem 0rem 5rem;">
   <div class="container">
     <div class="row" style="padding: 5rem 2rem 0rem;">
       <h3 style="padding: 3rem 0rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> What makes Speciality Care Live the Leader? </h3>
@@ -506,7 +506,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
       <p class="c-content text-justify custom-fonts margin-bottom padding-mob">Lastly, If your facility has an existing telemedicine service we can seamlessly integrate with it, or add additional service lines to your existing telemedicine unit as needed. In the event that a new service is being established we provide turn-key solutions customized to meet your specific needs.</p>
     </div>
     <div class="row">
-      <div class="visit-button-holder">
+      <div class="visit-button-holder xs_btn">
         <a href="contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="padding: 2rem 4rem;margin:2rem;">Learn more about Speciality Care Live</a>
       </div>
     </div>
@@ -514,7 +514,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
       <img src="assets/images/telemed-laptop.jpg" style="width: 100%;height: auto;padding: 3rem 0rem;">
     </div>
     <hr> --></div></section>
-    <section style="position: relative;z-index: 9999999;background-color: #f1f1f1 !important;padding: 5rem 0rem">
+    <section style="position: relative;z-index: 999;background-color: #f1f1f1 !important;padding: 5rem 0rem">
   <div class="container">
     <div class="row diff-to-other" style="padding: 1rem 2rem 1rem;">
       <h3 style="padding: 1rem 0rem 3rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Differentiating Speciality Care Live from other Telemedicine Providers </h3>
@@ -566,7 +566,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
     </div>
     <hr> -->
 
-<section style="position: relative;z-index: 9999999;background-color: #fff !important;padding: 0rem 0rem 5rem;">
+<section style="position: relative;z-index: 999;background-color: #fff !important;padding: 0rem 0rem 5rem;">
   <div class="container">
     <div class="row">
       <h3 style="padding: 5rem 0rem 3rem;" class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> What is Telemedicine? </h3>

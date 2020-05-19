@@ -662,9 +662,6 @@ include("../header.php");
     padding: 20px 0px;
 
   }
-  #accordian{
-    padding: 1rem !important;
-  }
   .tel_banul {
     width: 100%;
     padding: 0px;
