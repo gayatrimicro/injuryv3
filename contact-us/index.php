@@ -346,7 +346,7 @@ include("../header.php");
           if ($('#fname').val() != "" && $('#lname').val() != "" && $('#phone').val() != "" && $('#email').val() != "" && $('#comments').val() != "" ) {
             
              $.ajax({
-                              url:'request.php',
+                              url:'contact-form.php',
                               type:'POST',
                               data:formdata,
                               success:function(result){
