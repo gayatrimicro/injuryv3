@@ -9,8 +9,10 @@
               <li class="global-footer-info-links__list-item">
                 <ul class="global-footer-sublist">
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/">Home</a> </li>
+                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/contact-us/">Contact us</a> </li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/second-opinion/">Second Opinion</a> </li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/employers/">Employers</a> </li>
+
                  
                 </ul>
               </li>
@@ -49,7 +51,7 @@
                
                 <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">Sitemap</a> </li>
               </ul> -->
-            <small class="global-footer-company-links__copyright"> © 2020 Speciality Care Live. All rights reserved. </small> </div>
+            <small class="global-footer-company-links__copyright"> © 2020 Specialty Care Live. All rights reserved. </small> </div>
           <div class="global-footer-social">
              <ul class="res-mar-center">
               
