@@ -9,8 +9,10 @@
               <li class="global-footer-info-links__list-item">
                 <ul class="global-footer-sublist">
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/">Home</a> </li>
+                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/contact-us/">Contact us</a> </li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/second-opinion/">Second Opinion</a> </li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/employers/">Employers</a> </li>
+
                  
                 </ul>
               </li>
