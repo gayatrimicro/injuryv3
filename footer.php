@@ -51,7 +51,7 @@
                
                 <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">Sitemap</a> </li>
               </ul> -->
-            <small class="global-footer-company-links__copyright"> © 2020 Speciality Care Live. All rights reserved. </small> </div>
+            <small class="global-footer-company-links__copyright"> © 2020 Specialty Care Live. All rights reserved. </small> </div>
           <div class="global-footer-social">
              <ul class="res-mar-center">
               
