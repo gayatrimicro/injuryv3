@@ -302,14 +302,14 @@ include("../header.php");
         <div class="col-md-6 padding-custom-box">
           <div class="form-group">
             <label for="phone">Phone:</label>
-              <input type="text" class="form-control custom-fonts" id="phone" name="phone" required="required" maxlength="10" placeholder="Enter Your Contact No...">
+              <input type="text" class="form-control custom-fonts" id="phone" name="phone" required="required"  maxlength="10" pattern="[0-9]{10,10}$" placeholder="Enter Your Contact No...">
             </div>
         </div>
 
         <div class="col-md-6 padding-custom-box">
           <div class="form-group">
             <label for="email">Email:</label>
-              <input type="text" class="form-control custom-fonts" id="email" name="email" required="required" placeholder="Enter Your Email...">
+              <input type="text" class="form-control custom-fonts" id="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" title="Enter valid E-mail address." required="required" placeholder="Enter Your Email...">
             </div>
         </div>
 
