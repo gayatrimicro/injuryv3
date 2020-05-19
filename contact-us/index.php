@@ -258,8 +258,8 @@ include("../header.php");
     text-align: center;
     color: #040404;
     text-transform: uppercase;
-    font-size: 1rem;
-   
+        font-size: 16px;
+    font-weight: 600;   
 }
     @media (max-width: 600px){
       .center-services-img{
