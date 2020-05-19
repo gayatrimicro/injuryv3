@@ -2794,3 +2794,77 @@ form{
 .c-mobile-logo{
   width:50%;
 }
+
+/*-------------------------------*/
+
+.inner_benifits li
+{
+  list-style: none;
+}
+.inner_benifits ul
+{
+  padding: 0;
+}
+.inner_benifits h3
+{
+  font-size: 40px;
+  font-weight: 700;
+  margin-top: 0;
+  margin-bottom: 11px;
+}
+.benp
+{
+  font-size: 20px !important;
+    color: #323c40 !important;
+    margin-bottom: 50px;
+    font-weight: 500;
+}
+.inbenli h4
+{
+      font-size: 16px;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+.inbenli
+{
+  margin-bottom: 28px;
+  position: relative;  
+  padding: 0px 25px;
+}
+.inbenli::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 4px;
+    background: #2dc7ff;
+    border-radius: 3px;
+}
+.bac_img
+{
+      background: url(../../assets/images/bg_img_01.png) no-repeat right -105px;
+      margin: 75px 0px;
+}
+@media (min-width:320px) and (max-width:768px){
+.bac_img
+{
+      background: none !important;
+          margin: 50px 0px;
+}
+.inner_benifits h3 {
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.benp {
+    font-size: 18px !important;
+    margin-bottom: 40px;
+}
+.inbenli h4 {
+    font-size: 15px;
+    line-height: 24px;
+}
+
+}
+/*-------------------------------*/
