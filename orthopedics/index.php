@@ -83,7 +83,19 @@
     margin-top: 2.11111rem;
     color: #3b3f48;
 }
+.header-content {
+    /* padding: 17% 6%; */
+    z-index: 9;
+    position: absolute;
+    top: 50% !important;
+    font-family: 'Montserrat', sans-serif;
+    left: 50% !important;
+    transform: translate(-50%, -35%) !important;
+}
 @media (max-width: 600px){
+  .header-content {
+    transform: translate(-50%, -50%) !important;
+}
   .bigger-font-medium {
     font-size: 20px;
 }
@@ -183,7 +195,7 @@ include("../header.php");
             
 
               <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center" style="text-align: center;font-weight: 100;">Revolutionizing Care<br><strong>Through Telehealth</strong></h3>
-               <p class="text-left mobile-para-padding"> 
+               <p class="text-left mobile-para-padding" style="margin: 0 auto;"> 
                 <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>
             </p>
             
@@ -285,7 +297,7 @@ include("../header.php");
   </section> 
 
 
-<section id="clients-new-new" style="background:#f4f9fc;position: relative;z-index: 100000;">
+<section id="clients-new-new" style="background:#f4f9fc;position: relative;z-index: 1000;">
     <div class="c-content-box c-size-md no-padding padding-top-bottom bg-bl" id="Workplace_Injuries">
       <div class="container">
 

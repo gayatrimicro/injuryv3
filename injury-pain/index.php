@@ -83,7 +83,19 @@
     margin-top: 2.11111rem;
     color: #3b3f48;
 }
+.header-content {
+    /* padding: 17% 6%; */
+    z-index: 9;
+    position: absolute;
+    top: 50% !important;
+    font-family: 'Montserrat', sans-serif;
+    left: 50% !important;
+    transform: translate(-50%, -40%) !important;
+}
 @media (max-width: 600px){
+  .header-content {
+    transform: translate(-50%, -50%) !important;
+}
   .bigger-font-medium {
     font-size: 20px;
 }
@@ -174,8 +186,8 @@ include("../header.php");
 
          
 <picture>
-  <source srcset="../assets/images/mob-orthopedic-telemedicine.jpg" media="(max-width: 600px)">
-  <img src="../assets/images/orthopedic-telemedicine.jpg" class="full" alt="telemedicine" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+  <source srcset="../assets/images/mob-injury-pain.jpg" media="(max-width: 600px)">
+  <img src="../assets/images/injury-pain.jpg" class="full" alt="telemedicine" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
 
              </picture>
 
@@ -183,7 +195,7 @@ include("../header.php");
             
 
               <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center" style="text-align: center;font-weight: 100;">Experience relief and recovery from your...<br><strong> PAIN AND INJURY</strong></h3>
-               <p class="text-left mobile-para-padding"> 
+               <p class="text-left mobile-para-padding" style="margin: 0 auto;"> 
                 <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>
             </p>
             
@@ -258,7 +270,7 @@ include("../header.php");
       <div class="container">
 
         <div class="col-md-6 padding-custom">
-          <div class="c-media"> <img src="../assets/images/about_01.png" class="img-responsive custom-width" style="z-index: 1000; position: relative;" alt="About"> </div>
+          <div class="c-media"> <img src="../assets/images/injury-pain_001.jpg" class="img-responsive custom-width" style="z-index: 1000; position: relative;" alt="About"> </div>
         </div>
 
         <div class="col-md-6 padding-custom mobile-space">
@@ -292,18 +304,13 @@ include("../header.php");
   </section> 
 
 
-<section id="clients-new-new" style="background:#f4f9fc;position: relative;z-index: 100000;">
+<section id="clients-new-new" style="background:#f4f9fc;position: relative;z-index: 1000;">
     <div class="c-content-box c-size-md no-padding padding-top-bottom bg-bl" id="Workplace_Injuries">
       <div class="container">
 
 
         <div class="row custom-row">
-        <div class="col-md-6 col-lg-6 col-sm-12">
-         <div class="section-images">
-           <img src="../assets/images/orthotherapy.jpg" class="img-responsive custom-responsive" alt="image failed to load, Error" alt="orthopedics"/>
-         </div>
-        </div>
-        <div class="col-md-6 col-lg-6 col-sm-12 media-margin mobile-margin">
+          <div class="col-md-6 col-lg-6 col-sm-12 media-margin mobile-margin">
 
           <div class="text-white col-md-12">
         
@@ -321,6 +328,14 @@ include("../header.php");
 
           </div>
         </div>
+
+
+        <div class="col-md-6 col-lg-6 col-sm-12">
+         <div class="section-images">
+           <img src="../assets/images/injury-pain_002.jpg" class="img-responsive custom-responsive" alt="image failed to load, Error" alt="orthopedics"/>
+         </div>
+        </div>
+        
         </div>
         
         

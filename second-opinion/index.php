@@ -89,13 +89,37 @@
 .btn-mob{
   padding: 2rem 4rem !important;
 }
+.brand-name{
+  text-align: center;
+  font-weight: 400;
+  line-height: 0.7;
+}
+.header-content {
+    /* padding: 17% 6%; */
+    z-index: 9;
+    position: absolute;
+    top: 50% !important;
+    font-family: 'Montserrat', sans-serif;
+    left: 50% !important;
+    transform: translate(-50%, -30%) !important;
+}
 @media (max-width: 600px){
+  .header-content {
+    transform: translate(-50%, -50%) !important;
+}
   .bigger-font-medium {
     font-size: 20px;
 }
 .btn-mob{
   padding: 2rem 1rem !important;
 }
+
+.brand-name{
+  line-height: 1;
+}
+
+
+
 }
 </style>
 </head>
@@ -183,16 +207,16 @@ include("../header.php");
 
          
 <picture>
-  <source srcset="../assets/images/mob-orthopedic-telemedicine.jpg" media="(max-width: 600px)">
-  <img src="../assets/images/employer.jpg" class="full" alt="orthotherapy" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+  <source srcset="../assets/images/mob-second-opinion.jpg" media="(max-width: 600px)">
+  <img src="../assets/images/second-opinion.jpg" class="full" alt="orthotherapy" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
 
              </picture>
 
 <div class="header-content ">
             
 
-              <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center" style="text-align: center;font-weight: 400;line-height: 0.7;">Speciality Care Live<br><strong style="font-size: 30px;font-weight: 200;">UNRESTRICTED ACCESS TO SPECIALTY CARE</strong></h3>
-               <p class="text-left mobile-para-padding"> 
+              <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center brand-name">Speciality Care Live<br><strong style="font-size: 30px;font-weight: 200;">UNRESTRICTED ACCESS TO SPECIALTY CARE</strong></h3>
+               <p class="text-left mobile-para-padding" style="margin: 0 auto !important;"> 
                 <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Connect to an expert</a>
             </p>
             
@@ -234,7 +258,7 @@ include("../header.php");
   </div>
 </section>
 
-<section class="bac_img">
+<section class="bac_img" style="position: relative;z-index: 9999999;background-color: #fff !important;">
   <div class="container">
     <div class="inner_benifits">
       <div class="row">
