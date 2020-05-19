@@ -234,6 +234,50 @@ include("../header.php");
   </div>
 </section>
 
+<section class="bac_img">
+  <div class="container">
+    <div class="inner_benifits">
+      <div class="row">
+        <div class="col-sm-7">
+          <div class="in_ben">
+            <h3>BENEFITS</h3>
+            <p class="benp">Improving Healthcare. Reducing Costs</p>
+            <ul>
+              <li>
+                <div class="inbenli">
+                  <h4>OPTIMIZE TREATMENT & AVOID UNNECESSARY RISKS</h4>
+                  <p>Beyond the diagnosis, a second opinion provides us with a chance to ask questions, understand the options, and help in deciding whether to proceed with a potentially risky therapy or not and thereby restore confidence that the treatment plan recommended is appropriate.</p>
+                </div>
+            </li>
+            <li>
+                <div class="inbenli">
+                  <h4>COST SAVING FROM AVOIDING UNNECESSARY SURGERY</h4>
+                  <p>Good medical services provide smart, proactive, and informed choices that patients can trust with confidence.</p>
+                </div>
+            </li>
+            <li>
+                <div class="inbenli">
+                  <h4>FROM THE COMFORT OF YOUR HOME</h4>
+                  <p>The advantages of second opinions are many: financial, physical and psychological. Providing these services remotely via our cutting-edge HIPAA-compliant technology, XperTeleConsult™ system, will improve patient access to medical care and no need for fixing appointments, waiting at the clinic, privacy, etc.</p>
+                </div>
+            </li>
+            <li>
+                <div class="inbenli">
+                  <h4>IMPROVE HEALTHCARE OUTCOMES</h4>
+                  <p>Second opinions have been found to bring down cost of healthcare and reduces misdiagnoses.</p>
+                </div>
+            </li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-sm-5">
+          <!-- <div class="bac_img"></div> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
 
 <section style="position: relative;z-index: 9999999;background-color: #f1f1f1 !important;padding: 0rem 0rem 5rem;">
   <div class="container">
