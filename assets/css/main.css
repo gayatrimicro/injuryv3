@@ -686,7 +686,7 @@ textarea.form-control {
 .heading--subheadline {
     color: #131313;
     font-family: Verlag A,Verlag B,proxima-nova,sans-serif;
-    font-size: 1.2rem;
+    font-size: 16px;
     font-weight: 800;
     letter-spacing:1px;
     margin-bottom: .27778rem;
@@ -2626,7 +2626,7 @@ form{
 }
 .mobile-space{
     position: relative;
-    bottom: 65px;
+    bottom: 30px;
     padding-bottom: 0px !important;
 }
 .header-content{
@@ -2846,7 +2846,7 @@ form{
 .bac_img
 {
       background: url(../../assets/images/bg_img_01.png) no-repeat right -105px;
-      margin: 75px 0px;
+      padding: 75px 0px;
 }
 .contact-form h1
 {
@@ -2857,6 +2857,7 @@ form{
 .bac_img
 {
       background: none !important;
+<<<<<<< HEAD
           margin: 50px 0px;
               margin-bottom: 0px;
     padding-bottom: 20px;
@@ -2890,6 +2891,9 @@ form{
 }
 #accordian {
     padding: 50px 15px !important;
+=======
+          padding: 50px 0px;
+>>>>>>> b28cb1887e3b24673e2d6a7032aa175938251377
 }
 .inner_benifits h3 {
     font-size: 30px;
@@ -2932,7 +2936,8 @@ form{
     margin-top: 35px;
   }
   .modal-dialog {
-    margin: 100px 10px;
+    width: 95% !important;
+    margin: 100px 10px !important;
 }
 .header-content p {
     width: 100%;
@@ -2958,6 +2963,13 @@ form{
 {
   text-align: left;
 }
+.mobile-links {
+    font-size: 15px;
+}
 
 }
 /*-------------------------------*/
+.modal-dialog {
+    width: 600px;
+    margin: 150px auto;
+}

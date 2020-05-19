@@ -172,7 +172,7 @@ include("header.php");
 
          
 <picture>
-  <source srcset="assets/images/mob-orthopedic-telemedicine.jpg" media="(max-width: 600px)">
+  <source srcset="assets/images/mob-employer.jpg" media="(max-width: 600px)">
   <img src="assets/images/employer.jpg" class="full" alt="orthotherapy" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
 
              </picture>

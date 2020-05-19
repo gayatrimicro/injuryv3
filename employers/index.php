@@ -742,7 +742,7 @@ include("../header.php");
 
 
 
-<section id="clients-new-new" style="background:#f4f9fc;position: relative;z-index: 100000;">
+<section id="clients-new-new" style="background:#f4f9fc;position: relative;z-index: 1000;">
     <div class="inner_bannertel">
     <h3>Speciality Care Live Has Expanded its Telemedicine Services</h3>
     
