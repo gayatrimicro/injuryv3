@@ -123,10 +123,10 @@ include("../header.php");
               <input type="text" class="form-control input-lg c-square" id="login-name" required="" placeholder="Enter Name">
             </div>
             <div class="col-md-6 form-group">
-              <input type="email" class="form-control input-lg c-square" id="login-email" required="" placeholder="Enter Email">
+              <input type="email" class="form-control input-lg c-square" id="login-email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$" title="Enter valid E-mail address." required placeholder="Enter Email">
             </div>
              <div class="col-md-6 form-group">
-              <input type="number" class="form-control input-lg c-square" id="login-mobile" required="" placeholder="Enter Mobile">
+              <input type="number" class="form-control input-lg c-square" maxlength="10" pattern="[0-9]{10,10}$" id="login-mobile" required placeholder="Enter Mobile">
             </div>
             <div class="col-md-12 form-group">
               <textarea type="text" class="form-control input-lg c-square" id="login-message" placeholder="Enter Your Message"></textarea>
