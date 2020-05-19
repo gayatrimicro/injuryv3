@@ -884,18 +884,24 @@ include("footer.php");
           <h4 class="header-white"><span class="glyphicon glyphicon-phone header-white"></span> REQUEST A CALLBACK</h4>
         </div>
         <div class="modal-body" style="padding:40px 50px;">
-          <form id="signup" name="form2" role="form">
+          <form id="req-form" name="form2" role="form">
 
 
             <div class="form-group">
-              <input type="text" class="form-control custom-fonts" id="usrname_new" name="name" pattern="[a-zA-Z]{1,}" required="required" placeholder="Full Name..." />
+              <input type="text" class="form-control custom-fonts" id="req-name" name="req-name" pattern="[a-zA-Z]{1,}" placeholder="Full Name..." required/>
             </div>
 
             <div class="form-group">
-              <input type="number" class="form-control custom-fonts" id="mobile" name="mobile" required="required" placeholder="Mobile Number" maxlength="10" />
+              <input type="text" class="form-control custom-fonts" id="req-mobile" name="req-mobile" placeholder="Mobile Number" maxlength="10" pattern="[0-9]{10,10}" title="Please enter 10 digit number." required/>
             </div>
 
-              <button type="submit" id="submit-button-two" class="btn btn-success bottom-btn"><span class="glyphicon glyphicon-off"></span> Submit Now</button>
+            <div class="form-group">
+              <textarea rows="3" placeholder="Message here" class="form-control custom-fonts" id="req-message" name="req-message" required></textarea>
+            </div>
+
+            <div class="form-group">
+              <button type="submit" id="submit-button-two" class="btn btn-success bottom-btn" style="margin: 0 auto;display: block;"><span class="glyphicon glyphicon-off"></span> Submit Now</button>
+            </div>
           </form>
         </div>
         
@@ -903,6 +909,50 @@ include("footer.php");
       
     </div>
   </div>
+<script>
+$(document).ready(function() { 
+    $('#req-form').submit(function(event) {
+      event.preventDefault();
+      var formdata = $('#req-form').serialize();
+
+if ($('#req-name').val() != "" && $('#req-mobile').val() != "" && $('#req-message').val() != "" ) {
+            
+             $.ajax({
+                              url:'requestName.php',
+                              type:'POST',
+                              data:formdata,
+                              success:function(result){
+                              // alert("Your enquiry has been sent successfully");
+                              Swal.fire(
+                                         'Your enquiry has been sent successfully ?',
+                                         'we will get back to you soon ?'
+                                        )
+
+                              $("#signup").trigger('reset');
+                              $(".close").click();  
+                              }
+  
+
+                    });
+
+         
+    }
+             else{
+
+
+              Swal.fire({
+                          icon: 'error',
+                          title: 'Oops...',
+                          text: 'All fields are mandatory !',
+                          footer: '<a href>Why do I have this issue?</a>'
+                        })
+                    return false;
+                  }
+    });
+  return false;
+
+});
+</script>
   <!-- Modal ends--> 
 
 
@@ -979,50 +1029,7 @@ if(mobile.length < 9 || mobile.length > 10){
 });
 
 </script>
-<script>
-$(document).ready(function() { 
-    $('#submit-button-two').click(function(event) {
-      event.preventDefault();
-      var formdata = $('#signup').serialize();
 
-if ($('#usrname_new').val() != "" && $('#mobile').val() != "" ) {
-            
-             $.ajax({
-                              url:'requestName.php',
-                              type:'POST',
-                              data:formdata,
-                              success:function(result){
-                              //alert("Your enquiry has been sent successfully");
-                              Swal.fire(
-                                         'Your enquiry has been sent successfully ?',
-                                         'we will get back to you soon ?'
-                                        )
-
-                              $("#signup").trigger('reset');
-                              $(".close").click();  
-                              }
-  
-
-                    });
-
-         
-    }
-             else{
-
-
-              Swal.fire({
-                          icon: 'error',
-                          title: 'Oops...',
-                          text: 'All fields are mandatory !',
-                          footer: '<a href>Why do I have this issue?</a>'
-                        })
-                    return false;
-                  }
-    });
-  return false;
-
-});
-</script>
 <script>
   /* Appointment form validations starts from here... */
 $(document).ready(function() { 

@@ -8,32 +8,29 @@
             <ul class="global-footer-info-links__list">
               <li class="global-footer-info-links__list-item">
                 <ul class="global-footer-sublist">
-                  <li class="global-footer-sublist__item-title"> T&amp;C </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Terms</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Privacy Policy</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Disclaimer</a> </li>
+                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/">Home</a> </li>
+                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/second-opinion/">Second Opinion</a> </li>
+                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/employers/">Employers</a> </li>
                  
                 </ul>
               </li>
               <li class="global-footer-info-links__list-item">
                 <ul class="global-footer-sublist">
-                  <li class="global-footer-sublist__item-title">  Content</li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Solution</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Services</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Employers</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Providers</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Attorney</a> </li>
+                  <li class="global-footer-sublist__item-title">Our Specialties</li>
+                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/orthopedics/">Orthopedics</a> </li>
+                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/spine/">Spine</a> </li>
+                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/injuryv3/injury-pain/">Injury and Pain</a> </li>
                  
                 </ul>
               </li>
               <li class="global-footer-info-links__list-item">
-                <ul class="global-footer-sublist">
+                <!-- <ul class="global-footer-sublist">
                   <li class="global-footer-sublist__item-title"> <span class="is-hidden-phone">Help</span></li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">FAQS</a> </li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Resources</a> </li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Complaints &amp; Escalations</a> </li>
                   
-                </ul>
+                </ul> -->
               </li>
             </ul>
           </nav>
@@ -46,12 +43,12 @@
         <hr class="global-footer__separator">
         <div class="global-footer__container">
           <div class="global-footer-company-links">
-            <ul class="global-footer-company-links__list">
-              <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">About us</a> </li>
-              <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">Careers</a> </li>
-             
-              <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">Sitemap</a> </li>
-            </ul>
+              <!-- <ul class="global-footer-company-links__list">
+                <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">About us</a> </li>
+                <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">Careers</a> </li>
+               
+                <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">Sitemap</a> </li>
+              </ul> -->
             <small class="global-footer-company-links__copyright"> © 2020 Speciality Care Live. All rights reserved. </small> </div>
           <div class="global-footer-social">
              <ul class="res-mar-center">

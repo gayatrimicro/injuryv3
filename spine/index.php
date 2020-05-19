@@ -184,7 +184,7 @@ include("../header.php");
 
               <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center" style="text-align: center;font-weight: 100;">Expert care for low back pain<br><strong> at a Push of a Button</strong></h3>
                <p class="text-left mobile-para-padding"> 
-                <a href="#" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>
+                <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>
             </p>
             
           </div>
@@ -272,7 +272,7 @@ include("../header.php");
           Injury Live is based on the clinical experience and expertise of our specialists and the most recent low back pain research from over 100 clinical studies. The result –  Injury Live users get immediate relief from their low back pain and learn the skill necessary to keep it from coming back.
           </p>
            <p class="text-left mobile-para-padding"> 
-                <a href="#" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>
+                <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Schedule a Tele consultation</a>
             </p>
           <!-- <p class="custom-fonts mobile-para-padding double-mobile">
             <p class="custom-fonts mobile-para-padding double-mobile">Depending on the type of injury, we have a team of multi-specialty group that combines <span class="italic"><i class="italic">orthopedic</i></span>, <i class="italic">neuro-spine</i>, <i class="italic">psychiatrists</i>, <i class="italic" >psychologists</i> and doctors who work with a complete neurology team all in one location. </p>
@@ -641,7 +641,7 @@ include("../footer.php");
 
 
 
-  <!-- Modal starts-->
+    <!-- Modal starts-->
   <div class="modal fade" id="request" role="dialog">
     <div class="modal-dialog modal-lg">
     
@@ -652,18 +652,24 @@ include("../footer.php");
           <h4 class="header-white"><span class="glyphicon glyphicon-phone header-white"></span> REQUEST A CALLBACK</h4>
         </div>
         <div class="modal-body" style="padding:40px 50px;">
-          <form id="signup" name="form2" role="form">
+          <form id="req-form" name="form2" role="form">
 
 
             <div class="form-group">
-              <input type="text" class="form-control custom-fonts" id="usrname_new" name="name" pattern="[a-zA-Z]{1,}" required="required" placeholder="Full Name..." />
+              <input type="text" class="form-control custom-fonts" id="req-name" name="req-name" pattern="[a-zA-Z]{1,}" placeholder="Full Name..." required/>
             </div>
 
             <div class="form-group">
-              <input type="number" class="form-control custom-fonts" id="mobile" name="mobile" required="required" placeholder="Mobile Number" maxlength="10" />
+              <input type="text" class="form-control custom-fonts" id="req-mobile" name="req-mobile" placeholder="Mobile Number" maxlength="10" pattern="[0-9]{10,10}" title="Please enter 10 digit number." required/>
             </div>
 
-              <button type="submit" id="submit-button-two" class="btn btn-success bottom-btn"><span class="glyphicon glyphicon-off"></span> Submit Now</button>
+            <div class="form-group">
+              <textarea rows="3" placeholder="Message here" class="form-control custom-fonts" id="req-message" name="req-message" required></textarea>
+            </div>
+
+            <div class="form-group">
+              <button type="submit" id="submit-button-two" class="btn btn-success bottom-btn" style="margin: 0 auto;display: block;"><span class="glyphicon glyphicon-off"></span> Submit Now</button>
+            </div>
           </form>
         </div>
         
@@ -671,6 +677,51 @@ include("../footer.php");
       
     </div>
   </div>
+<script>
+$(document).ready(function() { 
+    $('#req-form').submit(function(event) {
+      event.preventDefault();
+      var formdata = $('#req-form').serialize();
+
+if ($('#req-name').val() != "" && $('#req-mobile').val() != "" && $('#req-message').val() != "" ) {
+            
+             $.ajax({
+                              url:'../requestName.php',
+                              type:'POST',
+                              data:formdata,
+                              success:function(result){
+                              // alert("Your enquiry has been sent successfully");
+                              Swal.fire(
+                                         'Your enquiry has been sent successfully ?',
+                                         'we will get back to you soon ?'
+                                        )
+
+                              $("#signup").trigger('reset');
+                              $(".close").click();  
+                              }
+  
+
+                    });
+
+         
+    }
+             else{
+
+
+              Swal.fire({
+                          icon: 'error',
+                          title: 'Oops...',
+                          text: 'All fields are mandatory !',
+                          footer: '<a href>Why do I have this issue?</a>'
+                        })
+                    return false;
+                  }
+    });
+  return false;
+
+});
+</script>
+  <!-- Modal ends--> 
   <!-- Modal ends--> 
 
 
@@ -747,50 +798,7 @@ if(mobile.length < 9 || mobile.length > 10){
 });
 
 </script>
-<script>
-$(document).ready(function() { 
-    $('#submit-button-two').click(function(event) {
-      event.preventDefault();
-      var formdata = $('#signup').serialize();
 
-if ($('#usrname_new').val() != "" && $('#mobile').val() != "" ) {
-            
-             $.ajax({
-                              url:'requestName.php',
-                              type:'POST',
-                              data:formdata,
-                              success:function(result){
-                              //alert("Your enquiry has been sent successfully");
-                              Swal.fire(
-                                         'Your enquiry has been sent successfully ?',
-                                         'we will get back to you soon ?'
-                                        )
-
-                              $("#signup").trigger('reset');
-                              $(".close").click();  
-                              }
-  
-
-                    });
-
-         
-    }
-             else{
-
-
-              Swal.fire({
-                          icon: 'error',
-                          title: 'Oops...',
-                          text: 'All fields are mandatory !',
-                          footer: '<a href>Why do I have this issue?</a>'
-                        })
-                    return false;
-                  }
-    });
-  return false;
-
-});
-</script>
 <script>
   /* Appointment form validations starts from here... */
 $(document).ready(function() { 
