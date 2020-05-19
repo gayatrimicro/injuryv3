@@ -215,7 +215,7 @@ include("../header.php");
 <div class="header-content ">
             
 
-              <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center brand-name">Speciality Care Live<br><strong style="font-size: 30px;font-weight: 200;">UNRESTRICTED ACCESS TO SPECIALTY CARE</strong></h3>
+              <h3 class="c-main-title c-font-72 c-font-uppercase c-font-white c-center brand-name">Specialty Care Live<br><strong style="font-size: 30px;font-weight: 200;">UNRESTRICTED ACCESS TO SPECIALTY CARE</strong></h3>
                <p class="text-left mobile-para-padding" style="margin: 0 auto !important;"> 
                 <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Connect to an expert</a>
             </p>
@@ -307,9 +307,9 @@ include("../header.php");
 <section style="position: relative;z-index: 999;background-color: #f1f1f1 !important;padding: 0rem 0rem 5rem;">
   <div class="container">
     <div class="row">
-      <h3 style="padding: 5rem 0rem 3rem;" class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Why Speciality Care Live </h3>
+      <h3 style="padding: 5rem 0rem 3rem;" class="c-center c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Why Specialty Care Live </h3>
       
-      <p class="c-content text-justify custom-fonts margin-bottom padding-mob-head">Our mission is to provide Speciality Care Live expands the options for telemedicine to include individual service lines for Neurology + Stroke Neurology and Emergency Psychiatry, as well as Neurosurgery and Spine - compiling for the first time a complete telemedicine platform. Our other specialties include: Pediatric Emergency Medicine, Urology, ENT, General Surgery/Trauma, Cardiology, Pulmonology, Critical Care and others. By providing specialist availability where it is limited, inconsistent or not available, we are able to offer a streamlined solution that is both cost-effective and can help improve the quality of care offered.</p> 
+      <p class="c-content text-justify custom-fonts margin-bottom padding-mob-head">Our mission is to provide Specialty Care Live expands the options for telemedicine to include individual service lines for Neurology + Stroke Neurology and Emergency Psychiatry, as well as Neurosurgery and Spine - compiling for the first time a complete telemedicine platform. Our other specialties include: Pediatric Emergency Medicine, Urology, ENT, General Surgery/Trauma, Cardiology, Pulmonology, Critical Care and others. By providing specialist availability where it is limited, inconsistent or not available, we are able to offer a streamlined solution that is both cost-effective and can help improve the quality of care offered.</p> 
 
       <p class="c-content text-justify custom-fonts margin-bottom padding-mob-head">Staffed by Board-Certified surgeons and medical specialists, we provide guidance and expertise to help evaluate and manage atypical, challenging and worrisome conditions in the ED when needed. By providing telemedicine specialist consultations, we support and assist local providers in managing and treating patients with conditions that would benefit from a consultation, and we provide confidence to patients and families that they are receiving the highest quality of care without needing to transfer. </p>
 
@@ -321,7 +321,7 @@ include("../header.php");
 
     <div class="row">
       <div class="visit-button-holder">
-        <a href="../contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder btn-mob" style="margin:2rem;">Learn more about Speciality Care Live</a>
+        <a href="../contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder btn-mob" style="margin:2rem;">Learn more about Specialty Care Live</a>
       </div>
     </div>
   </div>

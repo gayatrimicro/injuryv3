@@ -408,8 +408,8 @@ include("../header.php");
 </style>
 <section style="z-index: 1000;position: relative;">
   <div class="inner_bannertel">
-    <h3>Speciality Care Live Features and Benefit</h3>
-    <p>Speciality Care Live is a telemedicine solution dedicated to the treatment of minor, work-related injuries and illnesses. Minimize lost duty time and productivity and avoid unnecessary visits to hospitals and urgent care facilities.</p>
+    <h3>Specialty Care Live Features and Benefit</h3>
+    <p>Specialty Care Live is a telemedicine solution dedicated to the treatment of minor, work-related injuries and illnesses. Minimize lost duty time and productivity and avoid unnecessary visits to hospitals and urgent care facilities.</p>
       <ul class="tel_banul">
         <li><div><img src="../assets/images/high-user-satisfaction-icon.png"><p>CONVENIENCE</p></div></li>
         <!-- <li><div><img src="../assets/images/open24x7.png"><p>Open 24/7</p></div></li> -->
@@ -733,7 +733,7 @@ include("../header.php");
 </ul>
 </div>
 </div>
-<p style="font-size: 1.5rem;">Speciality Care Live is not appropriate for serious or life-threatening conditions. For such conditions, please seek <span> </span>emergency medical assistance immediately.</p></div><ul class="buttons"><li class="field-promolink"><a href="#" data-variantitemid="{ABB27377-0DA0-4AD7-8869-D18D7FA7022D}" data-variantfieldname="PromoLink">Find out where Speciality Care Live is available</a></li></ul></div> </div>
+<p style="font-size: 1.5rem;">Specialty Care Live is not appropriate for serious or life-threatening conditions. For such conditions, please seek <span> </span>emergency medical assistance immediately.</p></div><ul class="buttons"><li class="field-promolink"><a href="#" data-variantitemid="{ABB27377-0DA0-4AD7-8869-D18D7FA7022D}" data-variantfieldname="PromoLink">Find out where Specialty Care Live is available</a></li></ul></div> </div>
 </div>
 </div>
 </div>
@@ -744,14 +744,14 @@ include("../header.php");
 
 <section id="clients-new-new" style="background:#f4f9fc;position: relative;z-index: 1000;">
     <div class="inner_bannertel">
-    <h3>Speciality Care Live Has Expanded its Telemedicine Services</h3>
+    <h3>Specialty Care Live Has Expanded its Telemedicine Services</h3>
     
       <ul class="tel_banul-second">
         <li>
           <div>
             <img src="../assets/images/return-to-work-200x200-circle.png">
             <p><strong>RETURN-TO-WORK EVALUATION</strong></p>
-            <p>Speciality Care Live may be used to evaluate employees who tested positive for or were potentially exposed to coronavirus disease (COVID-19) before they return to work.</p>
+            <p>Specialty Care Live may be used to evaluate employees who tested positive for or were potentially exposed to coronavirus disease (COVID-19) before they return to work.</p>
           </div>
         </li>
         <!-- <li><div><img src="../assets/images/open24x7.png"><p>Open 24/7</p></div></li> -->
@@ -759,14 +759,14 @@ include("../header.php");
           <div>
             <img src="../assets/images/telerehab-recheck-200x200-circle.png">
             <p><strong>PHYSICAL THERAPY</strong></p>
-            <p>Employees previously seen at a Speciality Care Live medical center for physical therapy may use our telemedicine platform to continue their rehab sessions.</p>
+            <p>Employees previously seen at a Specialty Care Live medical center for physical therapy may use our telemedicine platform to continue their rehab sessions.</p>
           </div>
         </li>
         <li>
           <div>
             <img src="../assets/images/telemed-injury-recheck-200x200-circle.png">
             <p><strong>INJURY RECHECK</strong></p>
-            <p>Employees treated for an injury at a Speciality Care Live medical center may use Speciality Care Live Telemed for their <br>injury rechecks.</p>
+            <p>Employees treated for an injury at a Specialty Care Live medical center may use Specialty Care Live Telemed for their <br>injury rechecks.</p>
           </div>
         </li>
         <!-- <li><div><img src="../assets/images/secure-platform-icon.png"><p>PRIVACY & SECURITY</p></div></li> -->
@@ -779,16 +779,16 @@ include("../header.php");
       <h3 style="text-align: center;">Employer FAQs and Resources</h3>
       
 
-      <button class="accordion">How long does a Speciality Care Live visit take?</button>
+      <button class="accordion">How long does a Specialty Care Live visit take?</button>
       <div class="panels">
-        <p>The length of each visit depends on your condition and medical needs. One advantage of using Speciality Care Live for qualified injuries is you will not spend time traveling to and from a medical facility or sitting in a waiting room.</p>
+        <p>The length of each visit depends on your condition and medical needs. One advantage of using Specialty Care Live for qualified injuries is you will not spend time traveling to and from a medical facility or sitting in a waiting room.</p>
       </div>
 
       <button class="accordion">How do I authorize a telemedicine visit?</button>
       <div class="panels">
-        <p>An employer authorization form must be submitted to use Speciality Care Live. The authorization form can be submitted in the following ways:</p>
+        <p>An employer authorization form must be submitted to use Specialty Care Live. The authorization form can be submitted in the following ways:</p>
         <ul>
-          <li>Email (<a href="mailto:scctelevisit@cmclancaster.com">scctelevisit@cmclancaster.com</a>)</li>
+          <li>Email (<a href="mailto:scctelevisit@cmclancaster.com" style="color: #32c5d2;text-decoration: underline;">scctelevisit@cmclancaster.com</a>)</li>
           <li>Fax ((214) 888-4450)</li>
         </ul>
       </div>
@@ -809,19 +809,19 @@ include("../header.php");
         </p>
       </div>
 
-      <button class="accordion">How secure is a Speciality Care Live visit?</button>
+      <button class="accordion">How secure is a Specialty Care Live visit?</button>
       <div class="panels">
-        <p>Speciality Care Live deploys a HIPAA-compliant system of secure communication to maintain the integrity of your protected health information (PHI). The platform is equipped to monitor communications for prevention of accidental or malicious breaches. In addition, Speciality Care Live does not record video visits or store patient records in this platform.</p>
+        <p>Specialty Care Live deploys a HIPAA-compliant system of secure communication to maintain the integrity of your protected health information (PHI). The platform is equipped to monitor communications for prevention of accidental or malicious breaches. In addition, Specialty Care Live does not record video visits or store patient records in this platform.</p>
       </div>
 
-      <button class="accordion">Can I use Speciality Care Live while traveling with work?</button>
+      <button class="accordion">Can I use Specialty Care Live while traveling with work?</button>
       <div class="panels">
-        <p>It depends on the state. Our ultimate goal is to provide nationwide access to occupational health clinicians using our telemedicine platform; however, there are some states where Speciality Care Live is currently unavailable.</p>
+        <p>It depends on the state. Our ultimate goal is to provide nationwide access to occupational health clinicians using our telemedicine platform; however, there are some states where Specialty Care Live is currently unavailable.</p>
       </div>
 
-      <button class="accordion">Can I use Speciality Care Live for my primary care needs?</button>
+      <button class="accordion">Can I use Specialty Care Live for my primary care needs?</button>
       <div class="panels">
-        <p>No. Speciality Care Live is a telemedicine platform designed to manage less serious work injuries only. It should not be utilized to treat health conditions that are not work-related.</p>
+        <p>No. Specialty Care Live is a telemedicine platform designed to manage less serious work injuries only. It should not be utilized to treat health conditions that are not work-related.</p>
       </div>
 
       <button class="accordion">What if I need technical assistance?</button>

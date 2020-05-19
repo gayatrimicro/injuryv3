@@ -36,7 +36,7 @@
 
 <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-<title>Speciality Care Live</title>
+<title>Specialty Care Live</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
@@ -316,12 +316,12 @@ include("header.php");
           <div class=""></div>
          <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline">Your Recovery is Our Priority</h3>
          <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile">
-         Access to Specialty Care when and where you need It
+         Access to Specialty Care when and where you need it
          </h1>
         </div>
         <div class="col-md-6">
           <p class="custom-fonts mobile-para-padding">
-           Speciality Care Live provides Medical and Surgical Specialties to provide Virtual Care Telemedicine Consultations for Hospitals, Clinics and remote worksites to increase access to Specialty Care when and where you need it.</p>
+           Specialty Care Live provides Medical and Surgical Specialties to provide Virtual Care Telemedicine Consultations for Hospitals, Clinics and remote worksites to increase access to Specialty Care when and where you need it.</p>
           <div class="c-margin-b-10 c-margin-t-0">
          <a href="javascript:void(0);" data-toggle="modal" data-target="#request" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold mobile-button">Request a call back to know more</a>
           </div>
@@ -498,8 +498,8 @@ After the physician has diagnosed the issue, our care coordinator will review in
 <section style="position: relative;z-index: 999;background-color: #fff;padding: 0rem 0rem 5rem;">
   <div class="container">
     <div class="row" style="padding: 5rem 2rem 0rem;">
-      <h3 style="padding: 3rem 0rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> What makes Speciality Care Live the Leader? </h3>
-      <p class="c-content text-justify custom-fonts margin-bottom padding-mob">Speciality Care Live expands the options for telemedicine  to include many medical and surgical specialities. By providing these service lines, we can either provide either stand-alone specialities to sites where none is currently offered or available. Additionally and just as commonly, we can augment or supplement existing clinical staff by providing specialist availability where clinical staffing is inconsistent, or not adequate to meet the need. By offering a stream-lined solution that is both cost-effective and can help improve the quality of care offered. </p>
+      <h3 style="padding: 3rem 0rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> What makes Specialty Care Live the Leader? </h3>
+      <p class="c-content text-justify custom-fonts margin-bottom padding-mob">Specialty Care Live expands the options for telemedicine  to include many medical and surgical specialities. By providing these service lines, we can either provide either stand-alone specialities to sites where none is currently offered or available. Additionally and just as commonly, we can augment or supplement existing clinical staff by providing specialist availability where clinical staffing is inconsistent, or not adequate to meet the need. By offering a stream-lined solution that is both cost-effective and can help improve the quality of care offered. </p>
 
       <p class="c-content text-justify custom-fonts margin-bottom padding-mob">Our physicians, who have active clinical practices themselves, use our evidence-based approach and protocols to deliver a conservative and appropriate care plan for patients in conjunction with local providers. Whether it is a non-emergent condition where a consultation would be beneficial, an emergent evaluation of a new condition which may occasionally be treated locally, or initial stabilization recommendations for emergent conditions while waiting a transfer, we provide broad access to the appropriate specialists. We also know and appreciate that not all conditions can or should be evaluated and treated using Telemedicine, and the facility and its providers also play significant factors in these decisions.</p>
 
@@ -507,7 +507,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
     </div>
     <div class="row">
       <div class="visit-button-holder xs_btn">
-        <a href="contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="padding: 2rem 4rem;margin:2rem;">Learn more about Speciality Care Live</a>
+        <a href="contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="padding: 2rem 4rem;margin:2rem;">Learn more about Specialty Care Live</a>
       </div>
     </div>
     <!-- <div class="row">
@@ -517,7 +517,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
     <section style="position: relative;z-index: 999;background-color: #f1f1f1 !important;padding: 5rem 0rem">
   <div class="container">
     <div class="row diff-to-other" style="padding: 1rem 2rem 1rem;">
-      <h3 style="padding: 1rem 0rem 3rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Differentiating Speciality Care Live from other Telemedicine Providers </h3>
+      <h3 style="padding: 1rem 0rem 3rem;" class="c-left c-font-uppercase c-font-bold c-left c-font-uppercase bigger-font-medium c-font-bold"> Differentiating Specialty Care Live from other Telemedicine Providers </h3>
       <ul>
         <li>Many different medical and surgical specialties available via our board-certified telemedicine providers</li>
         <li>Specialist consultation services available 24/7 via telemedicine platform. Initial call-back times range from 5 minutes for emergencies to 15 minutes for urgent conditions, and 30 minutes for routine conditions in the ED, depending on specialty. Backup connectivity options provided. <strong>Industry First.</strong></li>
@@ -529,7 +529,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
         <li>Specialist physicians and surgeons are specialists in their field, with advanced training who are committed to providing high quality care and supporting the community mission. All physicians have ownership options within our company. <strong>Industry First.</strong></li>
         <li>Ongoing peer-initiated and reviewed research aimed at the continuing improvement of care, outcomes and services delivery where permitted. <strong>Industry First.</strong></li>
         <li>Individual, hospital specific training available. Online video training for ancillary providers includes specialty specific assessments, red flags, etc. Specialized discharge instruction available. <strong>Industry First.</strong></li>
-        <li>Speciality Care Live supports and manages non-profit initiatives focused on global health and improving the delivery of care. <strong>Industry First.</strong></li>
+        <li>Specialty Care Live supports and manages non-profit initiatives focused on global health and improving the delivery of care. <strong>Industry First.</strong></li>
         <li>Synergy with local specialists - our goal is to be non-competitive, providing staffing as needed to patients, and supporting local specialists wherever possible.</li>
       </ul>
     </div>
@@ -545,7 +545,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
 </section>
 
 
-<!-- <section style="background-image: url('assets/images/speciality-side.jpg');height: 250px;z-index: 1000;position: relative;background-position: center;background-repeat: no-repeat;background-size: cover;">
+<!-- <section style="background-image: url('assets/images/Specialty-side.jpg');height: 250px;z-index: 1000;position: relative;background-position: center;background-repeat: no-repeat;background-size: cover;">
     <div style="position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);">
       <h1 class="our-spe">Our Specialities</h1>
     </div>
@@ -573,7 +573,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
       <p class="c-content sm-text-center text-center custom-fonts margin-bottom padding-mob"><strong>
         "TELEMEDICINE IS THE USE OF A HIGH QUALITY AUDIO-VISUAL COMMUNICATION SOFTWARE PLATFORM LINKING REMOTE CARE PROVIDERS AND PATIENTS WITH SPECIALISTS IN AREAS THAT ARE UNDERSERVED OR THE NEED EXCEEDS THE CAPACITY. "</strong>
       </p>
-      <p class="c-content text-justify custom-fonts margin-bottom padding-mob-head">Although it sounds modern, even futuristic, the first reference to telemedicine in the medical literature appeared in 1950 (Zundel, 1996), and was the transmission of radiologic images by telephone between West Chester and Philadelphia, Pennsylvania, a distance of 24 miles. Speciality Care Live connects specialists with distant patients and caregivers using the most sophisticated computer platform and software available to allow for meaningful and complete interactions between patients and caregivers. By providing access to specialists in areas that are either unavailable, under-served or where the existing specialists are over-utilized, we allow a level of care and interaction that helps redefine the local standard of care. By providing specialist consultations and care, we hope to improve the improve the patient- physician experience, improve diagnostic accuracy and the care delivery, allow for certain patients to be cared for locally without the need for transfer, with improved efficiencies in the delivery of services. In short, <strong>Speciality Care Live</strong> defines quality, value-based care.  </p>
+      <p class="c-content text-justify custom-fonts margin-bottom padding-mob-head">Although it sounds modern, even futuristic, the first reference to telemedicine in the medical literature appeared in 1950 (Zundel, 1996), and was the transmission of radiologic images by telephone between West Chester and Philadelphia, Pennsylvania, a distance of 24 miles. Specialty Care Live connects specialists with distant patients and caregivers using the most sophisticated computer platform and software available to allow for meaningful and complete interactions between patients and caregivers. By providing access to specialists in areas that are either unavailable, under-served or where the existing specialists are over-utilized, we allow a level of care and interaction that helps redefine the local standard of care. By providing specialist consultations and care, we hope to improve the improve the patient- physician experience, improve diagnostic accuracy and the care delivery, allow for certain patients to be cared for locally without the need for transfer, with improved efficiencies in the delivery of services. In short, <strong>Specialty Care Live</strong> defines quality, value-based care.  </p>
       <div class="col-md-4">
         <img src="assets/images/technology.jpeg" alt="technology" style="width: 100%;margin: 4rem 0rem;">
         <p  class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
@@ -582,7 +582,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
         <p  class="c-content custom-fonts margin-bottom text-justify padding-mob">The software and hardware platform and linkage allows for seamless, face-to-face interaction between the consulting physician and local provider and/or patient, effectively marking a new era in medicine.  We partner with the most sophisticated technology providers in the world bringing you a complete package of physician services and technology.</p>
       </div>
       <div class="col-md-4">
-        <img src="assets/images/specialist.jpeg" alt="speciality" style="width: 100%;margin: 4rem 0rem;">
+        <img src="assets/images/specialist.jpeg" alt="Specialty" style="width: 100%;margin: 4rem 0rem;">
         <p  class="c-content sm-text-center text-center custom-fonts margin-bottom"><strong>
           SPECIALISTS
         </strong></p>
