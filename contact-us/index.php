@@ -3,7 +3,6 @@
 
 <script type="text/javascript" async="" src="../assets/js/analytics.js"></script>
  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
   <link rel='stylesheet' type='text/css' href='https://d33wubrfki0l68.cloudfront.net/bundles/2835d381ea542b7b6f33b7ad013e66d159afec9a.css'/>
@@ -280,7 +279,7 @@ include("../header.php");
 
 <section id="whyus-new" style="z-index: 1000;position: relative;"> 
     <div id="desk-one" class="c-bg-white">
-      <form class="contact-form">
+      <form class="contact-form" id="contact-form">
       <div class="container"><br><br>
           <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
             Contact us
