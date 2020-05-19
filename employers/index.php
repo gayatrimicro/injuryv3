@@ -804,7 +804,7 @@ include("../header.php");
           <li>iPad Mini 2</li>
           <li>iPod Touch 6th gen and newer</li>
         </ul>
-        <p>Microsoft Windows Operating System : recommended that you use the latest version of Google Chrome, Microsoft Internet Explorer, Mozilla Firefox, or Safari (Mac only). You cannot access <a href="mailto:scctelevisit@cmclancaster.com">scctelevisit@cmclancaster.com</a> via mobile device.
+        <p>Microsoft Windows Operating System : recommended that you use the latest version of Google Chrome, Microsoft Internet Explorer, Mozilla Firefox, or Safari (Mac only). You cannot access <a href="mailto:scctelevisit@cmclancaster.com" style="color: #32c5d2;text-decoration: underline;">scctelevisit@cmclancaster.com</a> via mobile device.
 
         </p>
       </div>
