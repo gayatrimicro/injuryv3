@@ -733,7 +733,7 @@ include("../header.php");
 </ul>
 </div>
 </div>
-<p style="font-size: 1.5rem;">Specialty Care Live is not appropriate for serious or life-threatening conditions. For such conditions, please seek <span> </span>emergency medical assistance immediately.</p></div><ul class="buttons"><li class="field-promolink"><a href="#" data-variantitemid="{ABB27377-0DA0-4AD7-8869-D18D7FA7022D}" data-variantfieldname="PromoLink">Find out where Specialty Care Live is available</a></li></ul></div> </div>
+<p style="font-size: 1.5rem;">Specialty Care Live is not appropriate for serious or life-threatening conditions. For such conditions, please seek <span> </span>emergency medical assistance immediately.</p></div><ul class="buttons"><li class="field-promolink"><a href="../contact-us/" data-variantitemid="{ABB27377-0DA0-4AD7-8869-D18D7FA7022D}" data-variantfieldname="PromoLink">Find out where Specialty Care Live is available</a></li></ul></div> </div>
 </div>
 </div>
 </div>
