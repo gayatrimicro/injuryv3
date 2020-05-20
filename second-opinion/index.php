@@ -378,7 +378,7 @@ include("../header.php");
           <div class="c-media"> 
            <p class="c-font-black m-0"><span class="footer-para">E-mail :</span> <a href="mailto:info@texasspecialtyclinic.com" class="links cta-secondary footer-links">info@texasspecialtyclinic.com</a></p>
            <br/>
-           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:(972) 865-4454" class="links cta-secondary footer-links"> (972) 865-4454</a></p>
+           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1(972) 865-4454" class="links cta-secondary footer-links"> (972) 865-4454</a></p>
            <br/>
            <p class="c-font-black m-0"><span class="footer-para">Fax : (888) 900-4530</span></p>
           </div>

@@ -40,13 +40,38 @@
             visibility: visible;
             transform: scaleX(1);
           }
+          @media (max-width: 600px){
+            .plus:after{
+              content: "";
+              font-family: 'FontAwesome';
+              font-size: 100%;
+              position: absolute;
+              right: 0;
+              top: 60%;
+              display: inline-block;
+              color: #097ec2;
+              vertical-align: middle;
+            }
+          }
+          
+          /*.minus:after{
+            content: "\2212";
+            font-family: 'FontAwesome';
+            font-size: 100%;
+            position: absolute;
+            right: 0;
+            top: 60%;
+            display: inline-block;
+            color: #097ec2;
+            vertical-align: middle;
+          }*/
         </style>
         <nav class="c-mega-menu c-mega-menu-onepage c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold" data-onepage-animation-speed="300">
           <ul class="nav navbar-nav c-theme-nav">
 
             <li class="c-onepage-link active c-active"> <a href="http://spacegm.com/injuryv3/" class="c-link"><span>Home</span></a> </li>
 
-            <li class="c-onepage-link show show-mobile"><a href="#" class="c-link"><span>Our Specialties</span></a> 
+            <li class="c-onepage-link show show-mobile plus"><a href="#" class="c-link"><span>Our Specialties</span></a> 
 
               <ul class="child-dropdown">
                 <li class="child-li"><a href="http://spacegm.com/injuryv3/orthopedics/" class="links-dropdown" hreflang="en"><span class="tele">Orthopedics</span></a></li>
@@ -94,7 +119,7 @@
 
            <!-- <li class="c-onepage-link show"> <a href="#" class="c-link">Providers</a></li> -->
            <!-- <li class="c-onepage-link show"> <a href="#" class="c-link">Attorney</a></li> -->
-           <li> <a href="tel:(972) 865-4454" ref="" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg btn-new c-btn-border-1x c-btn-dark c-btn-circle c-btn-uppercase c-btn-sbold"><i class="fa fa-phone" aria-hidden="true"></i>(972) 865-4454</a> </li>
+           <li> <a href="tel:+1(972) 865-4454" ref="" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg btn-new c-btn-border-1x c-btn-dark c-btn-circle c-btn-uppercase c-btn-sbold"><i class="fa fa-phone" aria-hidden="true"></i>(972) 865-4454</a> </li>
           </ul>
         </nav>
         
@@ -106,6 +131,8 @@
     $(".show-mobile").click(function(){
     $(".mobile-dropdown").toggleClass("mobile-visible");
     $(".mobile-links").addClass("links-dropdown-mobile");
+    
+
     });
 
     $(".show-mobile-two").click(function(){

@@ -707,7 +707,7 @@ include("../header.php");
 <div class="col-md-6 col-lg-6 col-sm-12 columns background-color-lightGrey background-pattern columns">
 <div class="component promo card columns equal">
 <div class="component-content">
-<div class="field-promoicon"><img src="../assets/images/home_background-couple-old.jpg" alt="Man standing in a field using his phone for telemedicine services." width="483" height="212" style="height: auto;width: 100%;" data-variantitemid="{ABB27377-0DA0-4AD7-8869-D18D7FA7022D}" data-variantfieldname="PromoIcon" style="margin: 0px 0px" /></div><div class="card-content"><h3 class="field-promotitle">What it Treats and Where it&#39;s Available</h3><div class="bar-double"></div><div class="richtextcontent field-promotext"><div class="row">
+<div class="field-promoicon"><img src="../assets/images/home_background-couple.jpg" alt="Man standing in a field using his phone for telemedicine services." width="483" height="212" style="height: auto;width: 100%;" data-variantitemid="{ABB27377-0DA0-4AD7-8869-D18D7FA7022D}" data-variantfieldname="PromoIcon" style="margin: 0px 0px" /></div><div class="card-content"><h3 class="field-promotitle">What it Treats and Where it&#39;s Available</h3><div class="bar-double"></div><div class="richtextcontent field-promotext"><div class="row">
 <div class="medium-6">
 <p><strong>Initial Injuries</strong></p>
 <ul>
@@ -826,7 +826,7 @@ include("../header.php");
 
       <button class="accordion">What if I need technical assistance?</button>
       <div class="panels">
-        <p>If you need help or have technical issues, call <a style="color: #097ec2;text-decoration: underline;font-weight: 600;" href="tel:(972) 865-4454">(972) 865-4454</a>.</p>
+        <p>If you need help or have technical issues, call <a style="color: #097ec2;text-decoration: underline;font-weight: 600;" href="tel:+1(972) 865-4454">(972) 865-4454</a>.</p>
       </div>  
   </section>
 
@@ -871,7 +871,7 @@ include("../header.php");
           <div class="c-media"> 
            <p class="c-font-black m-0"><span class="footer-para">E-mail :</span> <a href="mailto:info@texasspecialtyclinic.com" class="links cta-secondary footer-links">info@texasspecialtyclinic.com</a></p>
            <br/>
-           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:(972) 865-4454" class="links cta-secondary footer-links"> (972) 865-4454</a></p>
+           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1(972) 865-4454" class="links cta-secondary footer-links"> (972) 865-4454</a></p>
            <br/>
            <p class="c-font-black m-0"><span class="footer-para">Fax : (888) 900-4530</span></p>
           </div>

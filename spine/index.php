@@ -353,7 +353,7 @@ include("../header.php");
             <p class="custom-fonts mobile-para-padding">Telehealth solutions answer the problems of cost, access, and convenience while achieving desired outcomes. Telehealth solutions may in fact be the perfect vehicle to effect the greatest therapeutic change in patients and lower cost for all stakeholders. Telehealth closes the distance and collapses time between provider and patient and enables faster insight into the patient’s condition, progress, and ongoing needs.</p>
             
             <p class="text-left mobile-para-padding"> 
-                <a href="tel:(972) 865-4454" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at (972) 865-4454</a>
+                <a href="tel:+1(972) 865-4454" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at (972) 865-4454</a>
             </p>
           </div>
 
@@ -414,7 +414,7 @@ include("../header.php");
           <div class="c-media"> 
            <p class="c-font-black m-0"><span class="footer-para">E-mail :</span> <a href="mailto:info@texasspecialtyclinic.com" class="links cta-secondary footer-links">info@texasspecialtyclinic.com</a></p>
            <br/>
-           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:(972) 865-4454" class="links cta-secondary footer-links"> (972) 865-4454</a></p>
+           <p class="c-font-black m-0"><span class="footer-para">Phone :</span> <a href="tel:+1(972) 865-4454" class="links cta-secondary footer-links"> (972) 865-4454</a></p>
            <br/>
            <p class="c-font-black m-0"><span class="footer-para">Fax : (888) 900-4530</span></p>
           </div>

@@ -403,7 +403,7 @@ include("header.php");
               </div>
               <p class="c-content sm-text-center text-center custom-fonts custom-call"> Call us at </p>
 
-                <a hreflang="en" href="tel:(972) 865-4454" class="links cta-secondary"> (972) 865-4454 </a>
+                <a hreflang="en" href="tel:+1(972) 865-4454" class="links cta-secondary"> (972) 865-4454 </a>
 
                 <p class="c-content sm-text-center text-center custom-fonts custom-call margin-bottom margin-top">
                   You will get connected to our Care Coordinator who will confirm information and review injury as well as collect past medical history.
@@ -453,7 +453,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
 
 
 <div class="visit-button-holder">
-<a href="tel:(972) 865-4454" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder">Start a visit</a>
+<a href="tel:+1(972) 865-4454" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder">Start a visit</a>
 </div>
 
 
@@ -473,7 +473,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
     <div class="row" style="margin-bottom: 8rem;margin-top: 5rem;">
       <div class="col-md-6 col-ls-6 col-sm-12">
         <div class="visit-button-holder">
-          <a href="tel:(972) 865-4454" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="width: 100%;height: 100px;">Complementary Hospital<br> Telemedicine Business Model<br> Consultation</a>
+          <a href="tel:+1(972) 865-4454" ref="" class="new-padding btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="width: 100%;height: 100px;">Complementary Hospital<br> Telemedicine Business Model<br> Consultation</a>
         </div>
       </div>
       <div class="col-md-6 col-ls-6 col-sm-12">
@@ -507,7 +507,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
     </div>
     <div class="row">
       <div class="visit-button-holder xs_btn">
-        <a href="contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="padding: 2rem 4rem;margin:2rem;">Learn more about Specialty Care Live</a>
+        <a href="javascript:void(0);" data-toggle="modal" data-target="#request" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="padding: 2rem 4rem;margin:2rem;">Learn more about Specialty Care Live</a>
       </div>
     </div>
     <!-- <div class="row">
@@ -536,7 +536,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
     <!-- <hr> -->
     <div class="row">
       <div class="visit-button-holder">
-        <a href="contact-us" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="padding: 2rem 4rem;margin:2rem;">Schedule a 5-minute quick<br class="mob-only"> overview call</a>
+        <a href="javascript:void(0);" data-toggle="modal" data-target="#request" ref="" class="btn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold buttons-bolder" style="padding: 2rem 4rem;margin:2rem;">Schedule a 5-minute quick<br class="mob-only"> overview call</a>
       </div>
     </div>
     <!-- <hr> -->
@@ -662,7 +662,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
             <p class="custom-fonts mobile-para-padding">Let us know if you’ve been in an accident or otherwise injured, and our experienced team can help.</p>
             
             <p class="text-left mobile-para-padding"> 
-                <a href="tel:(972) 865-4454" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at (972) 865-4454</a>
+                <a href="tel:+1(972) 865-4454" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at (972) 865-4454</a>
             </p>
           </div>
 

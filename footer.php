@@ -52,7 +52,7 @@
                 <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">Sitemap</a> </li>
               </ul> -->
             <small class="global-footer-company-links__copyright"> © 2020 Specialty Care Live. All rights reserved. </small> </div>
-          <div class="global-footer-social">
+          <!-- <div class="global-footer-social">
              <ul class="res-mar-center">
               
               <li class="global-footer-social__list-item"> <a class="global-footer__icon-link" rel="nofollow" href="javascript:void(0);"> <img class="global-footer-social__icon" alt="Facebook" title="Facebook" src="http://spacegm.com/injuryv3/assets/images/facebook.svg"> </a> </li>
@@ -61,7 +61,7 @@
 
              
             </ul>
-          </div>
+          </div> -->
         </div>
       </div>
     </footer>

@@ -2972,3 +2972,9 @@ form{
 .modal-dialog {
     margin: 150px auto;
 }
+@media (max-width: 600px){
+    #process .margin-bottom {
+      margin-bottom: 35px;
+      margin-top: 50px !important;
+  }
+}
