@@ -3,10 +3,10 @@
     <div class="container-fluid"> 
       <div class="c-navbar-wrapper clearfix">
         <div class="c-brand c-pull-left"> 
-          <a href="http://spacegm.com/injuryv3/" class="c-logo"> 
-            <img src="http://spacegm.com/injuryv3/assets/images/company_logo-2.png" alt="Logo" class="c-desktop-logo"> 
-            <img src="http://spacegm.com/injuryv3/assets/images/company_logo-2.png" alt="Logo" class="c-desktop-logo-inverse"> 
-            <img src="http://spacegm.com/injuryv3/assets/images/company_logo-2.png" alt="Logo" class="c-mobile-logo"> 
+          <a href="http://spacegm.com/ssl/" class="c-logo"> 
+            <img src="http://spacegm.com/ssl/assets/images/company_logo-2.png" alt="Logo" class="c-desktop-logo"> 
+            <img src="http://spacegm.com/ssl/assets/images/company_logo-2.png" alt="Logo" class="c-desktop-logo-inverse"> 
+            <img src="http://spacegm.com/ssl/assets/images/company_logo-2.png" alt="Logo" class="c-mobile-logo"> 
           </a>
           <button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu"> 
             <span class="c-line"></span> 
@@ -69,25 +69,25 @@
         <nav class="c-mega-menu c-mega-menu-onepage c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold" data-onepage-animation-speed="300">
           <ul class="nav navbar-nav c-theme-nav">
 
-            <li class="c-onepage-link active c-active"> <a href="http://spacegm.com/injuryv3/" class="c-link"><span>Home</span></a> </li>
+            <li class="c-onepage-link active c-active"> <a href="http://spacegm.com/ssl/" class="c-link"><span>Home</span></a> </li>
 
             <li class="c-onepage-link show show-mobile plus"><a href="#" class="c-link"><span>Our Specialties</span></a> 
 
               <ul class="child-dropdown">
-                <li class="child-li"><a href="http://spacegm.com/injuryv3/orthopedics/" class="links-dropdown" hreflang="en"><span class="tele">Orthopedics</span></a></li>
-                <li class="child-li"><a href="http://spacegm.com/injuryv3/spine/" class="links-dropdown" hreflang="en"><span class="tele">Spine</span></a></li>
-                <li class="child-li"><a href="http://spacegm.com/injuryv3/injury-pain/" class="links-dropdown"><span class="tele">Injury and Pain</span></a></li>
+                <li class="child-li"><a href="http://spacegm.com/ssl/orthopedics/" class="links-dropdown" hreflang="en"><span class="tele">Orthopedics</span></a></li>
+                <li class="child-li"><a href="http://spacegm.com/ssl/spine/" class="links-dropdown" hreflang="en"><span class="tele">Spine</span></a></li>
+                <li class="child-li"><a href="http://spacegm.com/ssl/injury-pain/" class="links-dropdown"><span class="tele">Injury and Pain</span></a></li>
               </ul>
 
               <ul class="mobile-dropdown">
-                <li class="child-li"><a href="http://spacegm.com/injuryv3/orthopedics/" class="links-dropdown mobile-links" hreflang="en">Orthopedics</a></li>
-                <li class="child-li"><a href="http://spacegm.com/injuryv3/spine/" class="links-dropdown mobile-links" hreflang="en">Spine</a></li>
-                <li class="child-li"><a href="http://spacegm.com/injuryv3/injury-pain/" class="links-dropdown mobile-links">Injury and Pain</a></li>
+                <li class="child-li"><a href="http://spacegm.com/ssl/orthopedics/" class="links-dropdown mobile-links" hreflang="en">Orthopedics</a></li>
+                <li class="child-li"><a href="http://spacegm.com/ssl/spine/" class="links-dropdown mobile-links" hreflang="en">Spine</a></li>
+                <li class="child-li"><a href="http://spacegm.com/ssl/injury-pain/" class="links-dropdown mobile-links">Injury and Pain</a></li>
               </ul>
 
             </li>
 
-            <li class="c-onepage-link active c-active"> <a href="http://spacegm.com/injuryv3/second-opinion/" class="c-link"><span>Second Opinion</span></a> </li>
+            <li class="c-onepage-link active c-active"> <a href="http://spacegm.com/ssl/second-opinion/" class="c-link"><span>Second Opinion</span></a> </li>
          
 
   <!-- <li class="c-onepage-link show show-mobile-two"> <a href="#" class="c-link">Services</a>
@@ -102,7 +102,7 @@
               </ul>
   </li> -->
 
-           <li class="c-onepage-link show show-mobile-three"> <a href="http://spacegm.com/injuryv3/employers/" class="c-link"><span>Employers</span></a>
+           <li class="c-onepage-link show show-mobile-three"> <a href="http://spacegm.com/ssl/employers/" class="c-link"><span>Employers</span></a>
              
              <!-- <ul class="child-dropdown"> 
                 <li class="child-li"><a href="javascript:void(0);" class="links-dropdown" hreflang="en"><span class="tele">Workers compensation</span></a></li>
