@@ -21,7 +21,7 @@
 <link rel="icon" href="assets/images/favicon.png" sizes="16x16" type="image/png"> 
 <link rel="icon" href="assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
-<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- <link href="assets/css/default.css" rel="stylesheet" type="text/css"> -->
 <link href="assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
