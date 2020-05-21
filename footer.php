@@ -11,9 +11,7 @@
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/ssl/">Home</a> </li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/ssl/contact-us/">Contact us</a> </li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/ssl/second-opinion/">Second Opinion</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/ssl/employers/">Employers</a> </li>
-
-                 
+                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="http://spacegm.com/ssl/employers/">Employers</a> </li>                 
                 </ul>
               </li>
               <li class="global-footer-info-links__list-item">
@@ -26,13 +24,6 @@
                 </ul>
               </li>
               <li class="global-footer-info-links__list-item">
-                <!-- <ul class="global-footer-sublist">
-                  <li class="global-footer-sublist__item-title"> <span class="is-hidden-phone">Help</span></li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">FAQS</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Resources</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="javascript:void(0);">Complaints &amp; Escalations</a> </li>
-                  
-                </ul> -->
               </li>
             </ul>
           </nav>
@@ -45,24 +36,37 @@
         <hr class="global-footer__separator">
         <div class="global-footer__container">
           <div class="global-footer-company-links">
-              <!-- <ul class="global-footer-company-links__list">
-                <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">About us</a> </li>
-                <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">Careers</a> </li>
-               
-                <li class="global-footer-company-links__list-item"> <a class="global-footer__text-link -opacity-full" href="javascript:void(0);">Sitemap</a> </li>
-              </ul> -->
             <small class="global-footer-company-links__copyright"> © 2020 Specialty Care Live. All rights reserved. </small> </div>
-          <!-- <div class="global-footer-social">
-             <ul class="res-mar-center">
-              
-              <li class="global-footer-social__list-item"> <a class="global-footer__icon-link" rel="nofollow" href="javascript:void(0);"> <img class="global-footer-social__icon" alt="Facebook" title="Facebook" src="http://spacegm.com/ssl/assets/images/facebook.svg"> </a> </li>
-
-              <li class="global-footer-social__list-item"> <a class="global-footer__icon-link" rel="nofollow" href="javascript:void(0);"> <img class="global-footer-social__icon" alt="Instagram" title="Instagram" src="http://spacegm.com/ssl/assets/images/instagram.svg"> </a> </li>
-
-             
-            </ul>
-          </div> -->
         </div>
       </div>
     </footer>
   </section>
+  
+  <script type="text/javascript">
+  /*prabhat pandit jquery code */
+  $(document).ready(function(){
+    $(".show-mobile").click(function(){
+    $(".mobile-dropdown").toggleClass("mobile-visible");
+    $(".mobile-links").addClass("links-dropdown-mobile");
+    
+
+    });
+
+    $(".show-mobile-two").click(function(){
+    $(".mobile-dropdown-two").toggleClass("mobile-visible");
+    $(".mobile-links").addClass("links-dropdown-mobile");
+    });
+
+    $(".show-mobile-three").click(function(){
+    $(".mobile-dropdown-three").toggleClass("mobile-visible");
+    $(".mobile-links").addClass("links-dropdown-mobile");
+    });
+  });
+$(document).ready(function(){
+  $(".c-onepage-link").hover(function(){
+    $(this).find(".child-dropdown").addClass("shownow");
+    }, function(){
+     $(this).find(".child-dropdown").removeClass("shownow");
+  });
+});
+</script>

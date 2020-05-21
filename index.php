@@ -1,12 +1,7 @@
 <!DOCTYPE html>
-<html lang="en" class="wf-lato-n3-active wf-lato-n4-active wf-active"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<script type="text/javascript" async="" src="assets/js/analytics.js"></script>
- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
-  <link rel='stylesheet' type='text/css' href='https://d33wubrfki0l68.cloudfront.net/bundles/2835d381ea542b7b6f33b7ad013e66d159afec9a.css'/>
+<html lang="en" class="wf-lato-n3-active wf-lato-n4-active wf-active">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -15,27 +10,6 @@
 
   gtag('config', 'UA-145112548-1');
 </script>
-
-<!-- google recaptcha !-->
-
- <!-- <script src="https://www.google.com/recaptcha/api.js?render=6Ld4DMQUAAAAAN-mm31MJQwN3AAu9zq75jAN6XZg"></script> -->
-
- <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
-<!-- google recaptacha end here !-->
-
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
-<link rel="icon" href="assets/images/favicon.png" sizes="16x16" type="image/png"> 
-<link rel="icon" href="assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js"></script>
-<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
-
-
-<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
 <title>Specialty Care Live</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -43,33 +17,22 @@
 <meta content="" name="description">
 <meta content="" name="author">
 
-<!-- Owl Stylesheets -->
-<link rel="stylesheet" href="assets/slider/owl.carousel.min.css">
-<link rel="stylesheet" href="assets/slider/owl.theme.default.min.css">
-<script src="assets/slider/sweetalert.min.js"></script>
-<script src="assets/slider/jquery.validate.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="icon" href="assets/images/favicon.png" sizes="16x16" type="image/png"> 
+<link rel="icon" href="assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
-
-
-<!-- BEGIN GLOBAL MANDATORY STYLES -->
-<link href="assets/css/socicon.css" rel="stylesheet" type="text/css">
-<link href="assets/css/simple-line-icons.min.css" rel="stylesheet" type="text/css">
-<link href="assets/css/bootstrap-social.css" rel="stylesheet" type="text/css">
-<link href="assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="assets/css/animate.min.css" rel="stylesheet" type="text/css">
-<link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<!-- <link href="assets/css/plugins.css" rel="stylesheet" type="text/css"> -->
-<link href="assets/css/default.css" rel="stylesheet" type="text/css">
+<!-- <link href="assets/css/default.css" rel="stylesheet" type="text/css"> -->
 <link href="assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
 <link href="assets/css/custom.css" rel="stylesheet" type="text/css">
 <link href="assets/css/main.css" rel="stylesheet" type="text/css">
 <link href="assets/css/testimonials.css" rel="stylesheet" type="text/css">
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
-<link href="assets/css/css" rel="stylesheet" type="text/css">
-<script type="text/javascript">
+<!-- <script type="text/javascript">
    document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lato:n3,n4:default.js" type="text/javascript">\x3C/script>');
-</script>
+</script> -->
 
 <style type="text/css">
   .header-content {
@@ -87,6 +50,53 @@
     display: block;
     width: 100%;
 }
+.zsiq_unrdcnt{
+    display: block !important;
+  }
+  .sqico-call{
+     display: block !important;
+  }
+  .center-services-img{
+      width: 36rem;
+      margin-top: 8rem;
+    }
+    .res-only{
+      display: none;
+    }
+    .our-spe{
+    font-size: 65px;
+    color: #fff;
+    font-weight: bold;
+  }
+  .about-banner{
+    font-size: 70px;color: #fff;font-weight: bold;
+  }
+    @media (max-width: 600px){
+      .center-services-img{
+        width: 36rem;
+        margin-top: 0rem;
+      }
+      .res-only{
+        display: block;
+      }
+      .our-spe{
+        font-size: 35px;
+        text-align: center;
+      }
+      .about-banner{
+        font-size: 35px;
+      }
+      .padding-mob{
+        padding: 0rem 1rem;
+      }
+      .padding-mob-head{
+        padding: 0rem 2rem;
+      }
+    }
+    .diff-to-other ul li{
+    margin-bottom: 1rem;
+    text-align: justify;
+  }
 </style>
 </head>
 
@@ -195,120 +205,6 @@ include("header.php");
 
 </section> 
 
-
-
-
-
-
-<!-- <section id="demos">
-      <div class="row">
-        <div class="large-12 columns">
-          <div class="owl-carousel">
-
-
-            <div class="item">
-             <div class="slider1">
-
-             
-
-             <picture>
-  <source srcset="assets/images/mob-home-tele.jpg" media="(max-width: 600px)">
-  
-  <img src="assets/images/home_background-couple.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
-</picture>
-
-
-
-
-
-
-
-               <div class="header-content ">
-
-            <h3 class="c-main-title c-font-72 c-font-50 c-font-bold c-font-uppercase c-font-white c-center">One stop <span class="c-font-yellow-4">TELE SOLUTION </span></h3>
-
-            <h3 class="c-main-title c-font-72 c-font-50  c-font-bold c-font-uppercase c-font-white c-center"> for all your injury needs</h3>
-            
-            <div class="buy-button" style="display:block;"> <a href="javascript:void(0);" data-toggle="modal" data-target="#myModal" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin"> Learn more </a> </div>
-          </div>
-             </div>
-            </div>
-
-
-            
-
-            <div class="item">
-              <div class="slider1">
-               <img src="assets/images/home_background-couple.jpg" class="full" />
-               <div class="header-content ">
-            <h3 class="c-main-title c-font-72 c-font-50 c-font-bold c-font-uppercase c-font-white c-center">Eliminate the costs of drugs, doctor visits, or unnecessary procedures <span class="c-font-yellow-4">via TELE HEALTH</span></h3>
-            <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center"></h3>
-            
-            <div class="buy-button" style="display:block;"> <a href="javascript:void(0);" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin"> Learn more </a> </div>
-              </div>
-             </div> 
-            </div>
-
-
-
-            <div class="item">
-             <div class="slider1">
-
-
-              
-
-
-           
-              <picture>
-  <source srcset="assets/images/mob-home-lady.jpg" media="(max-width: 600px)">
-  <img src="assets/images/home_background-couple.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
-</picture>
-
-
-
-
-
-
-               <div class="header-content ">
-
-            <h3 class="c-main-title c-font-72 c-font-50 c-font-bold c-font-uppercase c-font-white c-center"> Reduce Your medical costs of back pain<br/><span class="c-font-yellow-4 c-font-uppercase text-big"> </span></h3>
-
-            <h3 class="c-main-title c-font-72 c-font-50 c-font-bold c-font-uppercase c-font-white c-center"> check our  <span class="c-font-yellow-4 c-font-uppercase text-big">Tele spine </span>program</h3>
-            
-            <div class="buy-button" style="display:block;"> <a href="javascript:void(0);" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle  c-btn-sbold desk-margin"> Learn more </a> </div>
-          </div>
-             </div>
-            </div>
-
-
-          </div>
-        </div>
-        </div>
-      </section> -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
 <section id="whyus" class="c-margin" style="background-color: #f1f1f1 !important; z-index: 1000;position: relative;"> 
     <div id="desk" class="c-content-box c-size-md">
       <div class="container">
@@ -331,52 +227,6 @@ include("header.php");
     </div>
    
   </section> 
-
-  
-
-
-  <style type="text/css">
-    .center-services-img{
-      width: 36rem;
-      margin-top: 8rem;
-    }
-    .res-only{
-      display: none;
-    }
-    .our-spe{
-    font-size: 65px;
-    color: #fff;
-    font-weight: bold;
-  }
-  .about-banner{
-    font-size: 70px;color: #fff;font-weight: bold;
-  }
-    @media (max-width: 600px){
-      .center-services-img{
-        width: 36rem;
-        margin-top: 0rem;
-      }
-      .res-only{
-        display: block;
-      }
-      .our-spe{
-        font-size: 35px;
-        text-align: center;
-      }
-      .about-banner{
-        font-size: 35px;
-      }
-      .padding-mob{
-        padding: 0rem 1rem;
-      }
-      .padding-mob-head{
-        padding: 0rem 2rem;
-      }
-    }
-  </style>   
-
- 
-
 
 
   <section id="process" style="
@@ -423,15 +273,6 @@ Care coordinator will connect you to physician/specialist who shall review your 
               </p>
 
 
-
-
-
-
-
-
-
-
-
             </div>
             <div class="col-md-4">
               <div class="er">
@@ -444,10 +285,6 @@ Care coordinator will connect you to physician/specialist who shall review your 
                  
 After the physician has diagnosed the issue, our care coordinator will review instructions, schedule follow-up visits if necessary and send a secure email with visit summary and follow-ups.
 </p>
-
-
-
-
 
             </div>
 
@@ -489,12 +326,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
       <h1 class="about-banner">About us</h1>
     </div>
 </section>
-<style type="text/css">
-  .diff-to-other ul li{
-    margin-bottom: 1rem;
-    text-align: justify;
-  }
-</style>
+
 <section style="position: relative;z-index: 999;background-color: #fff;padding: 0rem 0rem 5rem;">
   <div class="container">
     <div class="row" style="padding: 5rem 2rem 0rem;">
@@ -544,28 +376,6 @@ After the physician has diagnosed the issue, our care coordinator will review in
 
 </section>
 
-
-<!-- <section style="background-image: url('assets/images/Specialty-side.jpg');height: 250px;z-index: 1000;position: relative;background-position: center;background-repeat: no-repeat;background-size: cover;">
-    <div style="position: absolute;top: 50%;left: 50%;transform: translate(-50%,-50%);">
-      <h1 class="our-spe">Our Specialities</h1>
-    </div>
-</section>
-
-<section style="position: relative;z-index: 9999999;background-color: #fff;    padding: 6rem 0rem;">
-  <div class="container">
-    <div class="row" style="padding: 5rem 2rem 0rem;">
-      <div class="col-md-4">
-        <h1 class="text-center">Orthopedics</h1>
-      </div>
-      <div class="col-md-4">
-        <h1 class="text-center">Spine</h1>
-      </div>
-      <div class="col-md-4">
-        <h1 class="text-center">Injury &amp; Pain</h1>
-      </div>
-    </div>
-    <hr> -->
-
 <section style="position: relative;z-index: 999;background-color: #fff !important;padding: 0rem 0rem 5rem;">
   <div class="container">
     <div class="row">
@@ -598,80 +408,6 @@ After the physician has diagnosed the issue, our care coordinator will review in
     </div>
   </div>
 </section>
-
-
-<!-- <section id="whyus-new" style="z-index: 1000;position: relative;"> 
-    <div id="desk-one" class="c-bg-white">
-      <div class="container">
-
-        <div class="col-md-6 padding-custom">
-          <div class="c-media"> <img src="assets/images/about_01.png" class="img-responsive custom-width" style="z-index: 1000; position: relative;"> </div>
-        </div>
-
-        <div class="col-md-6 padding-custom mobile-space">
-          <div class="c-margin-b-40 c-margin-t-50">
-          <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile double-para">Getting injured the care they need, when they need it.</h1>
-        </div>
-          <p class="custom-fonts mobile-para-padding double-mobile">
-            We place injured at the heart of everything we do. We utilize creative and innovative solutions to timely and efficiently connect injured patients with quality providers and specialists.
-          </p>
-           
-          <p class="custom-fonts mobile-para-padding double-mobile">
-            <p class="custom-fonts mobile-para-padding double-mobile">Depending on the type of injury, we have a team of multi-specialty group that combines <span class="italic"><i class="italic">orthopedic</i></span>, <i class="italic">neuro-spine</i>, <i class="italic">psychiatrists</i>, <i class="italic" >psychologists</i> and doctors who work with a complete neurology team all in one location. </p>
-          </p>
-
-          <div class="c-margin-b-10 c-margin-t-20 custom-flex">
-
-          <a href="javascript:void(0);" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Learn more </a>
-
-
-          </div>
-        </div>
-      </div>
-      
-    </div>
-   
-  </section>  -->
-
-
-<!-- <section id="clients-new-new" style="background:#f4f9fc;position: relative;z-index: 100000;">
-    <div class="c-content-box c-size-md no-padding padding-top-bottom bg-bl" id="Workplace_Injuries">
-      <div class="container">
-
-
-        <div class="row custom-row">
-        <div class="col-md-6 col-lg-6 col-sm-12">
-         <div class="section-images">
-           <img src="assets/images/about_011.png" class="img-responsive custom-responsive images-small" alt="image failed to load, Error"/>
-         </div>
-        </div>
-        <div class="col-md-6 col-lg-6 col-sm-12 media-margin mobile-margin">
-
-          <div class="text-white col-md-12">
-        
-
-          <div class="c-margin-b-40 c-margin-b-20 c-margin-t-0">
-              <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile">Tele-Medicine</h1>
-          </div>
-
-
-           <div class="pa custom-fonts">
-            <p class="custom-fonts mobile-para-padding">We empower clients with advanced <i class="italic">tele-medicine</i> technology and support services that increase access to care, improve the quality and effectiveness of medical interactions, reduce professional liability claims and related costs and increase revenue.
-            </p>
-
-            <p class="custom-fonts mobile-para-padding">Let us know if you’ve been in an accident or otherwise injured, and our experienced team can help.</p>
-            
-            <p class="text-left mobile-para-padding"> 
-                <a href="tel:+1(972) 865-4454" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en"> Call Us at (972) 865-4454</a>
-            </p>
-          </div>
-
-          </div>
-        </div>
-        </div>
-      </div>
-    </div>
-  </section> -->
 
   <section id="testimonials" class="desk-only" style="z-index: 1000;position: relative;background-color: #f1f1f1;">
 
@@ -753,77 +489,10 @@ After the physician has diagnosed the issue, our care coordinator will review in
     
   </section>
 
-<?php
-include("footer.php");
-?>
+
   
 </div>
 
-<!-- BEGIN: LAYOUT/FOOTERS/GO2TOP -->
-<!-- <div class="c-layout-go2top" style="display:block;"> <i class="fa fa-arrow-up"></i> </div> -->
-<!-- END: LAYOUT/FOOTERS/GO2TOP --> 
-
-<script src="assets/js/jquery.min.js" type="text/javascript"></script> 
-<script src="assets/js/bootstrap.min.js" type="text/javascript"></script> 
-<script src="assets/js/owl.carousel.min.js" type="text/javascript"></script> 
-<script src="assets/js/reveal-animate.js" type="text/javascript"></script> 
-<script src="assets/js/components.js" type="text/javascript"></script> 
-<script src="assets/js/app.js" type="text/javascript"></script> 
-<script src="assets/js/wow.js" type="text/javascript"></script>  
-<script src="assets/js/jquery.cubeportfolio.min.js" type="text/javascript"></script> 
-<script src="assets/js/jquery.counterup.min.js" type="text/javascript"></script> 
-<script src="assets/js/jquery.fancybox.pack.js" type="text/javascript"></script> 
-<script>
-	$(document).ready(function() {    
-		App.init(); // init core    
-	});
-	</script> 
-
-<script type="text/javascript">
-  $('.owl-carousel').owlCarousel({
-    loop:true,
-    margin:0,
-    responsiveClass:true,
-    autoplay:true,
-    nav:true,
-    dots: false,
-    responsive:{
-        0:{
-            items:1,
-            loop:true,
-            dots: false,
-            nav:false
-        },
-        600:{
-            items:1,
-            nav:false,
-            loop:true,
-            dots: false,
-            autoplay:true
-        },
-        1000:{
-            items:1,
-            dots: false,
-            nav:false,
-            loop:true,
-            autoplay:true
-        }
-    }
-})
-</script>
-
-
-
-
-
-
-
-<script src="assets/slider/jquery.min.js"></script>
-<script src="assets/slider/owl.carousel.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
-
-
-  
 
   <!-- Modal starts-->
   <div class="modal fade" id="myModal" role="dialog">
@@ -870,9 +539,6 @@ include("footer.php");
   </div>
   <!-- Modal ends--> 
 
-
-
-
   <!-- Modal starts-->
   <div class="modal fade" id="request" role="dialog">
     <div class="modal-dialog modal-lg">
@@ -909,6 +575,12 @@ include("footer.php");
       
     </div>
   </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="assets/slider/sweetalert.min.js"></script>
+<?php
+include("footer.php");
+?> 
 <script>
 $(document).ready(function() { 
     $('#req-form').submit(function(event) {
@@ -1018,15 +690,15 @@ $("a").on('click', function(event) {
       });
     }
   });
-var mobile = document.getElementById("mobile").value;
-var button = document.getElementById("submit-button-two");
-button.addEventListener("submit",function(){
+// var mobile = document.getElementById("mobile").value;
+// var button = document.getElementById("submit-button-two");
+// button.addEventListener("submit",function(){
 
-if(mobile.length < 9 || mobile.length > 10){
-  alert("Please check your mobile number first");
-  return false;
-}
-});
+// if(mobile.length < 9 || mobile.length > 10){
+//   alert("Please check your mobile number first");
+//   return false;
+// }
+// });
 
 </script>
 
@@ -1095,26 +767,6 @@ $('.c-hor-nav-toggler').on('click', () => {
 
   });
 </script>
-
-
-<style type="text/css">
-  .zsiq_unrdcnt{
-    display: block !important;
-  }
-  .sqico-call{
-     display: block !important;
-  }
-</style>
-<!-- <script type="text/javascript">
-var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || 
-{widgetcode:"dff61a8418f84d56287ce8dab67b9f39a67977fb7395780d46b6acaa5b3dc65a", values:{},ready:function(){}};
-var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;
-s.src="https://salesiq.zoho.in/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
-</script> -->
-
-
-<!-- <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: 'e6312c83-0591-4201-8b7e-b46a59cfc27c', f: true }); done = true; } }; })();
-</script> -->
 
 </body>
 </html>
