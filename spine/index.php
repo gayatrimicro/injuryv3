@@ -384,6 +384,7 @@ include("../header.php");
 
     </div>
   </section> -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 
  <?php
@@ -395,7 +396,6 @@ include("../footer.php");
 <!-- BEGIN: LAYOUT/FOOTERS/GO2TOP -->
 <!-- <div class="c-layout-go2top" style="display:block;"> <i class="fa fa-arrow-up"></i> </div> -->
 <!-- END: LAYOUT/FOOTERS/GO2TOP --> 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <script src="../assets/slider/sweetalert.min.js"></script>
 <!-- <script src="../assets/js/jquery.min.js" type="text/javascript"></script> 
