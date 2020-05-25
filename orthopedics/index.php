@@ -523,9 +523,9 @@ include("../footer.php");
 
 
 
-<script src="../assets/slider/jquery.min.js"></script>
+<!-- <script src="../assets/slider/jquery.min.js"></script>
 <script src="../assets/slider/owl.carousel.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script> -->
 
 
   
