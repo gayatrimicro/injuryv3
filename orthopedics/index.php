@@ -1,12 +1,7 @@
-<!DOCTYPE html>
-<html lang="en" class="wf-lato-n3-active wf-lato-n4-active wf-active"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<script type="text/javascript" async="" src="../assets/js/analytics.js"></script>
- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
-  <link rel='stylesheet' type='text/css' href='https://d33wubrfki0l68.cloudfront.net/bundles/2835d381ea542b7b6f33b7ad013e66d159afec9a.css'/>
+ <!DOCTYPE html>
+<html lang="en" class="wf-lato-n3-active wf-lato-n4-active wf-active">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -15,27 +10,6 @@
 
   gtag('config', 'UA-145112548-1');
 </script>
-
-<!-- google recaptcha !-->
-
- <!-- <script src="https://www.google.com/recaptcha/api.js?render=6Ld4DMQUAAAAAN-mm31MJQwN3AAu9zq75jAN6XZg"></script> -->
-
- <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
-<!-- google recaptacha end here !-->
-
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16" type="image/png"> 
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js"></script>
-<script src="https://code.jquery.com/jquery-3.4.1.js"></script>
-
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
-
-
-<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
 <title>Orthopedic Telemedicine | Injury Live</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -43,32 +17,22 @@
 <meta content="" name="description">
 <meta content="" name="author">
 
-<!-- Owl Stylesheets -->
-<link rel="stylesheet" href="../assets/slider/owl.carousel.min.css">
-<link rel="stylesheet" href="../assets/slider/owl.theme.default.min.css">
-<script src="../assets/slider/sweetalert.min.js"></script>
-<script src="../assets/slider/jquery.validate.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="icon" href="../assets/images/favicon.png" sizes="16x16" type="image/png"> 
+<link rel="icon" href="../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-
-
-<!-- BEGIN GLOBAL MANDATORY STYLES -->
-<link href="../assets/css/socicon.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/simple-line-icons.min.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/bootstrap-social.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/animate.min.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/plugins.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/default.css" rel="stylesheet" type="text/css">
+<!-- <link href="assets/css/default.css" rel="stylesheet" type="text/css"> -->
 <link href="../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
 <link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
-<link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
-<link href="../assets/css/css" rel="stylesheet" type="text/css">
 <link href="../assets/css/main.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/testimonials.css" rel="stylesheet" type="text/css">
 
-<script type="text/javascript">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
+<!-- <script type="text/javascript">
    document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lato:n3,n4:default.js" type="text/javascript">\x3C/script>');
-</script>
+</script> -->
 
 <style type="text/css">
   #desk {
@@ -393,8 +357,10 @@ include("../footer.php");
 <!-- BEGIN: LAYOUT/FOOTERS/GO2TOP -->
 <!-- <div class="c-layout-go2top" style="display:block;"> <i class="fa fa-arrow-up"></i> </div> -->
 <!-- END: LAYOUT/FOOTERS/GO2TOP --> 
-
-<script src="../assets/js/jquery.min.js" type="text/javascript"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="../assets/slider/sweetalert.min.js"></script>
+<!-- <script src="../assets/js/jquery.min.js" type="text/javascript"></script> 
 <script src="../assets/js/bootstrap.min.js" type="text/javascript"></script> 
 <script src="../assets/js/owl.carousel.min.js" type="text/javascript"></script> 
 <script src="../assets/js/reveal-animate.js" type="text/javascript"></script> 
@@ -403,7 +369,7 @@ include("../footer.php");
 <script src="../assets/js/wow.js" type="text/javascript"></script>  
 <script src="../assets/js/jquery.cubeportfolio.min.js" type="text/javascript"></script> 
 <script src="../assets/js/jquery.counterup.min.js" type="text/javascript"></script> 
-<script src="../assets/js/jquery.fancybox.pack.js" type="text/javascript"></script> 
+<script src="../assets/js/jquery.fancybox.pack.js" type="text/javascript"></script>  -->
 <script>
 	$(document).ready(function() {    
 		App.init(); // init core    
@@ -836,14 +802,14 @@ $('.c-hor-nav-toggler').on('click', () => {
 </script>
 
 
-<style type="text/css">
+<!-- <style type="text/css">
   .zsiq_unrdcnt{
     display: block !important;
   }
   .sqico-call{
      display: block !important;
   }
-</style>
+</style> -->
 <!-- <script type="text/javascript">
 var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || 
 {widgetcode:"dff61a8418f84d56287ce8dab67b9f39a67977fb7395780d46b6acaa5b3dc65a", values:{},ready:function(){}};
