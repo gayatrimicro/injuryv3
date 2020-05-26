@@ -1,12 +1,7 @@
 <!DOCTYPE html>
-<html lang="en" class="wf-lato-n3-active wf-lato-n4-active wf-active"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<script type="text/javascript" async="" src="../assets/js/analytics.js"></script>
- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
-  <link rel='stylesheet' type='text/css' href='https://d33wubrfki0l68.cloudfront.net/bundles/2835d381ea542b7b6f33b7ad013e66d159afec9a.css'/>
-<!-- <script src="../assets/js/jquery.min.js" type="text/javascript"></script>  -->
+<html lang="en" class="wf-lato-n3-active wf-lato-n4-active wf-active">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -15,26 +10,6 @@
 
   gtag('config', 'UA-145112548-1');
 </script>
-
-<!-- google recaptcha !-->
-
- <!-- <script src="https://www.google.com/recaptcha/api.js?render=6Ld4DMQUAAAAAN-mm31MJQwN3AAu9zq75jAN6XZg"></script> -->
-
- <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-
-<!-- google recaptacha end here !-->
-
-<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16" type="image/png"> 
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js"></script>
-<!-- <script src="https://code.jquery.com/jquery-3.4.1.js"></script> -->
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
-
-
-<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
 <title>Contact us | Injury Live</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -42,33 +17,23 @@
 <meta content="" name="description">
 <meta content="" name="author">
 
-<!-- Owl Stylesheets -->
-<link rel="stylesheet" href="../assets/slider/owl.carousel.min.css">
-<link rel="stylesheet" href="../assets/slider/owl.theme.default.min.css">
-<script src="../assets/slider/sweetalert.min.js"></script>
-<script src="../assets/slider/jquery.validate.min.js"></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<link rel="icon" href="../assets/images/favicon.png" sizes="16x16" type="image/png"> 
+<link rel="icon" href="../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
-
-
-<!-- BEGIN GLOBAL MANDATORY STYLES -->
-<link href="../assets/css/socicon.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/simple-line-icons.min.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/bootstrap-social.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/animate.min.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/plugins.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/default.css" rel="stylesheet" type="text/css">
+<!-- <link href="assets/css/default.css" rel="stylesheet" type="text/css"> -->
 <link href="../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
 <link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
 <link href="../assets/css/main.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/testimonials.css" rel="stylesheet" type="text/css">
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
-<link href="../assets/css/css" rel="stylesheet" type="text/css">
+
 <script type="text/javascript">
    document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lato:n3,n4:default.js" type="text/javascript">\x3C/script>');
 </script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
 </head>
 
@@ -415,7 +380,9 @@ include("../header.php");
 
     </div>
   </section> -->
-
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="../assets/slider/sweetalert.min.js"></script>
 
   <?php
 include("../footer.php");
@@ -427,7 +394,7 @@ include("../footer.php");
 <!-- <div class="c-layout-go2top" style="display:block;"> <i class="fa fa-arrow-up"></i> </div> -->
 <!-- END: LAYOUT/FOOTERS/GO2TOP --> 
 
-<script src="../assets/js/bootstrap.min.js" type="text/javascript"></script> 
+<!-- <script src="../assets/js/bootstrap.min.js" type="text/javascript"></script> 
 <script src="../assets/js/owl.carousel.min.js" type="text/javascript"></script> 
 <script src="../assets/js/reveal-animate.js" type="text/javascript"></script> 
 <script src="../assets/js/components.js" type="text/javascript"></script> 
@@ -435,162 +402,20 @@ include("../footer.php");
 <script src="../assets/js/wow.js" type="text/javascript"></script>  
 <script src="../assets/js/jquery.cubeportfolio.min.js" type="text/javascript"></script> 
 <script src="../assets/js/jquery.counterup.min.js" type="text/javascript"></script> 
-<script src="../assets/js/jquery.fancybox.pack.js" type="text/javascript"></script> 
+<script src="../assets/js/jquery.fancybox.pack.js" type="text/javascript"></script>  -->
 <script>
 	$(document).ready(function() {    
 		App.init(); // init core    
 	});
 	</script> 
 
-<script type="text/javascript">
-  $('.owl-carousel').owlCarousel({
-    loop:true,
-    margin:0,
-    responsiveClass:true,
-    autoplay:true,
-    nav:true,
-    responsive:{
-        0:{
-            items:1,
-            nav:true
-        },
-        600:{
-            items:1,
-            nav:true,
-            autoplay:false
-        },
-        1000:{
-            items:1,
-            nav:true,
-            loop:false,
-            autoplay:true
-        }
-    }
-})
-</script>
 
-
-<script>
-			$(document).ready(function() {
-    var api;
-    var slider = $('.c-layout-revo-slider .tp-banner');
-    var cont = $('.c-layout-revo-slider .tp-banner-container');    
-    var onepageMode = $('.c-mega-menu-onepage-dots').size() > 0 ? true : false;
-
-    if (onepageMode) {
-        api = slider.show().revolution({
-            sliderType:"standard",
-            sliderLayout:"fullscreen",
-            responsiveLevels:[2048,1024,778,480],
-            gridwidth: [1170, 1024, 778, 480],
-            gridheight: [868, 768, 960, 720],
-            delay: 15000,    
-            startwidth:1170,
-            startheight: 1000,
-
-            navigation: {
-                keyboardNavigation:"off",
-                keyboard_direction: "horizontal",
-                mouseScrollNavigation:"off",
-                onHoverStop:"off",
-                bullets: {
-                    style:"round",
-                    enable:true,
-                    hide_onmobile:false,
-                    hide_onleave:true,
-                    hide_delay:200,
-                    hide_delay_mobile:1200,
-                    hide_under:0,
-                    hide_over:9999,
-                    direction:"horizontal",
-                    h_align:"center",
-                    v_align:"bottom",
-                    space:5,
-                    v_offset:60,
-
-                },
-                touch: {
-                    touchenabled: 'off',
-                }   
-            },
-
-            spinner: "spinner2",
-
-            shadow: 0,
-            fullWidth: "off",
-            forceFullWidth: "off",
-
-            hideThumbsOnMobile: "on",
-            hideNavDelayOnMobile: 1500,
-            hideBulletsOnMobile: "on",
-            hideArrowsOnMobile: "on",
-            hideThumbsUnderResolution: 0
-        });
-    } else {
-        api = slider.show().revolution({
-            sliderType:"standard",
-            sliderLayout:"fullscreen",
-            responsiveLevels:[2048,1024,778,480],
-            gridwidth: [1170, 1024, 778, 480],
-            gridheight: [868, 768, 960, 720],
-            delay: 15000,    
-            startwidth:1170,
-            startheight: App.getViewPort().height,
-
-            navigation: {
-                keyboardNavigation:"off",
-                keyboard_direction: "horizontal",
-                mouseScrollNavigation:"off",
-                onHoverStop:"on",
-                arrows: {
-                    style:"circle",
-                    enable:true,
-                    hide_onmobile:false,
-                    hide_onleave:false,
-                    tmp:'',
-                    left: {
-                        h_align:"left",
-                        v_align:"center",
-                        h_offset:30,
-                        v_offset:0
-                    },
-                    right: {
-                        h_align:"right",
-                        v_align:"center",
-                        h_offset:30,
-                        v_offset:0
-                    }
-                },
-                touch: {
-                    touchenabled: 'on',
-                    swipe_threshold: 75,
-                    swipe_min_touches: 1,
-                    swipe_direction: 'horizontal',
-                    drag_block_vertical: true
-                }      
-            },
-
-            spinner: "spinner2",
-
-            shadow: 0,
-            fullWidth: "off",
-            forceFullWidth: "off",
-
-            hideThumbsOnMobile: "on",
-            hideNavDelayOnMobile: 1500,
-            hideBulletsOnMobile: "on",
-            hideArrowsOnMobile: "on",
-            hideThumbsUnderResolution: 0
-        });
-    }
-});
-			</script>
 
 
 
 
 <!-- <script src="../assets/slider/jquery.min.js"></script> -->
-<script src="../assets/slider/owl.carousel.js"></script>
+<!-- <script src="../assets/slider/owl.carousel.js"></script> -->
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.js"></script> -->
 
 
@@ -617,14 +442,14 @@ $('.c-hor-nav-toggler').on('click', () => {
 </script>
 
 
-<style type="text/css">
+<!-- <style type="text/css">
   .zsiq_unrdcnt{
     display: block !important;
   }
   .sqico-call{
      display: block !important;
   }
-</style>
+</style> -->
 <!-- <script type="text/javascript">
 var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || 
 {widgetcode:"dff61a8418f84d56287ce8dab67b9f39a67977fb7395780d46b6acaa5b3dc65a", values:{},ready:function(){}};
