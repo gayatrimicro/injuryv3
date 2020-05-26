@@ -235,7 +235,7 @@ include("../header.php");
       <div class="container">
 
         <div class="col-md-6 padding-custom">
-          <div class="c-media"> <img src="../assets/images/ortho_01.png" class="img-responsive custom-width" style="z-index: 1000; position: relative;" alt="about"> </div>
+          <div class="c-media"> <img src="../assets/images/ortho_01.jpg" class="img-responsive custom-width" style="z-index: 1000; position: relative;" alt="about"> </div>
         </div>
 
         <div class="col-md-6 padding-custom mobile-space">
