@@ -3,10 +3,10 @@
     <div class="container-fluid"> 
       <div class="c-navbar-wrapper clearfix">
         <div class="c-brand c-pull-left"> 
-          <a href="http://spacegm.com/ssl/" class="c-logo"> 
-            <img src="http://spacegm.com/ssl/assets/images/company_logo-2.png" alt="Logo" class="c-desktop-logo"> 
-            <img src="http://spacegm.com/ssl/assets/images/company_logo-2.png" alt="Logo" class="c-desktop-logo-inverse"> 
-            <img src="http://spacegm.com/ssl/assets/images/company_logo-2.png" alt="Logo" class="c-mobile-logo"> 
+          <a href="/" class="c-logo"> 
+            <img src="/assets/images/company_logo-2.png" alt="Logo" class="c-desktop-logo"> 
+            <img src="/assets/images/company_logo-2.png" alt="Logo" class="c-desktop-logo-inverse"> 
+            <img src="/assets/images/company_logo-2.png" alt="Logo" class="c-mobile-logo"> 
           </a>
           <button class="c-hor-nav-toggler" type="button" data-target=".c-mega-menu"> 
             <span class="c-line"></span> 
@@ -57,27 +57,27 @@
         <nav class="c-mega-menu c-mega-menu-onepage c-pull-right c-mega-menu-dark c-mega-menu-dark-mobile c-fonts-uppercase c-fonts-bold" data-onepage-animation-speed="300">
           <ul class="nav navbar-nav c-theme-nav">
 
-            <li class="c-onepage-link active c-active"> <a href="http://spacegm.com/ssl/" class="c-link"><span>Home</span></a> </li>
+            <li class="c-onepage-link active c-active"> <a href="/" class="c-link"><span>Home</span></a> </li>
 
             <li class="c-onepage-link show show-mobile plus"><a href="#" class="c-link"><span>Our Specialties</span></a> 
 
               <ul class="child-dropdown">
-                <li class="child-li"><a href="http://spacegm.com/ssl/orthopedics/" class="links-dropdown" hreflang="en"><span class="tele">Orthopedics</span></a></li>
-                <li class="child-li"><a href="http://spacegm.com/ssl/spine/" class="links-dropdown" hreflang="en"><span class="tele">Spine</span></a></li>
-                <li class="child-li"><a href="http://spacegm.com/ssl/injury-pain/" class="links-dropdown"><span class="tele">Injury and Pain</span></a></li>
+                <li class="child-li"><a href="/orthopedics/" class="links-dropdown" hreflang="en"><span class="tele">Orthopedics</span></a></li>
+                <li class="child-li"><a href="/spine/" class="links-dropdown" hreflang="en"><span class="tele">Spine</span></a></li>
+                <li class="child-li"><a href="/injury-pain/" class="links-dropdown"><span class="tele">Injury and Pain</span></a></li>
               </ul>
 
               <ul class="mobile-dropdown">
-                <li class="child-li"><a href="http://spacegm.com/ssl/orthopedics/" class="links-dropdown mobile-links" hreflang="en">Orthopedics</a></li>
-                <li class="child-li"><a href="http://spacegm.com/ssl/spine/" class="links-dropdown mobile-links" hreflang="en">Spine</a></li>
-                <li class="child-li"><a href="http://spacegm.com/ssl/injury-pain/" class="links-dropdown mobile-links">Injury and Pain</a></li>
+                <li class="child-li"><a href="/orthopedics/" class="links-dropdown mobile-links" hreflang="en">Orthopedics</a></li>
+                <li class="child-li"><a href="/spine/" class="links-dropdown mobile-links" hreflang="en">Spine</a></li>
+                <li class="child-li"><a href="/injury-pain/" class="links-dropdown mobile-links">Injury and Pain</a></li>
               </ul>
 
             </li>
 
-            <li class="c-onepage-link active c-active"> <a href="http://spacegm.com/ssl/second-opinion/" class="c-link"><span>Second Opinion</span></a> </li>
+            <li class="c-onepage-link active c-active"> <a href="/second-opinion/" class="c-link"><span>Second Opinion</span></a> </li>
 
-           <li class="c-onepage-link show show-mobile-three"> <a href="http://spacegm.com/ssl/employers/" class="c-link"><span>Employers</span></a>             
+           <li class="c-onepage-link show show-mobile-three"> <a href="/employers/" class="c-link"><span>Employers</span></a>             
            </li>
            <li> <a href="tel:+1(972) 865-4454" ref="" class="c-btn-border-opacity-04 c-btn btn-no-focus c-btn-header btn btn-lg btn-new c-btn-border-1x c-btn-dark c-btn-circle c-btn-uppercase c-btn-sbold"><i class="fa fa-phone" aria-hidden="true"></i>(972) 865-4454</a> </li>
           </ul>
