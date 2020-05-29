@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://specialtycarelive.com/</loc>
+  <lastmod>2020-05-28T10:33:56+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://specialtycarelive.com/orthopedics/</loc>
+  <lastmod>2020-05-28T10:33:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://specialtycarelive.com/spine/</loc>
+  <lastmod>2020-05-28T10:33:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://specialtycarelive.com/injury-pain/</loc>
+  <lastmod>2020-05-28T10:33:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://specialtycarelive.com/second-opinion/</loc>
+  <lastmod>2020-05-28T10:33:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://specialtycarelive.com/employers/</loc>
+  <lastmod>2020-05-28T10:33:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://specialtycarelive.com/contact-us/</loc>
+  <lastmod>2020-05-28T10:33:56+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
