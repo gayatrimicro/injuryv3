@@ -13,12 +13,33 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <meta name="google-site-verification" content="bTYuHmF1wY3IOkwm46lCKSz85K6XmrUzVqMaqJgIP1g" />
 
-<title>Contact us | Injury Live</title>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-<meta content="" name="description">
-<meta content="" name="author">
+<title>Contact Us | TeleHealth Services | Specialty Care Live</title>
+
+<meta name="description" content="Provide patient care through secure HIPAA-Compliant video visits with expert providers. Call (972)-865-4454 for a TeleHealth consultation now." >
+
+<meta property="og:locale" content="en_US">
+<meta name="og:site_name" content="Specialty Care Live"/>
+<meta property="og:type" content="Website">
+<meta property="og:title" content="Contact Us | TeleHealth Services | Specialty Care Live">
+<meta property="og:description" content="Provide patient care through secure HIPAA-Compliant video visits with expert providers. Call (972)-865-4454 for a TeleHealth consultation now.">
+<meta property="og:image" content="http://specialtycarelive.com/assets/images/telehealth-header.jpg">
+<meta property="og:url" content="http://specialtycarelive.com/contact-us/">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Contact Us | TeleHealth Services | Specialty Care Live">
+<meta name="twitter:description" content="Provide patient care through secure HIPAA-Compliant video visits with expert providers. Call (972)-865-4454 for a TeleHealth consultation now.">
+<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/telehealth-header.jpg">
+<meta name="twitter:url" content="http://specialtycarelive.com/contact-us/">
+
+<meta name="robots" content="index, follow" />
+<meta name="robots" content=”max-snippet:-1, max-image-preview:standard, max-video-preview:-1" />
+
+
+<link rel="canonical" href="http://specialtycarelive.com/contact-us/">
+<link rel="alternate" href="http://specialtycarelive.com/contact-us/" hreflang="en-us" />
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <link rel="icon" href="../assets/images/favicon.png" sizes="16x16" type="image/png"> 
@@ -36,6 +57,57 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script type="text/javascript">
    document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lato:n3,n4:default.js" type="text/javascript">\x3C/script>');
+</script>
+
+<script type="application/ld+json"> 
+{
+  "@context": {
+    "@vocab": "http://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "http://specialtycarelive.com/",
+      "@type": "MedicalOrganization",
+      "name": "Specialty Care Live",
+      "url" : "http://specialtycarelive.com/",
+      "logo": "http://specialtycarelive.com/assets/images/company_logo-2.png",
+      "MedicalSpecialty":{
+      "@type" : "MedicalSpecialty",
+    "name": "Specialty Care Live",
+      "potentialAction": "Telemedicine Consultations",
+      "sameAs": "http://specialtycarelive.com/",
+        "image": "http://specialtycarelive.com/assets/images/telehealth-header.jpg"
+      }
+    },
+    {
+      "@type": "LocalBusiness",
+      "parentOrganization": {
+          "name" : "Specialty Care Clinics",
+          "sameAs": "https://specialtycareclinics.com/"
+      },
+     "name" : "Specialty Care Live",
+      "address": {
+          "@type" : "PostalAddress",
+          "streetAddress": "2700 W Pleasant Run Road, Suite 340",
+          "addressLocality": "Lancaster",
+          "addressRegion": "Texas",
+          "postalCode": "75146",
+          "telephone" : "(972) 865-4454"
+          },
+      "contactPoint" : {
+      "@type" : "ContactPoint",
+      "telephone" : "(972) 865-4454",
+      "faxNumber": "214-888-4450",
+      "email" : "sccintake@cmclancaster.com",
+      "contactType" : "Customer Service",
+      "contactOption" : "TollFree",
+      "areaServed" : "TX"
+    },
+      "image": "http://specialtycarelive.com/assets/images/telemed-injury-recheck-200x200-circle.png",
+      "priceRange": "$$$" 
+    }
+    ]
+    }
 </script>
 
 </head>
