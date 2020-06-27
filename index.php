@@ -645,6 +645,19 @@ After the physician has diagnosed the issue, our care coordinator will review in
             <div class="form-group">
               <textarea rows="3" placeholder="Message here" class="form-control custom-fonts" id="req-message" name="req-message" required></textarea>
             </div>
+            <div class="form-group">
+              <style type="text/css">
+             #successmessage-contact{
+                                display: none;
+                                text-align: center;
+                                color: #040404;
+                                text-transform: uppercase;
+                                font-size: 2rem;
+                               
+                            }
+           </style>
+           <h3 id="successmessage-contact">Thank you for your enquiry</h3>
+            </div>
 
             <div class="form-group">
               <button type="submit" id="submit-button-two" class="btn btn-success bottom-btn" style="margin: 0 auto;display: block;"><span class="glyphicon glyphicon-off"></span> Submit Now</button>
@@ -676,12 +689,14 @@ if ($('#req-name').val() != "" && $('#req-mobile').val() != "" && $('#req-messag
                               data:formdata,
                               success:function(result){
                               // alert("Your enquiry has been sent successfully");
-                              Swal.fire(
-                                         'Your enquiry has been sent successfully ?',
-                                         'we will get back to you soon ?'
-                                        )
+                              $("#successmessage-contact").css("display", "block");
+                              $("#req-name, #req-mobile, #req-message").val("");
+                              // Swal.fire(
+                              //            'Your enquiry has been sent successfully ?',
+                              //            'we will get back to you soon ?'
+                              //           )
 
-                              $("#signup").trigger('reset');
+                              // $("#signup").trigger('reset');
                               $(".close").click();  
                               }
   
