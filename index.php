@@ -697,7 +697,7 @@ if ($('#req-name').val() != "" && $('#req-mobile').val() != "" && $('#req-messag
                               //           )
 
                               // $("#signup").trigger('reset');
-                              $(".close").click();  
+                              // $(".close").click();  
                               }
   
 

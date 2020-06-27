@@ -35,8 +35,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="twitter:url" content="http://specialtycarelive.com/contact-us/">
 
 <meta name="robots" content="index, follow" />
-<meta name="robots" content=”max-snippet:-1, max-image-preview:standard, max-video-preview:-1" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:-1" />
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 <link rel="canonical" href="http://specialtycarelive.com/contact-us/">
 <link rel="alternate" href="http://specialtycarelive.com/contact-us/" hreflang="en-us" />
@@ -382,11 +383,11 @@ include("../header.php");
   </section> 
 
 <script>
-
+$(document).ready(function() { 
     $('#contact-form').submit(function(event) {
       event.preventDefault();
       var formdata = $('#contact-form').serialize();
-      // alert(formdata);
+      alert(formdata);
           if ($('#fname').val() != "" && $('#lname').val() != "" && $('#phone').val() != "" && $('#email').val() != "" && $('#comments').val() != "" ) {
             
              $.ajax({
@@ -408,6 +409,9 @@ include("../header.php");
                   }
 
 });
+
+
+    });
 </script>
 
 
@@ -460,7 +464,6 @@ include("../header.php");
 
     </div>
   </section> -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <script src="../assets/slider/sweetalert.min.js"></script>
 

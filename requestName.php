@@ -43,7 +43,7 @@
 	                 
 	               </table>";  
 	              
-	  	  if(mail("sccintake@cmclancaster.com, content@gmicro.us", $subject, $message, $headers))
+	  	  if(mail("seo@gmicro.us, content@gmicro.us", $subject, $message, $headers))
 			  //if(mail("roxanetlowry@gmail.com", $subject, $message, $headers))
 	  	  {
 			// delete the cookie so it cannot sent again by refreshing this page
