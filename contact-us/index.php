@@ -387,7 +387,7 @@ $(document).ready(function() {
     $('#contact-form').submit(function(event) {
       event.preventDefault();
       var formdata = $('#contact-form').serialize();
-      alert(formdata);
+      // alert(formdata);
           if ($('#fname').val() != "" && $('#lname').val() != "" && $('#phone').val() != "" && $('#email').val() != "" && $('#comments').val() != "" ) {
             
              $.ajax({
