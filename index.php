@@ -705,7 +705,7 @@ if ($('#req-name').val() != "" && $('#req-mobile').val() != "" && $('#req-messag
 
                               // $("#signup").trigger('reset');
                               alert("Your enquiry has been sent successfully");
-                              dataLayer.push({'event': 'successR'}); 
+                              dataLayer.push({'event' : 'formSubmitted', 'formName' : 'Home Request Form'});
                               $(".close").click();  
                               }
   
