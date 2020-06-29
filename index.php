@@ -635,7 +635,7 @@ After the physician has diagnosed the issue, our care coordinator will review in
 
 
             <div class="form-group">
-              <input type="text" class="form-control custom-fonts" id="req-name" name="req-name" pattern="[a-zA-Z]{1,}" placeholder="Full Name..." required/>
+              <input type="text" class="form-control custom-fonts" id="req-name" name="req-name" placeholder="Full Name..." required/>
             </div>
 
             <div class="form-group">
@@ -698,7 +698,7 @@ if ($('#req-name').val() != "" && $('#req-mobile').val() != "" && $('#req-messag
 
                               // $("#signup").trigger('reset');
                               alert("Your enquiry has been sent successfully");
-                              
+
                               $(".close").click();  
                               }
   
