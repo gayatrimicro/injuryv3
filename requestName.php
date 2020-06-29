@@ -4,7 +4,7 @@
  	 $fname = $_POST["req-name"];
 	 $pnumber= $_POST["req-mobile"];
      $message= $_POST["req-message"];
-
+     $emailid = $_POST["req-email"];
 
 	 
 
@@ -12,8 +12,8 @@
 	$subject ="Claim Request " . $fname;
 	$headers  = 'MIME-Version: 1.0' . "\r\n";
 	$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-	$headers .= 'From: Specialty Care Live By' ."\r\n";
-	// $headers .= 'From: Specialty Care Live By <' . $fname .">" ."\r\n";
+	// $headers .= 'From: Specialty Care Live By' ."\r\n";
+	$headers .= 'From: Specialty Care Live By <' . $emailid .">" ."\r\n";
 
 	
 	// $headers .= 'Cc: birthdayarchive@example.com' . "\r\n";
@@ -33,6 +33,12 @@
 	                   <td align='left' width='35%'><strong>Phone number :</strong></td>
 	                   <td align='left' width='60%'>
 	                   ". $pnumber ."</td>
+	                 </tr>
+
+	                 <tr>
+	                   <td align='left' width='35%'><strong>Email :</strong></td>
+	                   <td align='left' width='60%'>
+	                   ". $emailid ."</td>
 	                 </tr>
 
 	                 <tr>

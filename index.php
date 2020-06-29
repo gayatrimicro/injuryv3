@@ -639,11 +639,15 @@ After the physician has diagnosed the issue, our care coordinator will review in
             </div>
 
             <div class="form-group">
-              <input type="text" class="form-control custom-fonts" id="req-mobile" name="req-mobile" placeholder="Mobile Number" maxlength="10" pattern="[0-9]{10,10}" title="Please enter 10 digit number." required/>
+              <input type="text" class="form-control custom-fonts" id="req-mobile" name="req-mobile" placeholder="Mobile Number..." maxlength="10" pattern="[0-9]{10,10}" title="Please enter 10 digit number." required/>
             </div>
 
             <div class="form-group">
-              <textarea rows="3" placeholder="Message here" class="form-control custom-fonts" id="req-message" name="req-message" required></textarea>
+              <input type="text" class="form-control custom-fonts" id="req-email" name="req-email" placeholder="Email..." pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" title="Please enter valid email." required/>
+            </div>
+
+            <div class="form-group">
+              <textarea rows="3" placeholder="Message here..." class="form-control custom-fonts" id="req-message" name="req-message" required></textarea>
             </div>
             <div class="form-group">
               <style type="text/css">
