@@ -689,7 +689,7 @@ if ($('#req-name').val() != "" && $('#req-mobile').val() != "" && $('#req-messag
                               data:formdata,
                               success:function(result){
                               // alert("Your enquiry has been sent successfully");
-                              $("#successmessage-contact").css("display", "block");
+                              // $("#successmessage-contact").css("display", "block");
                               $("#req-name, #req-mobile, #req-message").val("");
                               // Swal.fire(
                               //            'Your enquiry has been sent successfully ?',
@@ -697,7 +697,9 @@ if ($('#req-name').val() != "" && $('#req-mobile').val() != "" && $('#req-messag
                               //           )
 
                               // $("#signup").trigger('reset');
-                              // $(".close").click();  
+                              alert("Your enquiry has been sent successfully");
+                              
+                              $(".close").click();  
                               }
   
 
