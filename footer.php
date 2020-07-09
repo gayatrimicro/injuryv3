@@ -18,7 +18,7 @@
                 <ul class="global-footer-sublist">
                   <li class="global-footer-sublist__item-title">Our Specialties</li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="/orthopedics/">Orthopedics</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="/spine/">Spine</a> </li>
+                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="/spine-specialist/">Spine</a> </li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="/injury-pain/">Injury and Pain</a> </li>
                  
                 </ul>
