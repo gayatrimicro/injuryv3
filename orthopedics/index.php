@@ -254,7 +254,9 @@ include("../header.php");
 
 </section>
 
-
+<div class="BrdCrmb">
+  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; / &nbsp;Specialties&nbsp; / &nbsp;<a href="http://specialtycarelive.com/orthopedics/">Orthopedics</a></p>
+</div>
 <section id="whyus" class="c-margin" style="background-color: #e6e6e5 !important; z-index: 1000;position: relative;"> 
     <div id="desk" class="c-content-box c-size-md">
       <div class="container">
@@ -262,7 +264,7 @@ include("../header.php");
           <div class=""></div>
          <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline c-center"> The Best Online Orthopedic Telemedicine Service!</h3>
          <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
-         We Specialize in Immediate Pain Relief of the Neck, Back, Shoulder, Arm, Elbow, Wrist, Hand, Hip, Leg, Knee, Ankle, and Foot</span>
+          <span>We Specialize in Immediate Pain Relief of the Neck, Back, Shoulder, Arm, Elbow, Wrist, Hand, Hip, Leg, Knee, Ankle, and Foot</span>
          </h1>
         
         </div>

@@ -451,16 +451,19 @@ include("../header.php");
     margin-bottom: 20px;
 }
 </style>
+<div class="BrdCrmb">
+  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/employers/">Employers</a></p>
+</div>
 <section style="z-index: 1000;position: relative;">
   <div class="inner_bannertel">
     <h3>Specialty Care Live Features and Benefit</h3>
     <p>Specialty Care Live is a telemedicine solution dedicated to the treatment of minor, work-related injuries and illnesses. Minimize lost duty time and productivity and avoid unnecessary visits to hospitals and urgent care facilities.</p>
       <ul class="tel_banul">
-        <li><div><img src="../assets/images/high-user-satisfaction-icon.png"><p>CONVENIENCE</p></div></li>
+        <li><div><img src="../assets/images/high-user-satisfaction-icon.png" alt="CONVENIENCE"><p>CONVENIENCE</p></div></li>
         <!-- <li><div><img src="../assets/images/open24x7.png"><p>Open 24/7</p></div></li> -->
-        <li><div><img src="../assets/images/prompt-care-icon.png"><p>EARLY INTERVENTION</p></div></li>
-        <li><div><img src="../assets/images/trained-clinical-staff-icon.png"><p>MEDICAL EXPERTISE</p></div></li>
-        <li><div><img src="../assets/images/secure-platform-icon.png"><p>PRIVACY & SECURITY</p></div></li>
+        <li><div><img src="../assets/images/prompt-care-icon.png" alt="EARLY INTERVENTION"><p>EARLY INTERVENTION</p></div></li>
+        <li><div><img src="../assets/images/trained-clinical-staff-icon.png" alt="MEDICAL EXPERTISE"><p>MEDICAL EXPERTISE</p></div></li>
+        <li><div><img src="../assets/images/secure-platform-icon.png" alt="PRIVACY & SECURITY"><p>PRIVACY & SECURITY</p></div></li>
       </ul>  
     </div>
 </section>
@@ -794,7 +797,7 @@ include("../header.php");
       <ul class="tel_banul-second">
         <li>
           <div>
-            <img src="../assets/images/return-to-work-200x200-circle.png">
+            <img src="../assets/images/return-to-work-200x200-circle.png" alt="RETURN TO WORK EVALUATION">
             <p><strong>RETURN-TO-WORK EVALUATION</strong></p>
             <p>Specialty Care Live may be used to evaluate employees who tested positive for or were potentially exposed to coronavirus disease (COVID-19) before they return to work.</p>
           </div>
@@ -802,14 +805,14 @@ include("../header.php");
         <!-- <li><div><img src="../assets/images/open24x7.png"><p>Open 24/7</p></div></li> -->
         <li>
           <div>
-            <img src="../assets/images/telerehab-recheck-200x200-circle.png">
+            <img src="../assets/images/telerehab-recheck-200x200-circle.png" alt="PHYSICAL THERAPY">
             <p><strong>PHYSICAL THERAPY</strong></p>
             <p>Employees previously seen at a Specialty Care Live medical center for physical therapy may use our telemedicine platform to continue their rehab sessions.</p>
           </div>
         </li>
         <li>
           <div>
-            <img src="../assets/images/telemed-injury-recheck-200x200-circle.png">
+            <img src="../assets/images/telemed-injury-recheck-200x200-circle.png" alt="INJURY RECHECK">
             <p><strong>INJURY RECHECK</strong></p>
             <p>Employees treated for an injury at a Specialty Care Live medical center may use Specialty Care Live Telemed for their <br>injury rechecks.</p>
           </div>

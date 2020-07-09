@@ -63,13 +63,13 @@
 
               <ul class="child-dropdown">
                 <li class="child-li"><a href="/orthopedics/" class="links-dropdown" hreflang="en"><span class="tele">Orthopedics</span></a></li>
-                <li class="child-li"><a href="/spine/" class="links-dropdown" hreflang="en"><span class="tele">Spine</span></a></li>
+                <li class="child-li"><a href="/spine-specialist/" class="links-dropdown" hreflang="en"><span class="tele">Spine</span></a></li>
                 <li class="child-li"><a href="/injury-pain/" class="links-dropdown"><span class="tele">Injury and Pain</span></a></li>
               </ul>
 
               <ul class="mobile-dropdown">
                 <li class="child-li"><a href="/orthopedics/" class="links-dropdown mobile-links" hreflang="en">Orthopedics</a></li>
-                <li class="child-li"><a href="/spine/" class="links-dropdown mobile-links" hreflang="en">Spine</a></li>
+                <li class="child-li"><a href="/spine-specialist/" class="links-dropdown mobile-links" hreflang="en">Spine</a></li>
                 <li class="child-li"><a href="/injury-pain/" class="links-dropdown mobile-links">Injury and Pain</a></li>
               </ul>
 

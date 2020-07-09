@@ -251,7 +251,9 @@ include("../header.php");
 }
 </style>
 
-
+<div class="BrdCrmb">
+  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/contact-us/">Contact Us</a></p>
+</div>
   
 <section id="whyus" class="c-margin" style="background-color: #e6e6e5 !important; z-index: 1000;position: relative;"> 
     <div id="desk-box" class="c-content-box c-size-md">
