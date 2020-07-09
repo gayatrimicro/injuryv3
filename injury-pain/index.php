@@ -255,16 +255,16 @@ include("../header.php");
 </section>
 
 <div class="BrdCrmb">
-  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; / &nbsp;Specialties&nbsp; / &nbsp;<a href="http://specialtycarelive.com/injury-pain/">Pain Management</a></p>
+  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; / &nbsp;<a href="http://specialtycarelive.com/injury-pain/">Pain Management</a></p>
 </div>
 
 <section id="whyus" class="c-margin" style="background-color: #e6e6e5 !important; z-index: 1000;position: relative;"> 
     <div id="desk" class="c-content-box c-size-md">
       <div class="container">
         <div class="col-md-12">
-         <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline c-center">'PAIN ISN'T JUST A SENSATION ,... IT'S AN EXPERIENCE...'</h3>
+         <h3 class="c-left c-font-uppercase c-font-bold heading--subheadline c-center">PAIN ISN'T JUST A SENSATION, IT'S AN EXPERIENCE</h3>
          <h1 class="c-left c-font-uppercase c-font-yellow-4 bigger-font bigger-font-medium c-font-bold header-padding-mobile c-center">
-         Pain can short-lived, or last for years even decades;<br class="desk-only">... it can be minor, or it can be severe;<br class="desk-only">... it can be localised, or it can be wide-spread;<br class="desk-only">... it can develop after a specific accident, injury, surgery, or emotional trauma, or it may seem to develop with no obvious cause at all.</span>
+         Pain can be short-lived or last for years even decades, it can be minor, or it can be severe, it can be localized, or it can be wide-spread, it can develop after a specific accident, injury, surgery, or emotional trauma, or it may seem to develop with no obvious cause at all.</span>
          </h1>
         
         </div>
@@ -321,7 +321,7 @@ include("../header.php");
 
         <div class="col-md-6 padding-custom mobile-space">
           <div class="c-margin-b-40 c-margin-t-50">
-          <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile double-para">WE'D LOVE TO HELP YOU IF YOU ARE SUFFERING WITH ONE OR MORE OF THE FOLLOWING...</h1>
+          <h1 class="c-left c-font-uppercase bigger-font-medium c-font-bold header-padding-mobile double-para">WE'D LOVE TO HELP YOU IF YOU ARE SUFFERING WITH ONE OR MORE OF THE FOLLOWING</h1>
         </div>
           <ul>
             <li>HEADACHES (CERVICOGENIC)</li>
