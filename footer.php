@@ -11,7 +11,8 @@
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="/">Home</a> </li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="/contact-us/">Contact us</a> </li>
                   <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="/second-opinion/">Second Opinion</a> </li>
-                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="/employers/">Employers</a> </li>                 
+                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="/employers/">Employers</a> </li>
+                  <li class="global-footer-sublist__item h-p0"> <a class="global-footer__text-link" href="/blog/">Blog</a> </li>                 
                 </ul>
               </li>
               <li class="global-footer-info-links__list-item">

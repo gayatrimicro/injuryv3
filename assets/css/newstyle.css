@@ -1,0 +1,144 @@
+.BlgStrt{
+	padding: 50px 0px;
+	background-color: #e6e6e5;
+}
+.BlgStrt h1{
+    font-size: 40px;
+    margin-bottom: 35px;
+    font-weight: 600;
+}
+.BlgStrt p{
+	margin-bottom: 20px;
+}
+.lftRig p{
+	margin-bottom: 20px;
+}
+.lftRig h3{
+	font-size: 25px;
+    margin-bottom: 35px;
+    font-weight: 600;
+    margin-top: 25px;
+}
+.lftRig{
+	padding: 50px 0px;
+}
+.lftRig img{
+	width: 100%;
+}
+.span_did{
+    width: 90%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 15px;
+}
+.BlgStrt ul{
+	padding: 0px;
+	margin: 0px;
+}
+.BlgStrt ul li{
+	list-style: none;
+	margin-bottom: 25px;
+}
+.BlgStrt ul li:last-child{
+	margin: 0px;
+}
+.marb0{
+	margin-bottom: 0px !important;
+}
+.BlgStrtLast{
+	padding: 50px 0px;
+	background-color: #193560;
+}
+.BlgStrtLast p{
+	margin-bottom: 20px;
+	color: #fff;
+}
+.BlgStrtLast p:last-child{
+	margin-bottom: 0px;
+}
+.BlgStrtLast a{
+	color: #fff;
+}
+.BacBlg{
+	background-image: url(../../assets/images/blog/bBanner.png);
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+	padding-top: 200px;
+	text-align: center;
+}
+.BacBlg h3{
+	font-size: 45px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+}
+.Mn_blg{
+	padding: 50px 0px;
+}
+.Mn_blg img{
+	width: 100%;
+}
+.Mn_blg h4{
+	    font-size: 21px;
+    font-weight: 600;
+    margin: 22px 0px;
+    margin-top: 0px;
+}
+.Mn_blg p{
+	    font-size: 17px;
+    line-height: 26px;
+    margin-bottom: 18px;
+}
+.Mn_blg a{
+	    color: #383838;
+    font-weight: 600;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+.Txtsec{
+	padding: 15px;
+}
+.InnBlgLis{
+	 box-shadow: 2px 5px 8px 0px #888888;
+}
+.Mn_blg a i{
+	vertical-align: middle;
+}
+@media(min-width: 320px) and (max-width: 767px){
+	.Mn_blg {
+    padding: 50px 0px;
+}
+.BlgStrt {
+    padding: 50px 20px;
+}
+.BlgStrt h1 {
+    font-size: 25px;
+    line-height: 33px;
+    margin-top: 50px;
+}
+.lftRig h3 {
+    font-size: 25px;
+    margin-bottom: 28px;
+    margin-top: 0px;
+    line-height: 32px;
+}
+.lftRig {
+    padding: 50px 20px;
+}
+.span_did {
+    width: 88%;
+}
+.marT28{
+	margin-top: 28px !important;
+}
+.lftRig ul{
+	padding-left: 15px;
+}
+.PAdB0{
+	padding-bottom: 0px;
+}
+
+
+
+}
