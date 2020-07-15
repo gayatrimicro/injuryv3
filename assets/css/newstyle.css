@@ -105,6 +105,27 @@
 .Mn_blg a i{
 	vertical-align: middle;
 }
+.DteSec span{
+	margin-right: 15px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #696969;
+}
+.DteSec span i{
+	margin-right: 3px;
+}
+.spnsoc_ico{
+	float: right;
+}
+.spnsoc_ico a{
+	margin-right: 18px;
+}
+.ShaInfo a{
+	color: #696969;
+}
+
+
+
 @media(min-width: 320px) and (max-width: 767px){
 	.Mn_blg {
     padding: 50px 0px;

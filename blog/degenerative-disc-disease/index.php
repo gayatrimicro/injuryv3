@@ -240,8 +240,19 @@ include("../../header.php");
       </div>
    </div>
 </section>
+<div class="BrdCrmb">
+  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a>  /  &nbsp;<a href="http://specialtycarelive.com/blog/degenerative-disc-disease/">Degenerative Disc Disease</a></p>
+</div>
 <section class="BlgStrt">
   <div class="container">
+    <div class="ShaInfo">
+      <div class="row">
+        <div class="col-sm-6 text-left">
+          <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 24/6/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Shreya Goregaonkar</span></p>          
+        </div>
+        <div class="col-sm-6 text-right"><span class="spnsoc_ico"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></span></div>
+      </div>
+    </div>
     <h1>What is Degenerative Disc Disease?</h1>
     <p><a href="http://specialtycarelive.com/spine-specialist/">Degenerative disc disease</a> is also called degeneration of the spinal disc as a result of natural processes of wear and tear & aging. While the condition progresses with age, mostly the pain associated with it progresses too.</p>
     <p>Most people experience mild pain but some people do have unbearable pain which radiates from their lower back and down the legs. It is also known as osteoarthritis of the spine.</p>
