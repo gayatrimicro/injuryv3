@@ -59,6 +59,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script type="text/javascript">
    document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/lato:n3,n4:default.js" type="text/javascript">\x3C/script>');
 </script>
+<!-- Load Facebook SDK for JavaScript -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 
 <style type="text/css">
   #desk {
@@ -223,6 +232,8 @@ include("../header.php");
 
 <section class="BacBlg">
   <h3>Blog</h3>
+  <!-- Your share button code -->
+
 </section>
 <div class="BrdCrmb">
   <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a></p>
@@ -237,7 +248,18 @@ include("../header.php");
             <h4>Degenerative Disc Disease</h4>
             <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 24/6/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Shreya Goregaonkar</span></p>
             <p>Degenerative disc disease is also called degeneration of the spinal disc as a result of natural processes of wear and tear & aging. While the condition progresses with age, mostly the pain associated with it progresses too.</p>
-            <a href="../blog/degenerative-disc-disease/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a><span class="spnsoc_ico"><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></span>
+            <a href="../blog/degenerative-disc-disease/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            <hr class="hrshr">
+            <div class="fb-share-button" 
+data-href="http://specialtycarelive.com/blog/degenerative-disc-disease/" 
+data-layout="button_count">
+</div>
+<div class="DBlk">
+  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<script type="IN/Share" data-url="http://specialtycarelive.com/blog/degenerative-disc-disease/"></script>
+</div>
+<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/degenerative-disc-disease/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
           </div>
         </div>
       </div>

@@ -163,3 +163,16 @@
 
 
 }
+
+.hrshr{
+	margin: 0px 0px 15px 0px;
+}
+.DBlk{
+	display: inline-block;
+	margin-left: 15px;
+}
+.DBlk2{
+	display: inline-block;
+	margin-left: 15px;
+	    vertical-align: -webkit-baseline-middle;
+}
