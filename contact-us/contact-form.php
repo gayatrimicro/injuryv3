@@ -47,7 +47,7 @@
 	                 </tr>
 
 	                 <tr>
-	                   <td align='left' width='35%'><strong>Phone number :</strong></td>
+	                   <td align='left' width='35%'><strong>Message :</strong></td>
 	                   <td align='left' width='60%'>
 	                   ". $comment ."</td>
 	                 </tr>
@@ -58,8 +58,8 @@
 	                 
 	               </table>";  
 	              
-	  	  // if(mail("sccintake@cmclancaster.com, aarielalmeida88@gmail.com", $subject, $message, $headers))
-	  	  if(mail("seo@gmicro.us, content@gmicro.us", $subject, $message, $headers))
+	  	  if(mail("sccintake@cmclancaster.com, aarielalmeida88@gmail.com", $subject, $message, $headers))
+	  	  // if(mail("seo@gmicro.us, content@gmicro.us", $subject, $message, $headers))
 			  //if(mail("roxanetlowry@gmail.com", $subject, $message, $headers))
 	  	  {
 			// delete the cookie so it cannot sent again by refreshing this page

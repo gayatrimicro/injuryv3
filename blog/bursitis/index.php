@@ -16,21 +16,21 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-<title>Degenerative Disc Disease | Specialty Care Live</title>
+<title>Bursitis | Specialty Care Live</title>
 
-<meta name="description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on (972)-865-4454 today to schedule your teleconsultation.">
+<meta name="description" content="Meta Description - When the bursae of your body get swollen to the point of being painful, that condition is called bursitis.  Call us on (972)-865-4454 today to schedule your teleconsultation.">
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
-<meta property="og:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta property="og:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on (972)-865-4454 today to schedule your teleconsultation.">
+<meta property="og:title" content="Bursitis | Specialty Care Live">
+<meta property="og:description" content="Meta Description - When the bursae of your body get swollen to the point of being painful, that condition is called bursitis.  Call us on (972)-865-4454 today to schedule your teleconsultation.">
 <meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/blg1.png">
 <meta property="og:url" content="http://specialtycarelive.com/blog/degenerative-disc-disease/">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta name="twitter:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on (972)-865-4454 today to schedule your teleconsultation.">
+<meta name="twitter:title" content="Bursitis | Specialty Care Live">
+<meta name="twitter:description" content="Meta Description - When the bursae of your body get swollen to the point of being painful, that condition is called bursitis.  Call us on (972)-865-4454 today to schedule your teleconsultation.">
 <meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/blg1.png">
 <meta name="twitter:url" content="http://specialtycarelive.com/blog/degenerative-disc-disease/">
 
@@ -251,7 +251,7 @@ include("../../header.php");
                               </picture>
                               <div class="header-content">
                                 
-                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Degenerative Disc Disease</h3>
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Bursitis</h3>
                                  <p class="text-left mobile-para-padding" style="margin: 0 auto !important;"> 
                                     <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Connect to an expert</a>
                                 </p>
@@ -262,31 +262,31 @@ include("../../header.php");
    </div>
 </section>
 <div class="BrdCrmb">
-  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a>  /  &nbsp;<a href="http://specialtycarelive.com/blog/degenerative-disc-disease/">Degenerative Disc Disease</a></p>
+  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a>  /  &nbsp;<a href="http://specialtycarelive.com/blog/Bursitis/">Bursitis</a></p>
 </div>
 <section class="BlgStrt">
   <div class="container">
     <div class="ShaInfo">
       <div class="row">
         <div class="col-sm-6 text-left">
-          <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 24/6/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>          
+          <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 28/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>          
         </div>
         <div class="col-sm-6 text-right">
           <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/degenerative-disc-disease/" 
+data-href="http://specialtycarelive.com/blog/bursitis/" 
 data-layout="button_count">
 </div>
 <div class="DBlk">
   <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/degenerative-disc-disease/"></script>
+<script type="IN/Share" data-url="http://specialtycarelive.com/blog/bursitis/"></script>
 </div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/degenerative-disc-disease/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/bursitis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
         </div>
       </div>
     </div>
-    <h1>What is Degenerative Disc Disease?</h1>
-    <p><a href="http://specialtycarelive.com/spine-specialist/">Degenerative disc disease</a> is also called degeneration of the spinal disc as a result of natural processes of wear and tear & aging. While the condition progresses with age, mostly the pain associated with it progresses too.</p>
-    <p>Most people experience mild pain but some people do have unbearable pain which radiates from their lower back and down the legs. It is also known as osteoarthritis of the spine.</p>
+    <h1>What is a bursa?</h1>
+    <p>Bursa is a fluid-filled sac located near tendons, bones & muscles which acts as shock-absorbers for our body movements. When they get swollen to the point of being painful, that condition is called bursitis. They are located throughout our body near joints and therefore, bursitis can happen anywhere in the body.</p>
+    <p>The most common locations of bursitis are the hips, shoulders, knees, elbows, and heels of our foot. Among these, bursitis in hips is the most dangerous and can decrease mobility. There are two types of hip bursitis - trochanteric bursitis and iliopsoas bursa.</p>
     <a href="http://specialtycarelive.com/contact-us/" class="ReqCllbck">Request a callback</a>
   </div>  
 </section> 
@@ -294,98 +294,36 @@ data-layout="button_count">
   <div class="container">
     <div class="row">
       <div class="col-sm-6">
-        <h3>What causes Degenerative Disc Disease?</h3>
-        <p>Spinal discs are the bedding or the shock-absorbers which are situated in between the vertebrae of the spinal cord. These spinal discs have a soft inner core and tough outer wall.</p>
-        <p>The outer tough wall is called <b>annulus fibrosus</b> and the inner soft wall is called the <b>nucleus pulposus</b>.</p>
-        <p>As people age, these spinal discs go through natural processes and damage as a result of stress and injuries.</p>
+        <h3>What are the causes of hip bursitis?</h3>
+        <p>Repetitive motion and stress to the same joint cause bursitis. Some other causes are - accident trauma and injury, rheumatoid arthritis, gout & infections.</p>
       </div>
-      <div class="col-sm-6"><img src="../../assets/images/blog/blg1.png"></div>
+      <div class="col-sm-6"><img src="../../assets/images/blog/burst2.jpg"></div>
     </div>
   </div>
-</section>
-<section>
-<section class="BlgStrt">
-  <div class="container">
-    <p>The degeneration of these spinal discs can occur in two ways -</p>
-    <br>
-    <ul>
-      <li><span>1.</span><span class="span_did"><p><b>Drying up of the spinal fluid</b> - The fluid or water between spinal discs acts as a shock absorbing cushion between your vertebrae. As you age and get older, the daily physical stressors and any injuries slowly dry up this fluid till the point that vertebrae grind together and nothing’s left of the fluid.</p>
-        <p class="marb0"><b>This causes spine pain and degenerative disc disease.</b></p></span>        
-      </li>
-      <li><span>2.</span><span class="span_did"><p><b>Cracks in the disc structure</b> - Daily physical stressors and injuries cause tiny cracks to form on the outer wall of your spinal discs. These cracks can cause nerve damage and pain and also cause the inner soft to slip through. The soft core then bulges out of these cracks and results in a <b>slipped or herniated disc.</b></p></span>
-      </li>
-    </ul><br>
-    <p>This degenerative condition is countered by your body by building osteophytes. These are tiny bony projections growing along your bones which can press on the spinal nerves and cause pain.</p>
-  </div>  
-</section>  
 </section>
 <section class="lftRig PAdB0">
   <div class="container">
     <div class="row">
-      <div class="col-sm-6"><img src="../../assets/images/blog/diag.png"></div>
+      <div class="col-sm-6"><img src="../../assets/images/blog/burst1.jpg"></div>
       <div class="col-sm-6">
-        <h3 class="marT28">What are the symptoms of degenerative disc disease?</h3>
-        <p>The symptoms of degenerative disc disease are - </p>
+        <h3 class="marT28">What does bursitis in the hip feel like?</h3>
+        <p>Symptoms of hip bursitis are the following -</p>
         <ul>
-          <li><p>Pain in your thighs and lower buttocks</p></li>
-          <li><p>The pain lessens when you walk around instead of sitting.</p></li>
-          <li><p>Getting up from your seat flares up the pain.</p></li>
-          <li><p>Muscle spasms in your lower back and neck</p></li>
-          <li><p>Tingling intense pain in your arms and legs</p></li>
+          <li><p>Stiff hip joints</p></li>
+          <li><p>Pain in the hips, buttocks, and legs</p></li>
+          <li><p>Pain gets worse with prolonged sitting, standing or walking</p></li>
+          <li><p>Inability to move</p></li>
+          <li><p>Inflammation and redness of the hips</p></li>
+          <li><p>Fever and sharp shooting pain in the legs</p></li>
         </ul>
       </div>      
     </div>
   </div>
 </section>
-<section class="lftRig">
-  <div class="container">
-    <div class="row">      
-      <div class="col-sm-6">
-        <h3>How is degenerative disc disease diagnosed?</h3>
-        <p>Degenerative disc disease is diagnosed by your provider by asking your family history, and the quality of your pain. They can ask you questions like -</p>
-        <ul>
-          <li><p>When did you first experience lower back pain?</p></li>
-          <li><p>Where do you experience pain in your body?</p></li>
-          <li><p>Did you have any injuries or accidents which may have caused your pain?</p></li>
-          <li><p>Does your family have a history of spinal diseases or conditions?</p></li>
-        </ul>
-        <p>They may examine your body for - <b>nerve damage, pain in response to touch and muscle strength.</b></p>
-      </div>
-      <div class="col-sm-6"><img src="../../assets/images/blog/ddd-compressor.png"></div>      
-    </div>
-  </div>
-</section>  
-<section class="BlgStrt">
-  <div class="container">
-    <p>There are tests which are used to determine whether you have a degenerative disc disease -</p>
-    <ul>
-      <li><span>1.</span><span class="span_did"><p class="marb0">An <b>X-ray or MRI scan</b> is used to do imaging studies of the spine and surrounding body parts to see the alignment of the spinal discs.</p></span>        
-      </li>
-      <li><span>2.</span><span class="span_did"><p class="marb0"><b>Discogram</b> is a technique of using dye to see whether and how painful the spinal discs are.</p></span>
-      </li>
-    </ul>
-  </div>  
-</section>
-<section class="lftRig">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-6"><img src="../../assets/images/blog/treatdiagno.jpg"></div>
-      <div class="col-sm-6">
-        <h3 class="marT28">How is degenerative disc disease treated?</h3>
-        <p>Physical therapy, medication and injections are the most common methods of treatment before exhausting all options to move on to spine surgery. </p>
-        <ul>
-          <li><p>Medications like ibuprofen and aspirin are prescribed as painkillers.</p></li>
-          <li><p>Facet joint injections are steroid shots injected in the joints surrounding the affected spinal discs. These provide pain relief if paired with a local anaesthetic.</p></li>
-          <li><p>Physiotherapy helps your spine become flexible and strong.</p></li>
-          <li><p>If all these above options fail, then your spine specialist may suggest spine surgery.</p></li>
-        </ul>
-      </div>      
-    </div>
-  </div>
-</section>
+
 <section class="BlgStrtLast">
   <div class="container">
-    <p>If you or anyone you know is suffering from debilitating lower back pain, <a href="http://specialtycarelive.com/">please consult our expert doctors and get the proper treatment.</a></p>
+    <p>If you or anyone you know is suffering from debilitating lower back pain <a href="http://specialtycarelive.com/">please consult our expert doctors and get the proper treatment</a></p>
     <p>Call us on <a href="tel:(972)-865-4454">(972)-865-4454</a> or <a href="http://specialtycarelive.com/contact-us/">request a callback by submitting your contact details.</a></p>
   </div>  
 </section>

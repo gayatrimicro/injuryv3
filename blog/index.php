@@ -16,7 +16,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-<title>Degenerative Disc Disease | Specialty Care Live</title>
+<title>Blog | Specialty Care Live</title>
 
 <meta name="description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on (972)-865-4454 today to schedule your teleconsultation." >
 
@@ -246,8 +246,8 @@ include("../header.php");
           <div><img src="../assets/images/blog/neck-pain.jpg"></div>
           <div class="Txtsec">
             <h4>Degenerative Disc Disease</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 24/6/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Shreya Goregaonkar</span></p>
-            <p>Degenerative disc disease is also called degeneration of the spinal disc as a result of natural processes of wear and tear & aging. While the condition progresses with age, mostly the pain associated with it progresses too.</p>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 24/6/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="CuHei">Degenerative disc disease is also called degeneration of the spinal disc as a result of natural processes of wear and tear & aging. While the condition progresses with age, mostly the pain associated with it progresses too.</p>
             <a href="../blog/degenerative-disc-disease/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
             <hr class="hrshr">
             <div class="fb-share-button" 
@@ -263,7 +263,28 @@ data-layout="button_count">
           </div>
         </div>
       </div>
-      <div class="col-sm-4"></div>
+      <div class="col-sm-4">
+        <div class="InnBlgLis">
+          <div><img src="../assets/images/blog/burst1.jpg"></div>
+          <div class="Txtsec">
+            <h4>What is a bursa?</h4>
+            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 28/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
+            <p class="CuHei">Bursa is a fluid-filled sac located near tendons, bones & muscles which acts as shock-absorbers for our body movements. When they get swollen to the point of being painful, that condition is called bursitis. They are located throughout our body near joints and therefore, bursitis can happen anywhere in the body.</p>
+            <a href="../blog/bursitis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+            <hr class="hrshr">
+            <div class="fb-share-button" 
+data-href="http://specialtycarelive.com/blog/bursitis/" 
+data-layout="button_count">
+</div>
+<div class="DBlk">
+  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<script type="IN/Share" data-url="http://specialtycarelive.com/blog/bursitis/"></script>
+</div>
+<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/bursitis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+
+          </div>
+        </div>
+      </div>
       <div class="col-sm-4"></div>
     </div>
   </div>
