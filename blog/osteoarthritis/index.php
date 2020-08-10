@@ -16,43 +16,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-<title>Blog | Specialty Care Live</title>
+<title>Osteoarthritis | Specialty Care Live</title>
 
-<meta name="description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on (972)-865-4454 today to schedule your teleconsultation." >
+<meta name="description" content="Osteoarthritis is the most common arthritis throughout the world and is caused by natural wear-and-tear of the bones and joints of your body. Call us on (972)-865-4454 today to schedule your teleconsultation.">
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
-<meta property="og:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta property="og:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on (972)-865-4454 today to schedule your teleconsultation.">
-<meta property="og:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
-<meta property="og:url" content="http://specialtycarelive.com/employers/">
+<meta property="og:title" content="Osteoarthritis | Specialty Care Live">
+<meta property="og:description" content="Osteoarthritis is the most common arthritis throughout the world and is caused by natural wear-and-tear of the bones and joints of your body. Call us on (972)-865-4454 today to schedule your teleconsultation.">
+<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/ost.jpg">
+<meta property="og:url" content="http://specialtycarelive.com/blog/osteoarthritis/">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta name="twitter:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on (972)-865-4454 today to schedule your teleconsultation.">
-<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
-<meta name="twitter:url" content="http://specialtycarelive.com/employers/">
+<meta name="twitter:title" content="Osteoarthritis | Specialty Care Live">
+<meta name="twitter:description" content="Osteoarthritis is the most common arthritis throughout the world and is caused by natural wear-and-tear of the bones and joints of your body. Call us on (972)-865-4454 today to schedule your teleconsultation.">
+<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/ost.jpg">
+<meta name="twitter:url" content="http://specialtycarelive.com/blog/degenerative-disc-disease/">
 
 <meta name="robots" content="index, follow" />
-<meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:-1" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:-1"/>
 
 
-<link rel="canonical" href="http://specialtycarelive.com/employers/">
-<link rel="alternate" href="http://specialtycarelive.com/employers/" hreflang="en-us" />
+<link rel="canonical" href="http://specialtycarelive.com/osteoarthritis/">
+<link rel="alternate" href="http://specialtycarelive.com/osteoarthritis/" hreflang="en-us"/>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16" type="image/png"> 
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
+<link rel="icon" href="../../assets/images/favicon.png" sizes="16x16" type="image/png"> 
+<link rel="icon" href="../../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- <link href="assets/css/default.css" rel="stylesheet" type="text/css"> -->
-<link href="../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
-<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/main.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/testimonials.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/newstyle.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/main.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/testimonials.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/newstyle.css" rel="stylesheet" type="text/css">
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 
@@ -90,6 +90,18 @@ fjs.parentNode.insertBefore(js, fjs);
     margin-bottom: 1.11111rem;
     margin-top: 2.11111rem;
     color: #3b3f48;
+}
+.ReqCllbck{
+  background-color: #19365f;
+    color: #fff;
+    padding: 15px;
+    margin-top: 25px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.ReqCllbck:hover{
+  background-color: #097ec2;
+    color: #fff;
 }
 @media (max-width: 600px){
   .bigger-font-medium {
@@ -158,7 +170,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <?php
-include("../header.php");
+include("../../header.php");
 ?>
 
 
@@ -229,72 +241,38 @@ include("../header.php");
 
 <div class="c-layout-page"> 
 
-
-<section class="BacBlg">
-  <h3>Blog</h3>
-  <!-- Your share button code -->
-
+<section class="banner">
+   <div class="container new-container">
+      <div class="row">
+                  <div class="large-12 columns">
+                              <picture>
+                                 <source srcset="../../assets/images/mob-slider-transparent-cost.jpg" media="(max-width: 600px)">
+                                 <img src="../../assets/images/slider-transparent-cost.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                              </picture>
+                              <div class="header-content">
+                                
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Osteoarthritis</h3>
+                                 <p class="text-left mobile-para-padding" style="margin: 0 auto !important;"> 
+                                    <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Connect to an expert</a>
+                                </p>
+                              </div>
+                  </div>
+               
+      </div>
+   </div>
 </section>
 <div class="BrdCrmb">
-  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a></p>
+  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a>  /  &nbsp;<a href="http://specialtycarelive.com/blog/osteoarthritis/">Osteoarthritis</a></p>
 </div>
-<section class="Mn_blg">
+<section class="BlgStrt">
   <div class="container">
-    <div class="row">
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/neck-pain.jpg"></div>
-          <div class="Txtsec">
-            <h4>Degenerative Disc Disease</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 24/6/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Degenerative disc disease is also called degeneration of the spinal disc as a result of natural processes of wear and tear & aging. While the condition progresses with age, mostly the pain associated with it progresses too.</p>
-            <a href="../blog/degenerative-disc-disease/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/degenerative-disc-disease/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/degenerative-disc-disease/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/degenerative-disc-disease/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
+    <div class="ShaInfo">
+      <div class="row">
+        <div class="col-sm-6 text-left">
+          <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>          
         </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/burst1.jpg"></div>
-          <div class="Txtsec">
-            <h4>What is a bursa?</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 28/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Bursa is a fluid-filled sac located near tendons, bones & muscles which acts as shock-absorbers for our body movements. When they get swollen to the point of being painful, that condition is called bursitis. They are located throughout our body near joints and therefore, bursitis can happen anywhere in the body.</p>
-            <a href="../blog/bursitis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/bursitis/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/bursitis/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/bursitis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/ost3.jpg"></div>
-          <div class="Txtsec">
-            <h4>What is Osteoarthritis?</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Osteoarthritis is the most common arthritis throughout the world and is caused by natural wear-and-tear of the bones and joints of your body. It is also called a degenerative joint disease because it mainly affects the joints of your knees, hips, hands, and spine.</p>
-            <a href="../blog/osteoarthritis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
+        <div class="col-sm-6 text-right">
+          <div class="fb-share-button" 
 data-href="http://specialtycarelive.com/blog/osteoarthritis/" 
 data-layout="button_count">
 </div>
@@ -303,21 +281,77 @@ data-layout="button_count">
 <script type="IN/Share" data-url="http://specialtycarelive.com/blog/osteoarthritis/"></script>
 </div>
 <div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/osteoarthritis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
         </div>
       </div>
     </div>
+    <h1>What is Osteoarthritis?</h1>
+    <p>Osteoarthritis is the most common arthritis throughout the world and is caused by natural wear-and-tear of the bones and joints of your body. It is also called a degenerative joint disease because it mainly affects the joints of your knees, hips, hands, and spine.</p>
+    <a href="http://specialtycarelive.com/contact-us/" class="ReqCllbck">Request a callback</a>
+  </div>  
+</section> 
+<section class="lftRig">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6">
+        <h3>Osteoarthritis Symptoms</h3>
+        <p>The main symptoms of osteoarthritis are as follows -</p>
+        <ul>
+          <li><p><b>Pain and Stiffness</b> - Joint pain which worsens over time.</p></li>
+          <li><p><b>Loss of flexibility</b> - The movements of your joints are hindered as osteoarthritis progresses.</p></li>
+          <li><p><b>Grating sensation</b> - You may hear popping sounds from your joints and a grating sensation.</p></li>
+          <li><p><b>Inflammation of joint tissue</b> - The swelling affects the joint where cartilage has deteriorated.</p></li>
+          <li><p><b>Bone spurs</b> - Small growths of bone around the affected joint are noticeable over time.</p></li>
+        </ul>
+      </div>
+      <div class="col-sm-6"><img src="../../assets/images/blog/ost.jpg"></div>
+    </div>
   </div>
 </section>
+<section class="lftRig">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3>What causes Osteoarthritis?</h3>
+        <p>When the cartilage of your joints deteriorates over time, it leads to Osteoarthritis. When all the cartilage wears off, the bones rub against each other and lead to unbearable pain and inflammation.</p>
+      </div>      
+    </div>
+  </div>
+</section>
+<section class="lftRig PAdB0">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6"><img src="../../assets/images/blog/ost2.jpg"></div>
+      <div class="col-sm-6">
+        <h3 class="marT28">Osteoarthritis treatment</h3>
+        <p>Osteoarthritis is treated using three ways - medications, physical therapy, and surgery. Our expert orthopedic doctors and specialists exhaust all non-invasive methods of osteoarthritis treatment before recommending minimally invasive orthopedic surgery.</p>
+        <ul>
+          <li><p><b>Medications</b> - Acetaminophen, Non-steroidal anti-inflammatory drugs (NSAIDs), and Duloxetine are regularly prescribed to relieve the pain.</p></li>
+          <li><p><b>Physical Therapy</b> - A licensed physiotherapist will help you exercise your body without further damaging your joints and keeping you healthy.</p></li>
+          <li><p><b>Injections</b> - Cortisone injections relieve joint pain but should be limited to 3-4 injections per year. Also, hyaluronic acid injections are used to cushion your bones and work as a replacement for your cartilage.</p></li>
+          <li><p><b>Joint replacement surgery</b> - It is also called arthroplasty. The damaged joints are replaced by metal or plastic parts. They are replaced once they are overused. </p></li>
+          <li><p><b>Knee Osteotomy surgery</b> - It is also known as knee replacement surgery. An orthopedic doctor cuts above or below your knee and adds or removes an extra bone piece to shift your body weight from affecting your bad knees.</p></li>
+        </ul>
+      </div>      
+    </div>
+  </div>
+</section>
+
+<section class="BlgStrtLast">
+  <div class="container">
+    <p>If you or anyone you know is suffering from debilitating knee and joint pain and if you suspect that you may have osteoarthritis<a href="http://specialtycarelive.com/">please consult our expert doctors and get the proper treatment.</a></p>
+    <p>Call us on <a href="tel:(972)-865-4454">(972)-865-4454</a> or <a href="http://specialtycarelive.com/contact-us/">request a callback by submitting your contact details.</a></p>
+  </div>  
+</section>
+
 
 
   
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="../../assets/slider/sweetalert.min.js"></script> 
 
  <?php
-include("../footer.php");
+include("../../footer.php");
 ?>
   
 </div>
