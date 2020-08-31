@@ -284,7 +284,7 @@ data-layout="button_count">
         </div>
       </div>
     </div>
-    <h1>What is a bursa?</h1>
+    <h3 class="hpers" style="font-size: 40px;">What is a bursa?</h3>
     <p>Bursa is a fluid-filled sac located near tendons, bones & muscles which acts as shock-absorbers for our body movements. When they get swollen to the point of being painful, that condition is called bursitis. They are located throughout our body near joints and therefore, bursitis can happen anywhere in the body.</p>
     <p>The most common locations of bursitis are the hips, shoulders, knees, elbows, and heels of our foot. Among these, bursitis in hips is the most dangerous and can decrease mobility. There are two types of hip bursitis - trochanteric bursitis and iliopsoas bursa.</p>
     <a href="http://specialtycarelive.com/contact-us/" class="ReqCllbck">Request a callback</a>
@@ -294,7 +294,7 @@ data-layout="button_count">
   <div class="container">
     <div class="row">
       <div class="col-sm-6">
-        <h3>What are the causes of hip bursitis?</h3>
+        <h1 class="hpers">What are the causes of hip bursitis?</h1>
         <p>Repetitive motion and stress to the same joint cause bursitis. Some other causes are - accident trauma and injury, rheumatoid arthritis, gout & infections.</p>
       </div>
       <div class="col-sm-6"><img src="../../assets/images/blog/burst2.jpg"></div>

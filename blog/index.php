@@ -267,7 +267,7 @@ data-layout="button_count">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/burst1.jpg"></div>
           <div class="Txtsec">
-            <h4>What is a bursa?</h4>
+            <h4>Bursitis</h4>
             <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 28/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Bursa is a fluid-filled sac located near tendons, bones & muscles which acts as shock-absorbers for our body movements. When they get swollen to the point of being painful, that condition is called bursitis. They are located throughout our body near joints and therefore, bursitis can happen anywhere in the body.</p>
             <a href="../blog/bursitis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
@@ -289,7 +289,7 @@ data-layout="button_count">
         <div class="InnBlgLis">
           <div><img src="../assets/images/blog/ost3.jpg"></div>
           <div class="Txtsec">
-            <h4>What is Osteoarthritis?</h4>
+            <h4>Osteoarthritis</h4>
             <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
             <p class="CuHei">Osteoarthritis is the most common arthritis throughout the world and is caused by natural wear-and-tear of the bones and joints of your body. It is also called a degenerative joint disease because it mainly affects the joints of your knees, hips, hands, and spine.</p>
             <a href="../blog/osteoarthritis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
