@@ -16,43 +16,43 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-<title>Blog | Specialty Care Live</title>
+<title>What is Rheumatoid Arthritis? What are its Symptoms, Causes and Treatment?</title>
 
-<meta name="description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on (972)-865-4454 today to schedule your teleconsultation." >
+<meta name="description" content="Rheumatoid arthritis is a chronic inflammatory disorder that might affect more than just your joints. If you or anyone you know is suffering from rheumatoid arthritis, call 469-5458645 to schedule a tele-visit.">
 
 <meta property="og:locale" content="en_US">
 <meta name="og:site_name" content="Specialty Care Live"/>
 <meta property="og:type" content="Website">
-<meta property="og:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta property="og:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on (972)-865-4454 today to schedule your teleconsultation.">
-<meta property="og:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
-<meta property="og:url" content="http://specialtycarelive.com/employers/">
+<meta property="og:title" content="What is Rheumatoid Arthritis? What are its Symptoms, Causes and Treatment?">
+<meta property="og:description" content="Rheumatoid arthritis is a chronic inflammatory disorder that might affect more than just your joints. If you or anyone you know is suffering from rheumatoid arthritis, call 469-5458645 to schedule a tele-visit.">
+<meta property="og:image" content="http://specialtycarelive.com/assets/images/blog/blg1.png">
+<meta property="og:url" content="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment">
 
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Degenerative Disc Disease | Specialty Care Live">
-<meta name="twitter:description" content="Degenerative disc disease occurs as a result of natural processes of wear and tear & aging. Call us on (972)-865-4454 today to schedule your teleconsultation.">
-<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/home_background-couple.jpg">
-<meta name="twitter:url" content="http://specialtycarelive.com/employers/">
+<meta name="twitter:title" content="What is Rheumatoid Arthritis? What are its Symptoms, Causes and Treatment?">
+<meta name="twitter:description" content="Rheumatoid arthritis is a chronic inflammatory disorder that might affect more than just your joints. If you or anyone you know is suffering from rheumatoid arthritis, call 469-5458645 to schedule a tele-visit.">
+<meta name="twitter:image" content="http://specialtycarelive.com/assets/images/blog/blg1.png">
+<meta name="twitter:url" content="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment">
 
 <meta name="robots" content="index, follow" />
-<meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:-1" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:standard, max-video-preview:-1"/>
 
 
-<link rel="canonical" href="http://specialtycarelive.com/employers/">
-<link rel="alternate" href="http://specialtycarelive.com/employers/" hreflang="en-us" />
+<link rel="canonical" href="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment">
+<link rel="alternate" href="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment" hreflang="en-us"/>
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16" type="image/png"> 
-<link rel="icon" href="../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
+<link rel="icon" href="../../assets/images/favicon.png" sizes="16x16" type="image/png"> 
+<link rel="icon" href="../../assets/images/favicon.png" sizes="16x16 32x32" type="image/png">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300italic,400italic,700italic,400,300,700&subset=all">
 <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!-- <link href="assets/css/default.css" rel="stylesheet" type="text/css"> -->
-<link href="../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
-<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/main.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/testimonials.css" rel="stylesheet" type="text/css">
-<link href="../assets/css/newstyle.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/components.css" id="style_components" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/main.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/testimonials.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/newstyle.css" rel="stylesheet" type="text/css">
 
 <link href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap" rel="stylesheet">
 
@@ -91,8 +91,17 @@ fjs.parentNode.insertBefore(js, fjs);
     margin-top: 2.11111rem;
     color: #3b3f48;
 }
-.Mn_blg .col-sm-4{
-  margin-bottom: 40px;
+.ReqCllbck{
+  background-color: #19365f;
+    color: #fff;
+    padding: 15px;
+    margin-top: 25px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.ReqCllbck:hover{
+  background-color: #097ec2;
+    color: #fff;
 }
 @media (max-width: 600px){
   .bigger-font-medium {
@@ -151,6 +160,22 @@ fjs.parentNode.insertBefore(js, fjs);
     ]
     }
 </script>
+<style type="text/css">
+  .h3bgh{
+      font-size: 25px;
+    margin-bottom: 35px;
+    font-weight: 600;
+    margin-top: 25px;
+}
+@media (max-width: 767px) and (min-width: 320px){
+.h3bgh{
+    font-size: 25px;
+    margin-bottom: 28px;
+    margin-top: 0px;
+    line-height: 32px;
+}
+}
+</style>
 </head>
 
 <body class="c-layout-header-fixed c-layout-header-mobile-fixed c-layout-header-fullscreen"> 
@@ -161,7 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <?php
-include("../header.php");
+include("../../header.php");
 ?>
 
 
@@ -232,28 +257,38 @@ include("../header.php");
 
 <div class="c-layout-page"> 
 
-
-<section class="BacBlg">
-  <h3>Blog</h3>
-  <!-- Your share button code -->
-
+<section class="banner">
+   <div class="container new-container">
+      <div class="row">
+                  <div class="large-12 columns">
+                              <picture>
+                                 <source srcset="../../assets/images/mob-slider-transparent-cost.jpg" media="(max-width: 600px)">
+                                 <img src="../../assets/images/slider-transparent-cost.jpg" alt="Flowers" style="width:100%;position: relative;display: block;object-fit: cover;object-position:initial;">
+                              </picture>
+                              <div class="header-content">
+                                
+                                 <h3 class="c-main-title c-font-72 c-font-bold c-font-uppercase c-font-white c-center">Rheumatoid Arthritis</h3>
+                                 <p class="text-left mobile-para-padding" style="margin: 0 auto !important;"> 
+                                    <a href="javascript:void(0);" data-toggle="modal" data-target="#request" class="read-about-us btn-new tn-new c-btn-border-opacity-04 yop c-btn btn-no-focus c-btn-header btn btn-lg c-btn-border-1x c-btn-dark c-btn-circle c-btn-sbold" hreflang="en">Connect to an expert</a>
+                                </p>
+                              </div>
+                  </div>
+               
+      </div>
+   </div>
 </section>
 <div class="BrdCrmb">
-  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a></p>
+  <p><a href="http://specialtycarelive.com/">Home</a>&nbsp; /  &nbsp;<a href="http://specialtycarelive.com/blog/">Blog</a>  /  &nbsp;<a href="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/">Rheumatoid Arthritis</a></p>
 </div>
-<section class="Mn_blg">
+<section class="BlgStrt">
   <div class="container">
-    <div class="row">
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/rhe5.jpg"></div>
-          <div class="Txtsec">
-            <h4>Rheumatoid Arthritis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Rheumatoid arthritis is a chronic inflammatory disorder that might affect more than just your joints. In some people, the condition might damage a wide variety of body systems, including the skin, eyes, lungs, heart and blood vessels. An autoimmune disease, rheumatoid arthritis happens when your immune system mistakenly attacks your own body's tissues.</p>
-            <a href="../blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
+    <div class="ShaInfo">
+      <div class="row">
+        <div class="col-sm-6 text-left">
+          <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>          
+        </div>
+        <div class="col-sm-6 text-right">
+          <div class="fb-share-button" 
 data-href="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/" 
 data-layout="button_count">
 </div>
@@ -262,111 +297,155 @@ data-layout="button_count">
 <script type="IN/Share" data-url="http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/"></script>
 </div>
 <div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/what-is-rheumatoid-arthritis-symptoms-causes-treatment/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/bt0.jpg"></div>
-          <div class="Txtsec">
-            <h4>Bursitis Treatment</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 2/9/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">The most common locations of bursitis are the hips, shoulders, knees, elbows, and heels of our foot. Among these, bursitis in hips is the most dangerous and can decrease mobility. There are two types of hip bursitis - trochanteric bursitis and iliopsoas bursa. </p>
-            <a href="../blog/bursitis-treatment/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/bursitis-treatment/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/bursitis-treatment/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/bursitis-treatment/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/ost3.jpg"></div>
-          <div class="Txtsec">
-            <h4>Osteoarthritis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 8/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Osteoarthritis is the most common arthritis throughout the world and is caused by natural wear-and-tear of the bones and joints of your body. It is also called a degenerative joint disease because it mainly affects the joints of your knees, hips, hands, and spine.</p>
-            <a href="../blog/osteoarthritis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/osteoarthritis/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/osteoarthritis/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/osteoarthritis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/burst1.jpg"></div>
-          <div class="Txtsec">
-            <h4>Bursitis</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 28/7/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Bursa is a fluid-filled sac located near tendons, bones & muscles which acts as shock-absorbers for our body movements. When they get swollen to the point of being painful, that condition is called bursitis. They are located throughout our body near joints and therefore, bursitis can happen anywhere in the body.</p>
-            <a href="../blog/bursitis/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/bursitis/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/bursitis/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/bursitis/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
-        </div>
-      </div>
-      <div class="col-sm-4">
-        <div class="InnBlgLis">
-          <div><img src="../assets/images/blog/neck-pain.jpg"></div>
-          <div class="Txtsec">
-            <h4>Degenerative Disc Disease</h4>
-            <p class="DteSec"><span><i class="fa fa-clock-o" aria-hidden="true"></i> 24/6/2020</span> <span><i class="fa fa-user-o" aria-hidden="true"></i> Sophia Hogg</span></p>
-            <p class="CuHei">Degenerative disc disease is also called degeneration of the spinal disc as a result of natural processes of wear and tear & aging. While the condition progresses with age, mostly the pain associated with it progresses too.</p>
-            <a href="../blog/degenerative-disc-disease/">Learn more &nbsp;<i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-            <hr class="hrshr">
-            <div class="fb-share-button" 
-data-href="http://specialtycarelive.com/blog/degenerative-disc-disease/" 
-data-layout="button_count">
-</div>
-<div class="DBlk">
-  <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
-<script type="IN/Share" data-url="http://specialtycarelive.com/blog/degenerative-disc-disease/"></script>
-</div>
-<div class="DBlk2"><a href="https://twitter.com/share?ref_src=http://specialtycarelive.com/blog/degenerative-disc-disease/" class="twitter-share-button" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-          </div>
         </div>
       </div>
     </div>
+    <h1>Rheumatoid Arthritis</h1>
+    <h3 class="h3bgh">What is Rheumatoid Arthritis?</h3>
+    <p><a href="http://specialtycarelive.com/orthopedics/">Rheumatoid arthritis</a> is a chronic inflammatory disorder that might affect more than just your joints. In some people, the condition might damage a wide variety of body systems, including the skin, eyes, lungs, heart and blood vessels. An autoimmune disease, rheumatoid arthritis happens when your immune system mistakenly attacks your own body's tissues.</p>
+    <p>Unlike the wear and tear damage of osteoarthritis, rheumatoid arthritis damages the lining of your joints, causing a painful swelling that might eventually result in bone erosion and joint deformity.</p>
+    <p>The inflammation related with rheumatoid arthritis is what can damage other parts of the body as well. While new types of medications have improved treatment options dramatically, severe rheumatoid arthritis might still cause physical disabilities.</p>
+    <a href="http://specialtycarelive.com/contact-us/" class="ReqCllbck">Request a callback</a>
+  </div>  
+</section> 
+<section class="lftRig">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6">
+        <h3>Rheumatoid Arthritis Symptoms</h3>
+        <p>Symptoms of rheumatoid arthritis might include:</p>
+        <ul>
+          <li><p>Tender, warm, inflamed joints</p></li>
+          <li><p>Joint solidness that is often worse in the mornings and after inactivity</p></li>
+          <li><p>Fatigue, fever and loss of hunger</p></li>
+        </ul>        
+      </div>
+      <div class="col-sm-6"><img src="../../assets/images/blog/rhe0.jpg"></div>
+    </div>
   </div>
 </section>
+<section class="BlgStrt">
+  <div class="container">
+    <p>Early rheumatoid arthritis tends to damage your smaller joints first — especially the joints that attach your fingers to your hands and your toes to your feet. As the disease progresses, symptoms usually spread to the wrists, knees, ankles, elbows, hips and shoulders. In most cases, symptoms happen in the same joints on both sides of your body.</p>
+    <p> About 40 percent of the people who have rheumatoid arthritis also experience signs and symptoms that do not involve the joints. Rheumatoid arthritis might affect many non-joint structures, including:</p>
+    <br>
+    <ul>
+      <li>1. Skin</li>
+      <li>2. Eyes</li>
+      <li>3. Lungs</li>
+      <li>4. Heart</li>
+      <li>5. Kidneys</li>
+      <li>6. Salivary glands</li>
+      <li>7. Nerve tissue</li>
+      <li>8. Bone marrow</li>
+      <li>9. Blood vessels</li>
+    </ul><br>
+    <p>Rheumatoid arthritis signs and symptoms might vary in severity and might even come and go. Periods of increased disease activity, called flares, alternate with periods of relative remission — when the inflammation and pain fade or disappear. Over time, rheumatoid arthritis might cause joints to deform and shift out of place.</p>
+    <br><br>
+    <h3 class="h3bgh">When should you see a doctor?</h3>
+    <p>Book an appointment with your doctor or primary care physician if you have persistent discomfort and swelling in your joints.</p>
+  </div>  
+</section>
+<section class="lftRig PAdB0">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6"><img src="../../assets/images/blog/rhe1.jpg"></div>
+      <div class="col-sm-6">
+        <h3 class="marT28">Rheumatoid Arthritis Causes</h3>
+        <p>Rheumatoid arthritis happens when your immune system attacks the synovium — the lining of the membranes that surround your joints. The resulting swelling thickens the synovium, which might eventually destroy the cartilage and bone within the joint. The tendons and ligaments which holds the joint together weaken and stretch. Slowly, the joint loses its shape and alignment.</p>
+        <p>Doctors do not know what starts this process, although a genetic component appears likely. While your genes do not actually cause rheumatoid arthritis, they can make you more susceptible to environmental factors — such as infection with certain viruses and bacteria — that might trigger the disease.</p>
+      </div>      
+    </div>
+  </div>
+</section>
+<section class="lftRig">
+  <div class="container">
+    <div class="row">      
+      <div class="col-sm-6">
+        <h3>Rheumatoid Arthritis Diagnosis</h3>
+        <p>Rheumatoid arthritis might be difficult to diagnose in its early stages because the early signs and symptoms mimic those of many other diseases. There is no one fixed blood test or physical finding to confirm the diagnosis of rheumatoid arthritis.</p>
+        <p>During the physical examination, your primary care physician will check your joints for inflammation, redness and warmth. He or she might also check your reflexes and muscle strength.</p>
+      </div>
+      <div class="col-sm-6"><img src="../../assets/images/blog/rhe2.jpg"></div>      
+    </div>
+  </div>
+</section>
+<section class="BlgStrt">
+  <div class="container">
+    <h3 class="h3bgh">Blood tests</h3>
+    <p>People with rheumatoid arthritis usually have an elevated erythrocyte sedimentation rate (ESR, or sed rate) or C-reactive protein (CRP), which might indicate the presence of an inflammatory process in the body. Other common blood tests look for rheumatoid factor and anti-cyclic citrullinated peptide or (anti-CCP) antibodies.</p><br>
+
+    <h3 class="h3bgh">Imaging tests</h3>
+    <p>Your primary care physician might recommend X-rays to help track the progression of rheumatoid arthritis in your joints over time. MRI and ultrasound tests can help your primary care physician judge the seriousness of the disease in your body.</p><br>
+
+    <h3 class="h3bgh">Rheumatoid Arthritis Treatment</h3>
+    <p>There is no cure for rheumatoid arthritis. But clinical studies suggest that remission of symptoms is more likely when treatment begins early with medications known as disease-modifying anti-rheumatic drugs (DMARDs).</p>
+  </div>  
+</section>
+<section class="lftRig">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="marT28">Medications</h3>
+        <p>The types of medications recommended by your doctor will depend on the seriousness of your symptoms and how long you have had rheumatoid arthritis.</p><br>
+        <ul>
+          <li><p><b>NSAIDs -</b> Nonsteroidal anti-inflammatory drugs (NSAIDs) might relieve pain and reduce inflammation. Over the counter NSAIDs includes ibuprofen (Advil, Motrin IB) and naproxen sodium (Aleve). Stronger NSAIDs are available by prescription. Side effects can include stomach irritation, heart problems and kidney damage.</p></li>
+          <li><p><b>Steroids -</b>Corticosteroid medications, such as prednisone, reduce swelling and pain and slow joint damage. Side effects can include thinning of bones, weight gain and diabetes. Doctors usually prescribe a corticosteroid to relieve acute symptoms, with the goal of gradually tapering off the medication.</p></li>
+          <li><p><b>Disease-modifying antirheumatic drugs (DMARDs) -</b>These drugs might slow the progression of rheumatoid arthritis and save the joints and other tissues from permanent damage. Common DMARDs include methotrexate (Trexall, Otrexup, others), leflunomide (Arava), hydroxychloroquine (Plaquenil) and sulfasalazine (Azulfidine). Side effects vary but might include liver damage, bone marrow suppression and severe lung infections.</p></li>
+          <li><p><b>Biologic agents -</b>Also known as biologic response modifiers, this newer class of DMARDs includes abatacept (Orencia), adalimumab (Humira), anakinra (Kineret), baricitinib (Olumiant), certolizumab (Cimzia), etanercept (Enbrel), golimumab (Simponi), infliximab (Remicade), rituximab (Rituxan), sarilumab (Kevzara), tocilizumab (Actemra) and tofacitinib (Xeljanz).</p></li>
+        </ul><br>
+        <p>These drugs can target parts of the immune system that trigger swelling that causes joint and tissue damage. These types of drugs may increase the risk of infections.</p>
+        <p>In people with rheumatoid arthritis, higher doses of tofacitinib may increase the risk of blood clots in the lungs. Biologic DMARDs are often most effective when paired with a nonbiologic DMARD, such as methotrexate.</p>
+      </div>      
+    </div>
+  </div>
+</section>
+<section class="lftRig PAdB0">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-6"><img src="../../assets/images/blog/rhe4.jpg"></div>
+      <div class="col-sm-6">
+        <h3 class="marT28">Therapy</h3>
+        <p>Your doctor might send you to a physical or occupational therapist who can teach you exercises to help keep your joints flexible. The therapist might also suggest new ways to do daily tasks, which will be easier on your joints. For example, you might want to pick up an object using your forearms.</p>
+        <p>Assistive devices may make it easier to avoid stressing your painful joints. For instance, a kitchen knife equipped with a hand grip helps to protect your finger and wrist joints. Certain tools, such as buttonhooks, might make it easier to get dressed. Catalogues and medical supply stores are good places to look for ideas.</p>
+      </div>      
+    </div>
+  </div>
+</section>
+<section class="lftRig">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h3 class="marT28">Surgery</h3>
+        <p>If medications fail to prevent or slow joint damage, you and your primary care physician might consider surgery to repair damaged joints. Surgery can help restore your ability to use your joint. It can also reduce the pain and improve the function.</p>
+        <p>Rheumatoid arthritis surgery might involve one or more of the following procedures:</p><br>
+        <ul>
+          <li><p><b>Synovectomy -</b>Surgery to remove the inflamed lining of the joint (synovium) might be performed on knees, elbows, wrists, fingers and hips.</p></li>
+          <li><p><b>Tendon repair -</b>Inflammation and joint damage might cause tendons around your joint to loosen or rupture. Your surgeon might be able to repair the tendons around your joint.</p></li>
+          <li><p><b>Joint fusion -</b>Surgically fusing a joint might be recommended to stabilize or realign a joint and for pain relief when a joint replacement is not an option.</p></li>
+          <li><p><b>Total joint replacement -</b>During joint replacement surgery, your surgeon removes the damaged parts of your joint and inserts a prosthesis made up of metal and plastic.</p></li>
+        </ul><br>
+        <p>Surgery brings a risk of bleeding, infection and pain. Discuss the benefits and risks with your primary care physician.</p>
+      </div>      
+    </div>
+  </div>
+</section>
+<section class="BlgStrtLast">
+  <div class="container">
+    <p>If you or anyone you know is suffering from orthopedics related problems such as rheumatoid arthritis, the expert providers at Specialty Care Live take care of your health and help you recover.</p>
+    <p>Call <a href="tel:469-5458645">469-5458645</a> to book a telehealth appointment for an at-home check-up. You can <a href="http://specialtycarelive.com/contact-us/">request a callback from us</a> too.</p>
+  </div>  
+</section>
+
 
 
   
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <script src="../../assets/slider/sweetalert.min.js"></script> 
 
  <?php
-include("../footer.php");
+include("../../footer.php");
 ?>
   
 </div>
